@@ -352,7 +352,7 @@ fs.writeFileSync(
 
 // ------------------------------------------------------ characters page gen
 
-const card = (ch, role, fromDepth = 1) => {
+const card = (ch, role, fromDepth = 0) => {
   const url = pageUrlByName(ch.name, fromDepth)
   const img = portraitUrl(ch.name, fromDepth)
   return `<a class="char-card" href="${url}"><img src="${img}" alt="${ch.name}" loading="lazy"><div class="char-card-text"><div class="char-card-name">${ch.name}</div>${role ? `<div class="char-card-role">${role}</div>` : ""}</div></a>`
@@ -418,7 +418,7 @@ for (const group of FACTION_GROUPS) {
     const members = membersOf(orgName)
     if (!members.length) continue
     members.forEach((m) => inFaction.add(m.name))
-    const orgUrl = pageUrlByName(orgName, 1)
+    const orgUrl = pageUrlByName(orgName, 0)
     parts.push(banner(`<a href="${orgUrl}">${orgName}</a>`))
     parts.push(grid(members.map((ch) => card(ch, roleOf(orgName, ch.name)))))
   }
@@ -433,7 +433,7 @@ const godRole = (ch) => {
 }
 if (gods.length) {
   sections.push(`## The Pantheon\n`)
-  sections.push(banner(`<a href="${pageUrlByName("Pantheon of Gods", 1)}">Pantheon of Gods</a>`))
+  sections.push(banner(`<a href="${pageUrlByName("Pantheon of Gods", 0)}">Pantheon of Gods</a>`))
   sections.push(grid(gods.map((ch) => card(ch, godRole(ch)))))
 }
 
@@ -441,7 +441,7 @@ if (gods.length) {
 const demons = characters.filter((ch) => ["demon", "demon-general"].includes(ch.fm.type)).sort(byName)
 if (demons.length) {
   sections.push(`## Demons\n`)
-  sections.push(banner(`<a href="${pageUrlByName("The Twelve Demon Generals", 1)}">Demons & Demon Generals</a>`))
+  sections.push(banner(`<a href="${pageUrlByName("The Twelve Demon Generals", 0)}">Demons & Demon Generals</a>`))
   sections.push(grid(demons.map((ch) => card(ch, roleOf("The Twelve Demon Generals", ch.name)))))
 }
 
@@ -460,7 +460,7 @@ if (unaffiliated.length) {
 }
 
 fs.writeFileSync(
-  path.join(OUT, "Characters", "index.md"),
+  path.join(OUT, "All Characters.md"),
   `---
 title: "Characters"
 ---
@@ -474,7 +474,7 @@ ${sections.join("\n\n")}
 // ------------------------------------------------------------------ homepage
 
 const navCard = (title, slug, desc) =>
-  `<a class="nav-card" href="./${slug}"><div class="nav-card-title">${title}</div><div class="nav-card-desc">${desc}</div></a>`
+  `<a class="nav-card" href="./${slugSegment(slug)}"><div class="nav-card-title">${title}</div><div class="nav-card-desc">${desc}</div></a>`
 
 fs.writeFileSync(
   path.join(OUT, "index.md"),
@@ -488,7 +488,7 @@ title: "The Eldoria Expanse"
 </div>
 
 <div class="nav-grid">
-${navCard("Characters", "Characters", "Every hero, noble, god, and demon — grouped by faction")}
+${navCard("Characters", "All Characters", "Every hero, noble, god, and demon — grouped by faction")}
 ${navCard("Story", "Story", "Session chronicles, side stories, and major events")}
 ${navCard("Locations", "Locations", "The continents, kingdoms, and cities of Eldoria")}
 ${navCard("Organizations", "Organizations", "The Kingsguard, noble houses, churches, and more")}
