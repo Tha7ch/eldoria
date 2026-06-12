@@ -5,7 +5,7 @@ aliases:
 type: "player-character"
 campaign:
   - "2"
-player: "you"
+player: "Trace"
 race: "Human"
 age: "23"
 height: "6'1"
@@ -21,7 +21,7 @@ title: "Tirian Dawnmere"
 <aside class="infobox">
 <img src="../portraits/tirian-dawnmere.webp" alt="Tirian Dawnmere">
 <div class="infobox-name">Tirian Dawnmere</div>
-<table><tr><th>Aliases</th><td>Tirian, Noctis</td></tr><tr><th>Race</th><td>Human</td></tr><tr><th>Age</th><td>23</td></tr><tr><th>Height</th><td>6'1</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../organizations/noble-houses/house-dawnmere">House Dawnmere</a><br><a href="../locations/countries/brittania">Brittania</a><br><a href="../organizations/churches/church-of-light">Church of Light</a><br><a href="../locations/institutions/strixhaven">Strixhaven</a></td></tr><tr><th>Campaign</th><td>2</td></tr></table>
+<table><tr><th>Aliases</th><td>Tirian, Noctis</td></tr><tr><th>Race</th><td>Human</td></tr><tr><th>Age</th><td>23</td></tr><tr><th>Height</th><td>6'1</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../organizations/noble-houses/house-dawnmere">House Dawnmere</a><br><a href="../locations/countries/brittania">Brittania</a><br><a href="../organizations/churches/church-of-light">Church of Light</a><br><a href="../locations/institutions/strixhaven">Strixhaven</a></td></tr><tr><th>Player</th><td>Trace</td></tr><tr><th>Campaign</th><td>2</td></tr></table>
 </aside>
 
 

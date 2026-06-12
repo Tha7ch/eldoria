@@ -1,5 +1,5 @@
 ---
-title: "The Crooked Boar"
+title: "Kaisel - The Crooked Boar"
 author: "Tre"
 campaign:
   - "2"

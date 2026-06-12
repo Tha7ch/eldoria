@@ -1,7 +1,7 @@
 ---
 aliases:
   - "The Demon Prince"
-type: "character"
+type: "demon"
 campaign:
   - "1"
 race: "half-demon, half-angel"
@@ -16,7 +16,7 @@ title: "Luciferus"
 <aside class="infobox">
 <img src="../../portraits/placeholder.svg" alt="Luciferus">
 <div class="infobox-name">Luciferus</div>
-<table><tr><th>Aliases</th><td>The Demon Prince</td></tr><tr><th>Race</th><td>half-demon, half-angel</td></tr><tr><th>Affiliation</th><td><a href="#">The Twelve Demon Generals</a></td></tr><tr><th>Campaign</th><td>1</td></tr></table>
+<table><tr><th>Aliases</th><td>The Demon Prince</td></tr><tr><th>Race</th><td>half-demon, half-angel</td></tr><tr><th>Affiliation</th><td><a href="../../organizations/the-twelve-demon-generals">The Twelve Demon Generals</a></td></tr><tr><th>Campaign</th><td>1</td></tr></table>
 </aside>
 
 

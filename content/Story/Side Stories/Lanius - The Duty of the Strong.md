@@ -1,5 +1,5 @@
 ---
-title: "The Duty of the Strong"
+title: "Lanius - The Duty of the Strong"
 author: "Migs (DM)"
 campaign:
   - "1"

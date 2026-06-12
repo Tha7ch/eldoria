@@ -17,7 +17,7 @@ House Galefri is a noble house in [[Brittania]] with strong ties to the [[Church
 - [[Torr Galefri]] — head of the house and head of [[Church of the Storm]]
 - [[Arashi Galefri]] — eldest son
 - [[Whiro Galefri]] — second son
-- [[Aella Galefri]] — daughter; estranged, banished from the church, does not use the name
+- [[Aella Galefri]] — daughter (banished); estranged, does not use the family name
 - [[Urami Galefri]] — wife of Torr
 
 ## Relationships

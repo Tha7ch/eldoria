@@ -1,5 +1,5 @@
 ---
-title: "Prologue: The Boy Who Chased the Unknown"
+title: "Garrick - The Boy Who Chased the Unknown"
 author: "Gio"
 campaign:
   - "2"

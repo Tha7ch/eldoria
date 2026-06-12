@@ -1,5 +1,5 @@
 ---
-title: "What She Inherited"
+title: "Tirian - What She Inherited"
 author: "DM"
 campaign:
   - "2"

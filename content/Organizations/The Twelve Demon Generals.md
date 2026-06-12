@@ -4,7 +4,7 @@ campaign:
   - "1"
   - "2"
 status: "active"
-title: "The Demon Generals"
+title: "The Twelve Demon Generals"
 ---
 
 ## Overview

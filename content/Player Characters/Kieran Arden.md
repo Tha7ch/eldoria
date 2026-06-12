@@ -4,7 +4,7 @@ aliases:
 type: "player-character"
 campaign:
   - "1"
-player: "unknown"
+player: "Marco"
 race: "Dhampir"
 age: "unknown"
 height: "unknown"
@@ -18,7 +18,7 @@ title: "Kieran Arden"
 <aside class="infobox">
 <img src="../portraits/kieran-arden.webp" alt="Kieran Arden">
 <div class="infobox-name">Kieran Arden</div>
-<table><tr><th>Aliases</th><td>Kieran</td></tr><tr><th>Race</th><td>Dhampir</td></tr><tr><th>Status</th><td><span class="spoiler" tabindex="0" title="Click to reveal">deceased (presumed)</span></td></tr><tr><th>Affiliation</th><td><a href="../organizations/honest-hearts">Honest Hearts</a></td></tr><tr><th>Campaign</th><td>1</td></tr></table>
+<table><tr><th>Aliases</th><td>Kieran</td></tr><tr><th>Race</th><td>Dhampir</td></tr><tr><th>Status</th><td><span class="spoiler" tabindex="0" title="Click to reveal">deceased (presumed)</span></td></tr><tr><th>Affiliation</th><td><a href="../organizations/honest-hearts">Honest Hearts</a></td></tr><tr><th>Player</th><td>Marco</td></tr><tr><th>Campaign</th><td>1</td></tr></table>
 </aside>
 
 

@@ -12,13 +12,13 @@ affiliation:
   - "[[Wylder]]"
   - "[[House Irvenest]]"
 status: "alive"
-title: "Kaisel"
+title: "Kaisel Irvenest"
 ---
 
 <aside class="infobox">
-<img src="../portraits/kaisel.webp" alt="Kaisel">
-<div class="infobox-name">Kaisel</div>
-<table><tr><th>Aliases</th><td>Kaisel Irvenest</td></tr><tr><th>Age</th><td>20</td></tr><tr><th>Height</th><td>6'3</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../characters/gods/wylder">Wylder</a><br><a href="../organizations/noble-houses/house-irvenest">House Irvenest</a></td></tr><tr><th>Player</th><td>Tre</td></tr><tr><th>Campaign</th><td>2</td></tr></table>
+<img src="../portraits/kaisel-irvenest.webp" alt="Kaisel Irvenest">
+<div class="infobox-name">Kaisel Irvenest</div>
+<table><tr><th>Aliases</th><td>Kaisel</td></tr><tr><th>Age</th><td>20</td></tr><tr><th>Height</th><td>6'3</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../characters/gods/wylder">Wylder</a><br><a href="../organizations/noble-houses/house-irvenest">House Irvenest</a></td></tr><tr><th>Player</th><td>Tre</td></tr><tr><th>Campaign</th><td>2</td></tr></table>
 </aside>
 
 

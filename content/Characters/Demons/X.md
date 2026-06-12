@@ -2,7 +2,7 @@
 aliases:
   - "X, Wielder of አስማት"
   - "Wielder of አስማት"
-type: "character"
+type: "demon-general"
 campaign:
   - "1"
 race: "demon"
@@ -17,7 +17,7 @@ title: "X"
 <aside class="infobox">
 <img src="../../portraits/placeholder.svg" alt="X">
 <div class="infobox-name">X</div>
-<table><tr><th>Aliases</th><td>X, Wielder of አስማት, Wielder of አስማት</td></tr><tr><th>Race</th><td>demon</td></tr><tr><th>Affiliation</th><td><a href="#">The Twelve Demon Generals</a></td></tr><tr><th>Campaign</th><td>1</td></tr></table>
+<table><tr><th>Aliases</th><td>X, Wielder of አስማት, Wielder of አስማት</td></tr><tr><th>Race</th><td>demon</td></tr><tr><th>Affiliation</th><td><a href="../../organizations/the-twelve-demon-generals">The Twelve Demon Generals</a></td></tr><tr><th>Campaign</th><td>1</td></tr></table>
 </aside>
 
 

@@ -4,7 +4,7 @@ aliases:
 type: "player-character"
 campaign:
   - "1"
-player: "unknown"
+player: "Sunn"
 race: "Human"
 age: "unknown"
 height: "5'7"
@@ -17,7 +17,7 @@ title: "Solstice Shuriv"
 <aside class="infobox">
 <img src="../portraits/solstice-shuriv.webp" alt="Solstice Shuriv">
 <div class="infobox-name">Solstice Shuriv</div>
-<table><tr><th>Aliases</th><td>Solstice</td></tr><tr><th>Race</th><td>Human</td></tr><tr><th>Height</th><td>5'7</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../organizations/honest-hearts">Honest Hearts</a></td></tr><tr><th>Campaign</th><td>1</td></tr></table>
+<table><tr><th>Aliases</th><td>Solstice</td></tr><tr><th>Race</th><td>Human</td></tr><tr><th>Height</th><td>5'7</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../organizations/honest-hearts">Honest Hearts</a></td></tr><tr><th>Player</th><td>Sunn</td></tr><tr><th>Campaign</th><td>1</td></tr></table>
 </aside>
 
 

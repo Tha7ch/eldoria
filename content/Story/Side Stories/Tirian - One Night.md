@@ -1,5 +1,5 @@
 ---
-title: "One Night"
+title: "Tirian - One Night"
 author: "Claude (written with player direction)"
 campaign:
   - "2"

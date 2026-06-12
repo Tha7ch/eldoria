@@ -7,11 +7,12 @@ aliases:
 type: "player-character"
 campaign:
   - "1"
-player: "unknown"
+player: "Jeff"
 race: "Half-Elf"
 age: "21"
 height: "5'9"
 affiliation:
+  - "[[House Galefri]]"
   - "[[Honest Hearts]]"
   - "[[Church of the Storm]]"
 status: "alive"
@@ -21,7 +22,7 @@ title: "Aella Galefri"
 <aside class="infobox">
 <img src="../portraits/aella-galefri.webp" alt="Aella Galefri">
 <div class="infobox-name">Aella Galefri</div>
-<table><tr><th>Aliases</th><td>Aella, Lady Aella, Lady Galefri, Aella the Betrayer</td></tr><tr><th>Race</th><td>Half-Elf</td></tr><tr><th>Age</th><td>21</td></tr><tr><th>Height</th><td>5'9</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../organizations/honest-hearts">Honest Hearts</a><br><a href="../organizations/churches/church-of-the-storm">Church of the Storm</a></td></tr><tr><th>Campaign</th><td>1</td></tr></table>
+<table><tr><th>Aliases</th><td>Aella, Lady Aella, Lady Galefri, Aella the Betrayer</td></tr><tr><th>Race</th><td>Half-Elf</td></tr><tr><th>Age</th><td>21</td></tr><tr><th>Height</th><td>5'9</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../organizations/noble-houses/house-galefri">House Galefri</a><br><a href="../organizations/honest-hearts">Honest Hearts</a><br><a href="../organizations/churches/church-of-the-storm">Church of the Storm</a></td></tr><tr><th>Player</th><td>Jeff</td></tr><tr><th>Campaign</th><td>1</td></tr></table>
 </aside>
 
 

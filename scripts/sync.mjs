@@ -34,7 +34,6 @@ const EXCLUDED_FILES = new Set(
     "Misc Notes/Image Generation Guide.md",
     "Misc Notes/Image Registry.md",
     "Misc Notes/Tirian - Story Roadmap.md",
-    "Player Characters/Leandros Thalassor.md", // future PC concept
   ].map((p) => p.toLowerCase()),
 )
 
@@ -168,7 +167,9 @@ const mdFiles = allFiles.filter(
 const notes = new Map()
 for (const rel of mdFiles) {
   const { fm, body } = parseNote(path.join(VAULT, rel))
-  const name = fm.name || fm.title || path.basename(rel, ".md")
+  // the file name is the canonical full name (matches wikilink targets);
+  // prefer it over a shorter frontmatter `name`
+  const name = path.basename(rel, ".md")
   notes.set(rel, { fm, body, name, rel, outRel: remapRel(rel) })
 }
 
@@ -240,6 +241,7 @@ function infoboxHtml(ch, depth) {
   }
   const show = (v) => (v && String(v).toLowerCase() !== "unknown" ? String(v) : "")
   const aliases = asList(fm.aliases).filter((a) => a !== ch.name)
+  if (fm.name && fm.name !== ch.name && !aliases.includes(fm.name)) aliases.unshift(fm.name)
   row("Aliases", aliases.join(", "))
   row("Race", show(fm.race))
   row("Age", show(fm.age))
@@ -363,11 +365,23 @@ const banner = (title) => `<div class="faction-banner">${title}</div>`
 
 const byName = (a, b) => a.name.localeCompare(b.name)
 
-// membership: character whose affiliation contains org name
-const membersOf = (orgName) =>
-  characters
+// membership: character whose affiliation contains org name, sorted by
+// standing — the order they're listed on the org page (Leadership first,
+// then Known Members), falling back to age (oldest first), then name
+const numAge = (ch) => {
+  const a = parseInt(ch.fm.age, 10)
+  return Number.isFinite(a) ? a : -1
+}
+const membersOf = (orgName) => {
+  const listing = [...(orgRoles.get(orgName)?.keys() ?? [])]
+  const standing = (ch) => {
+    const i = listing.indexOf(ch.name)
+    return i === -1 ? Infinity : i
+  }
+  return characters
     .filter((ch) => asList(ch.fm.affiliation).map(wikilinkName).includes(orgName))
-    .sort(byName)
+    .sort((a, b) => standing(a) - standing(b) || numAge(b) - numAge(a) || a.name.localeCompare(b.name))
+}
 
 const sections = []
 
@@ -387,6 +401,11 @@ for (const c of [1, 2]) {
   if (!group.length) continue
   sections.push(banner(`Campaign ${c}`))
   sections.push(grid(group.map((ch) => card(ch, pcRole(ch)))))
+}
+const futurePcs = pcs.filter((ch) => asList(ch.fm.campaign).length === 0).sort(byName)
+if (futurePcs.length) {
+  sections.push(banner("Future Campaigns"))
+  sections.push(grid(futurePcs.map((ch) => card(ch, pcRole(ch)))))
 }
 
 // --- faction groups
@@ -438,7 +457,15 @@ if (gods.length) {
 }
 
 // --- demons
-const demons = characters.filter((ch) => ["demon", "demon-general"].includes(ch.fm.type)).sort(byName)
+const DEMON_ORDER = ["Luciferus", "Null", "X", "Kronos"]
+const demons = characters
+  .filter((ch) => ["demon", "demon-general"].includes(ch.fm.type) || DEMON_ORDER.includes(ch.name))
+  .sort((a, b) => {
+    const ai = DEMON_ORDER.indexOf(a.name)
+    const bi = DEMON_ORDER.indexOf(b.name)
+    return (ai === -1 ? Infinity : ai) - (bi === -1 ? Infinity : bi) || a.name.localeCompare(b.name)
+  })
+demons.forEach((d) => inFaction.add(d.name))
 if (demons.length) {
   sections.push(`## Demons\n`)
   sections.push(banner(`<a href="${pageUrlByName("The Twelve Demon Generals", 0)}">Demons & Demon Generals</a>`))

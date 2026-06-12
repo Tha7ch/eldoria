@@ -7,7 +7,7 @@ aliases:
 type: "player-character"
 campaign:
   - "1"
-player: "you"
+player: "Trace"
 race: "Purple Tiefling"
 age: "19"
 height: "6'0"
@@ -21,7 +21,7 @@ title: "Cyris Voss"
 <aside class="infobox">
 <img src="../portraits/cyris-voss.webp" alt="Cyris Voss">
 <div class="infobox-name">Cyris Voss</div>
-<table><tr><th>Aliases</th><td>Cyris, Cyris Ashkel, Cyris the Fractured, The Prismari Prodigy</td></tr><tr><th>Race</th><td>Purple Tiefling</td></tr><tr><th>Age</th><td>19</td></tr><tr><th>Height</th><td>6'0</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../locations/institutions/strixhaven">Strixhaven</a><br><a href="../organizations/honest-hearts">Honest Hearts</a></td></tr><tr><th>Campaign</th><td>1</td></tr></table>
+<table><tr><th>Aliases</th><td>Cyris, Cyris Ashkel, Cyris the Fractured, The Prismari Prodigy</td></tr><tr><th>Race</th><td>Purple Tiefling</td></tr><tr><th>Age</th><td>19</td></tr><tr><th>Height</th><td>6'0</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../locations/institutions/strixhaven">Strixhaven</a><br><a href="../organizations/honest-hearts">Honest Hearts</a></td></tr><tr><th>Player</th><td>Trace</td></tr><tr><th>Campaign</th><td>1</td></tr></table>
 </aside>
 
 

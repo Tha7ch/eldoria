@@ -1,5 +1,5 @@
 ---
-type: "character"
+type: "demon-general"
 campaign:
   - "1"
 race: "demon"
@@ -14,7 +14,7 @@ title: "Kronos"
 <aside class="infobox">
 <img src="../../portraits/placeholder.svg" alt="Kronos">
 <div class="infobox-name">Kronos</div>
-<table><tr><th>Race</th><td>demon</td></tr><tr><th>Affiliation</th><td><a href="#">The Twelve Demon Generals</a></td></tr><tr><th>Campaign</th><td>1</td></tr></table>
+<table><tr><th>Race</th><td>demon</td></tr><tr><th>Affiliation</th><td><a href="../../organizations/the-twelve-demon-generals">The Twelve Demon Generals</a></td></tr><tr><th>Campaign</th><td>1</td></tr></table>
 </aside>
 
 
