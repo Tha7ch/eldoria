@@ -27,6 +27,7 @@ const IMAGES_DIR = "Eldoria Images"
 const EXCLUDED_FILES = new Set(
   [
     "CLAUDE.md",
+    "WIKI.md",
     "log.md",
     "index.md",
     "Misc Notes/Mysteries - Campaign 1.md",
