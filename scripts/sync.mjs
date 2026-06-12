@@ -186,7 +186,7 @@ for (const n of notes.values()) {
   if (!n.rel.startsWith("Organizations/")) continue
   orgPages.set(n.name, n.rel)
   const roles = new Map()
-  const sectionRe = /^##\s+(Leadership|Known Members)\s*$/
+  const sectionRe = /^##\s+(Leadership|Known Members|Associates)\s*$/
   let inSection = false
   for (const line of n.body.split(/\r?\n/)) {
     if (/^##\s/.test(line)) inSection = sectionRe.test(line.trim())
@@ -599,11 +599,19 @@ const eventRow = (n) => {
     parts.push(sectionHead("Side Stories"))
     parts.push(`<div class="tale-shelf">\n${sideStories.map(storyCard).join("\n")}\n</div>`)
   }
-  const dated = events.filter((n) => n.fm.date).sort((a, b) => String(a.fm.date).localeCompare(String(b.fm.date)))
-  const undated = events.filter((n) => !n.fm.date).sort(byName)
+  // chronological position: "N years/months before ..." -> years-ago value
+  const yearsAgo = (n) => {
+    const m = String(n.fm.date ?? "").match(/([\d.]+)\s*(year|month|day)s?\s+before/i)
+    if (!m) return null
+    const mult = { year: 1, month: 1 / 12, day: 1 / 365 }[m[2].toLowerCase()]
+    return parseFloat(m[1]) * mult
+  }
+  const dated = events.filter((n) => yearsAgo(n) !== null).sort((a, b) => yearsAgo(b) - yearsAgo(a))
+  const undated = events.filter((n) => yearsAgo(n) === null).sort(byName)
   if (events.length) {
     parts.push(sectionHead("Timeline of Events"))
     parts.push(`<div class="timeline">\n${[...dated, ...undated].map(eventRow).join("\n")}\n</div>`)
+    parts.push(`<div class="tl-note">…more events of Eldoria's history are yet to be chronicled.</div>`)
   }
   writeLanding("Chronicles.md", "The Chronicles", parts.join("\n\n") + "\n\n" + FLOURISH)
 }
@@ -654,9 +662,9 @@ const eventRow = (n) => {
     const t = String(n.fm.type ?? "")
     if (n.rel.includes("Noble Houses/")) return "Noble Houses"
     if (n.rel.includes("Churches/") || ["religious", "divine"].includes(t)) return "Churches & the Divine"
+    if (["The Kingsguard", "King's Crown"].includes(n.name)) return "The Crown & the Realm"
     if (/demon/i.test(n.name) || ["secret", "criminal", "rebel", "guild"].includes(t)) return "Factions & Guilds"
-    if (["kingdom", "military", "political"].includes(t) || ["The Kingsguard", "King's Crown"].includes(n.name))
-      return "The Crown & the Realm"
+    if (["kingdom", "military", "political"].includes(t)) return "The Crown & the Realm"
     return "Factions & Guilds"
   }
   const leaderOf = (n) => {

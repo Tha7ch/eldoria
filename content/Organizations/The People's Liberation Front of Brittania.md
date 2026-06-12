@@ -33,7 +33,7 @@ End the classism of [[Brittania]] — by any means necessary. They started as pe
 
 ## Associates
 
-- [[Callum]] — not a full member; shares common goals and collaborates with them on occasion
+- [[Callum]] — collaborator; not a full member, shares common goals and works with them on occasion
 - [[Veyr]] — information broker; not aligned with their cause and views them as dangerous idealists, but sold [[Lanius]] information once for an absurd price, which he paid
 
 ## History

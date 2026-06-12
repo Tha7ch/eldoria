@@ -44,9 +44,9 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <div class="faction-banner"><a href="organizations/king's-crown">King's Crown</a></div>
 
 <div class="char-grid">
+<a class="char-card" href="characters/lucerin-atreides"><img src="portraits/lucerin-atreides.webp" alt="Lucerin Atreides" loading="lazy"><div class="char-card-text"><div class="char-card-name">Lucerin Atreides</div><div class="char-card-role">King</div></div></a>
 <a class="char-card" href="characters/the-high-septon"><img src="portraits/placeholder.svg" alt="The High Septon" loading="lazy"><div class="char-card-text"><div class="char-card-name">The High Septon</div><div class="char-card-role">pope-like religious authority</div></div></a>
 <a class="char-card" href="characters/oldric-ameris"><img src="portraits/placeholder.svg" alt="Oldric Ameris" loading="lazy"><div class="char-card-text"><div class="char-card-name">Oldric Ameris</div><div class="char-card-role">War Master</div></div></a>
-<a class="char-card" href="characters/lucerin-atreides"><img src="portraits/lucerin-atreides.webp" alt="Lucerin Atreides" loading="lazy"><div class="char-card-text"><div class="char-card-name">Lucerin Atreides</div></div></a>
 </div>
 
 ## Noble Houses
@@ -128,7 +128,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <a class="char-card" href="characters/backstory-npcs/amelia-irvenest"><img src="portraits/amelia-irvenest.webp" alt="Amelia Irvenest" loading="lazy"><div class="char-card-text"><div class="char-card-name">Amelia Irvenest</div><div class="char-card-role">(age 27)</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/elliot-irvenest"><img src="portraits/elliot-irvenest.webp" alt="Elliot Irvenest" loading="lazy"><div class="char-card-text"><div class="char-card-name">Elliot Irvenest</div><div class="char-card-role">(age 25)</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/eleanor-irvenest"><img src="portraits/eleanor-irvenest.webp" alt="Eleanor Irvenest" loading="lazy"><div class="char-card-text"><div class="char-card-name">Eleanor Irvenest</div><div class="char-card-role">(age 24)</div></div></a>
-<a class="char-card" href="characters/backstory-npcs/elizabeth-irvenest"><img src="portraits/elizabeth-irvenest.webp" alt="Elizabeth Irvenest" loading="lazy"><div class="char-card-text"><div class="char-card-name">Elizabeth Irvenest</div><div class="char-card-role">(age 22)</div></div></a>
+<a class="char-card" href="characters/backstory-npcs/elizabeth-irvenest"><img src="portraits/elizabeth-irvenest.webp" alt="Elizabeth Irvenest" loading="lazy"><div class="char-card-text"><div class="char-card-name">Elizabeth Irvenest</div><div class="char-card-role">adopted daughter (age 22)</div></div></a>
 <a class="char-card" href="player-characters/kaisel-irvenest"><img src="portraits/kaisel-irvenest.webp" alt="Kaisel Irvenest" loading="lazy"><div class="char-card-text"><div class="char-card-name">Kaisel Irvenest</div><div class="char-card-role">adopted son (age 20)</div></div></a>
 </div>
 
@@ -182,7 +182,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <a class="char-card" href="characters/asterin-raymor"><img src="portraits/placeholder.svg" alt="Asterin Raymor" loading="lazy"><div class="char-card-text"><div class="char-card-name">Asterin Raymor</div><div class="char-card-role">High Priest</div></div></a>
 <a class="char-card" href="characters/kingsguard/lucius-raymor"><img src="portraits/lucius-raymor.webp" alt="Lucius Raymor" loading="lazy"><div class="char-card-text"><div class="char-card-name">Lucius Raymor</div><div class="char-card-role">Chosen of Aria</div></div></a>
 <a class="char-card" href="player-characters/tirian-dawnmere"><img src="portraits/tirian-dawnmere.webp" alt="Tirian Dawnmere" loading="lazy"><div class="char-card-text"><div class="char-card-name">Tirian Dawnmere</div><div class="char-card-role">public affiliate (Campaign 2)</div></div></a>
-<a class="char-card" href="player-characters/aevos"><img src="portraits/aevos.webp" alt="Aevos" loading="lazy"><div class="char-card-text"><div class="char-card-name">Aevos</div><div class="char-card-role">Church prodigy, underwent divine experimental rites (Campaign 2)</div></div></a>
+<a class="char-card" href="player-characters/aevos"><img src="portraits/aevos.webp" alt="Aevos" loading="lazy"><div class="char-card-text"><div class="char-card-name">Aevos</div><div class="char-card-role">Chosen of Aria</div></div></a>
 </div>
 
 <div class="faction-banner"><a href="organizations/churches/church-of-love">Church of Love</a></div>
@@ -211,7 +211,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <div class="char-grid">
 <a class="char-card" href="characters/lanius"><img src="portraits/lanius.webp" alt="Lanius" loading="lazy"><div class="char-card-text"><div class="char-card-name">Lanius</div><div class="char-card-role">head of the organization</div></div></a>
 <a class="char-card" href="characters/roland-royce"><img src="portraits/roland-royce.webp" alt="Roland Royce" loading="lazy"><div class="char-card-text"><div class="char-card-name">Roland Royce</div><div class="char-card-role">acting chief</div></div></a>
-<a class="char-card" href="player-characters/callum"><img src="portraits/callum.webp" alt="Callum" loading="lazy"><div class="char-card-text"><div class="char-card-name">Callum</div></div></a>
+<a class="char-card" href="player-characters/callum"><img src="portraits/callum.webp" alt="Callum" loading="lazy"><div class="char-card-text"><div class="char-card-name">Callum</div><div class="char-card-role">collaborator</div></div></a>
 </div>
 
 <div class="faction-banner"><a href="organizations/honest-hearts">Honest Hearts</a></div>

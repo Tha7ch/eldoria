@@ -31,10 +31,12 @@ title: "The Chronicles"
 <div class="ornate-head">⸻ Timeline of Events ⸻</div>
 
 <div class="timeline">
-<div class="tl-row"><div class="tl-date">approximately 1 month before Campaign 1 begins</div><div class="tl-dot"></div><div class="tl-body"><a href="story/events/assassination-of-the-royal-family">Assassination of the Royal Family</a><span>Approximately one month before Campaign 1 begins, the entire Brittanian royal family was murdered…</span></div></div>
+<div class="tl-row"><div class="tl-date">approximately 100 years before Campaign 1</div><div class="tl-dot"></div><div class="tl-body"><a href="story/events/the-great-decimation">The Great Decimation</a><span>The decimation of The Badlands that happened roughly 100 years ago.</span></div></div>
 <div class="tl-row"><div class="tl-date">approximately 3 years before Campaign 2</div><div class="tl-dot"></div><div class="tl-body"><a href="story/events/the-dawnmere-slaughter">The Dawnmere Slaughter</a><span>Three years before Campaign 2, House Dawnmere was massacred.</span></div></div>
+<div class="tl-row"><div class="tl-date">approximately 1 month before Campaign 1 begins</div><div class="tl-dot"></div><div class="tl-body"><a href="story/events/assassination-of-the-royal-family">Assassination of the Royal Family</a><span>Approximately one month before Campaign 1 begins, the entire Brittanian royal family was murdered…</span></div></div>
 <div class="tl-row"><div class="tl-date">unknown (far future, ~20 years from campaign present)</div><div class="tl-dot"></div><div class="tl-body"><a href="story/events/the-doomed-timeline">The Doomed Timeline</a><span>The Doomed Timeline is the destroyed future that serves as the prologue to Campaign 1 (Session 1).</span></div></div>
-<div class="tl-row"><div class="tl-date">time unknown</div><div class="tl-dot"></div><div class="tl-body"><a href="story/events/the-great-decimation">The Great Decimation</a><span>The decimation of The Badlands that happened roughly 100 years ago</span></div></div>
 </div>
+
+<div class="tl-note">…more events of Eldoria's history are yet to be chronicled.</div>
 
 <div class="flourish">⸙ ❦ ⸙</div>

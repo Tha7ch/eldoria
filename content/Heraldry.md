@@ -5,6 +5,7 @@ title: "Heraldry & Orders"
 <div class="ornate-head">⸻ The Crown & the Realm ⸻</div>
 
 <div class="her-grid">
+<a class="her-card" href="organizations/king's-crown"><span class="her-name">King's Crown</span><span class="her-head">Lucerin Atreides</span><span class="her-line">King's Crown is the ruling council of Brittania, identified by a six-pronged crown sigil…</span></a>
 <a class="her-card" href="organizations/the-kingsguard"><span class="her-name">The Kingsguard</span><span class="her-head">Manuel</span><span class="her-line">The Kingsguard is an elite group of five royal protectors handpicked by the king of Brittania to…</span></a>
 </div>
 
@@ -42,7 +43,6 @@ title: "Heraldry & Orders"
 
 <div class="her-grid">
 <a class="her-card" href="organizations/honest-hearts"><span class="her-name">Honest Hearts</span><span class="her-head">Ludwig St. James</span><span class="her-line">An adventuring guild funded and organized by Ludwig St.</span></a>
-<a class="her-card" href="organizations/king's-crown"><span class="her-name">King's Crown</span><span class="her-head">The High Septon</span><span class="her-line">King's Crown is the ruling council of Brittania, identified by a six-pronged crown sigil…</span></a>
 <a class="her-card" href="organizations/pantheon-of-gods"><span class="her-name">Pantheon of Gods</span><span class="her-line">1. Aria - Goddess of Light, Truth, and Justice</span></a>
 <a class="her-card" href="organizations/the-people's-liberation-front-of-brittania"><span class="her-name">The People's Liberation Front of Brittania</span><span class="her-head">Lanius</span><span class="her-line">A revolutionary group in Brittania that wants to topple tyrannical rule.</span></a>
 <a class="her-card" href="organizations/the-twelve-demon-generals"><span class="her-name">The Twelve Demon Generals</span><span class="her-head">Luciferus</span><span class="her-line">The Demon Generals are a group of powerful demon commanders who each wield one of the forbidden…</span></a>

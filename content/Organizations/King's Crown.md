@@ -13,6 +13,7 @@ King's Crown is the ruling council of [[Brittania]], identified by a six-pronged
 
 ## Known Members
 
+- [[Lucerin Atreides]] — King
 - [[The High Septon]] — pope-like religious authority; monetized the four major churches and placed noble families in control of them
 - [[Oldric Ameris]] — War Master; High General of the Brittanian Army
 
