@@ -402,11 +402,6 @@ for (const c of [1, 2]) {
   sections.push(banner(`Campaign ${c}`))
   sections.push(grid(group.map((ch) => card(ch, pcRole(ch)))))
 }
-const futurePcs = pcs.filter((ch) => asList(ch.fm.campaign).length === 0).sort(byName)
-if (futurePcs.length) {
-  sections.push(banner("Future Campaigns"))
-  sections.push(grid(futurePcs.map((ch) => card(ch, pcRole(ch)))))
-}
 
 // --- faction groups
 const FACTION_GROUPS = [
@@ -476,7 +471,9 @@ if (demons.length) {
 const unaffiliated = characters
   .filter(
     (ch) =>
-      ch.fm.type === "character" &&
+      // NPCs with no faction, plus PCs not assigned to a campaign (e.g. future concepts)
+      (ch.fm.type === "character" ||
+        (ch.fm.type === "player-character" && asList(ch.fm.campaign).length === 0)) &&
       !inFaction.has(ch.name) &&
       !asList(ch.fm.affiliation).map(wikilinkName).some((a) => orgPages.has(a)),
   )

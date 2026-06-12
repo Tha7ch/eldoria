@@ -28,12 +28,6 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <a class="char-card" href="player-characters/tirian-dawnmere"><img src="portraits/tirian-dawnmere.webp" alt="Tirian Dawnmere" loading="lazy"><div class="char-card-text"><div class="char-card-name">Tirian Dawnmere</div><div class="char-card-role">Played by Trace</div></div></a>
 </div>
 
-<div class="faction-banner">Future Campaigns</div>
-
-<div class="char-grid">
-<a class="char-card" href="player-characters/leandros-thalassor"><img src="portraits/leandros-thalassor.webp" alt="Leandros Thalassor" loading="lazy"><div class="char-card-text"><div class="char-card-name">Leandros Thalassor</div><div class="char-card-role">Played by Trace</div></div></a>
-</div>
-
 ## The Crown
 
 
@@ -74,6 +68,8 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <div class="faction-banner"><a href="organizations/noble-houses/house-atreides">House Atreides</a></div>
 
 <div class="char-grid">
+<a class="char-card" href="characters/lucerin-atreides"><img src="portraits/lucerin-atreides.webp" alt="Lucerin Atreides" loading="lazy"><div class="char-card-text"><div class="char-card-name">Lucerin Atreides</div><div class="char-card-role">current King of Brittania</div></div></a>
+<a class="char-card" href="characters/backstory-npcs/leo-atreides"><img src="portraits/leo-atreides.webp" alt="Leo Atreides" loading="lazy"><div class="char-card-text"><div class="char-card-name">Leo Atreides</div><div class="char-card-role">former King</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/myrcella-atreides"><img src="portraits/myrcella-atreides.webp" alt="Myrcella Atreides" loading="lazy"><div class="char-card-text"><div class="char-card-name">Myrcella Atreides</div><div class="char-card-role">former Queen</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/godwyn-atreides"><img src="portraits/godwyn-atreides.webp" alt="Godwyn Atreides" loading="lazy"><div class="char-card-text"><div class="char-card-name">Godwyn Atreides</div><div class="char-card-role">First Prince, age 25</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/gideon-atreides"><img src="portraits/gideon-atreides.webp" alt="Gideon Atreides" loading="lazy"><div class="char-card-text"><div class="char-card-name">Gideon Atreides</div><div class="char-card-role">Second Prince, age 23</div></div></a>
@@ -271,7 +267,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <a class="char-card" href="characters/backstory-npcs/dorn-ashkel"><img src="portraits/dorn-ashkel.webp" alt="Dorn Ashkel" loading="lazy"><div class="char-card-text"><div class="char-card-name">Dorn Ashkel</div></div></a>
 <a class="char-card" href="characters/hannibal"><img src="portraits/placeholder.svg" alt="Hannibal" loading="lazy"><div class="char-card-text"><div class="char-card-name">Hannibal</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/kane-orso"><img src="portraits/placeholder.svg" alt="Kane Orso" loading="lazy"><div class="char-card-text"><div class="char-card-name">Kane Orso</div></div></a>
-<a class="char-card" href="characters/backstory-npcs/leo-atreides"><img src="portraits/leo-atreides.webp" alt="Leo Atreides" loading="lazy"><div class="char-card-text"><div class="char-card-name">Leo Atreides</div></div></a>
+<a class="char-card" href="player-characters/leandros-thalassor"><img src="portraits/leandros-thalassor.webp" alt="Leandros Thalassor" loading="lazy"><div class="char-card-text"><div class="char-card-name">Leandros Thalassor</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/lord-hector-vance"><img src="portraits/placeholder.svg" alt="Lord Hector Vance" loading="lazy"><div class="char-card-text"><div class="char-card-name">Lord Hector Vance</div></div></a>
 <a class="char-card" href="characters/melan-thalassa"><img src="portraits/melan-thalassa.webp" alt="Melan Thalassa" loading="lazy"><div class="char-card-text"><div class="char-card-name">Melan Thalassa</div></div></a>
 <a class="char-card" href="characters/michael-the-evangelist"><img src="portraits/placeholder.svg" alt="Michael the Evangelist" loading="lazy"><div class="char-card-text"><div class="char-card-name">Michael the Evangelist</div></div></a>

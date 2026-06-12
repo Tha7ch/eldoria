@@ -9,6 +9,7 @@ race: "unknown"
 age: "unknown (deceased)"
 height: "unknown"
 affiliation:
+  - "[[House Atreides]]"
   - "[[Brittania]]"
 status: "deceased"
 title: "Leo Atreides"
@@ -17,7 +18,7 @@ title: "Leo Atreides"
 <aside class="infobox">
 <img src="../../portraits/leo-atreides.webp" alt="Leo Atreides">
 <div class="infobox-name">Leo Atreides</div>
-<table><tr><th>Aliases</th><td>Leo, King Leo</td></tr><tr><th>Age</th><td>unknown (deceased)</td></tr><tr><th>Status</th><td>deceased</td></tr><tr><th>Affiliation</th><td><a href="../../locations/countries/brittania">Brittania</a></td></tr><tr><th>Campaign</th><td>1</td></tr></table>
+<table><tr><th>Aliases</th><td>Leo, King Leo</td></tr><tr><th>Age</th><td>unknown (deceased)</td></tr><tr><th>Status</th><td>deceased</td></tr><tr><th>Affiliation</th><td><a href="../../organizations/noble-houses/house-atreides">House Atreides</a><br><a href="../../locations/countries/brittania">Brittania</a></td></tr><tr><th>Campaign</th><td>1</td></tr></table>
 </aside>
 
 

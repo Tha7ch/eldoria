@@ -10,6 +10,7 @@ race: "unknown"
 age: "10"
 height: "unknown"
 affiliation:
+  - "[[House Atreides]]"
   - "[[Brittania]]"
   - "[[King's Crown]]"
 status: "alive"
@@ -19,7 +20,7 @@ title: "Lucerin Atreides"
 <aside class="infobox">
 <img src="../portraits/lucerin-atreides.webp" alt="Lucerin Atreides">
 <div class="infobox-name">Lucerin Atreides</div>
-<table><tr><th>Aliases</th><td>Lucerin, King Lucerin, Your Grace</td></tr><tr><th>Age</th><td>10</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../locations/countries/brittania">Brittania</a><br><a href="../organizations/king's-crown">King's Crown</a></td></tr><tr><th>Campaign</th><td>1</td></tr></table>
+<table><tr><th>Aliases</th><td>Lucerin, King Lucerin, Your Grace</td></tr><tr><th>Age</th><td>10</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../organizations/noble-houses/house-atreides">House Atreides</a><br><a href="../locations/countries/brittania">Brittania</a><br><a href="../organizations/king's-crown">King's Crown</a></td></tr><tr><th>Campaign</th><td>1</td></tr></table>
 </aside>
 
 
