@@ -45,6 +45,8 @@ jobs:
         run: npx quartz plugin install
       - name: Build Quartz
         run: npx quartz build
+      - name: Inject navigation
+        run: node scripts/postbuild.mjs
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

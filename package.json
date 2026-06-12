@@ -14,7 +14,8 @@
   "scripts": {
     "sync": "node scripts/sync.mjs",
     "publish": "node scripts/publish.mjs",
-    "preview": "node scripts/sync.mjs && npx quartz build --serve",
+    "postbuild-site": "node scripts/postbuild.mjs",
+    "preview": "node scripts/sync.mjs && npx quartz build && node scripts/postbuild.mjs && npx serve public -l 8080",
     "quartz": "./quartz/bootstrap-cli.mjs",
     "docs": "npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",

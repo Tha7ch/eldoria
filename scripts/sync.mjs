@@ -347,6 +347,18 @@ for (const [name, file] of usedPortraits) {
     .webp({ quality: 80 })
     .toFile(path.join(OUT, "portraits", portraitOutName(name)))
 }
+// pre-rendered texture tiles (CSS feTurbulence hangs renderers)
+fs.mkdirSync(path.join(OUT, "textures"), { recursive: true })
+const noiseSvg = (freq, oct, r, g, b, alpha) =>
+  Buffer.from(
+    `<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256"><filter id="n"><feTurbulence type="fractalNoise" baseFrequency="${freq}" numOctaves="${oct}"/><feColorMatrix values="0 0 0 0 ${r} 0 0 0 0 ${g} 0 0 0 0 ${b} 0 0 0 ${alpha} 0"/></filter><rect width="256" height="256" filter="url(%23n)"/></svg>`.replace(
+      "%23",
+      "#",
+    ),
+  )
+await sharp(noiseSvg(0.75, 3, 0.42, 0.34, 0.18, 0.14)).png().toFile(path.join(OUT, "textures", "parchment.png"))
+await sharp(noiseSvg(0.5, 4, 0.55, 0.55, 0.65, 0.1)).png().toFile(path.join(OUT, "textures", "stone.png"))
+
 fs.writeFileSync(
   path.join(OUT, "portraits", "placeholder.svg"),
   `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500"><rect width="400" height="500" fill="#9a9a9a"/><circle cx="200" cy="190" r="80" fill="#bdbdbd"/><path d="M60 470 Q200 300 340 470 V500 H60 Z" fill="#bdbdbd"/></svg>`,
@@ -495,33 +507,258 @@ ${sections.join("\n\n")}
 `,
 )
 
+// ------------------------------------------------------- landing page helpers
+
+const FLOURISH = `<div class="flourish">⸙ ❦ ⸙</div>`
+const sectionHead = (t) => `<div class="ornate-head">⸻ ${t} ⸻</div>`
+
+// strip markdown/wikilinks for plain-text snippets
+const plain = (s) =>
+  s
+    .replace(/!\[\[[^\]]*\]\]/g, "")
+    .replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, "$2")
+    .replace(/\[\[([^\]]+)\]\]/g, "$1")
+    .replace(/[*_`#>]/g, "")
+    .trim()
+
+// first sentence of the Overview (or first paragraph) of a note
+function firstLine(n, max = 130) {
+  const m = n.body.match(/##\s+Overview\s*\r?\n+([^\n#][^\n]*)/)
+  let text = plain(m ? m[1] : n.body.split(/\r?\n/).find((l) => l.trim() && !l.startsWith("#")) || "")
+  const dot = text.indexOf(". ")
+  if (dot > 30) text = text.slice(0, dot + 1)
+  if (text.length > max) text = text.slice(0, max - 1).replace(/\s+\S*$/, "") + "…"
+  return text
+}
+
+const pageLink = (n) => slugSegment(n.outRel)
+const writeLanding = (file, title, body) =>
+  fs.writeFileSync(path.join(OUT, file), `---\ntitle: "${title}"\n---\n\n${body}\n`)
+
+// gold line-art icons (stroke = currentColor)
+const ICONS = {
+  swords: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"><path d="M4 4 L15 15 M15 15 l3 3 M13.5 16.5 L16.5 13.5 M18 18 l2 2"/><path d="M20 4 L9 15 M9 15 l-3 3 M10.5 16.5 L7.5 13.5 M6 18 l-2 2"/></svg>`,
+  book: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"><path d="M3 5.5 C7 3.5 10.5 4.5 12 6.5 C13.5 4.5 17 3.5 21 5.5 V18 C17 16.5 13.5 17 12 19 C10.5 17 7 16.5 3 18 Z"/><path d="M12 6.5 V19"/></svg>`,
+  tower: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"><path d="M7 21 V8 M17 21 V8 M5 8 H19 M6 8 V5 H9 V7 H11 V5 H13 V7 H15 V5 H18 V8 M5 21 H19 M10 21 V15 H14 V21"/></svg>`,
+  shield: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"><path d="M12 3 L19 5.5 V11 C19 16 16.2 19.3 12 21 C7.8 19.3 5 16 5 11 V5.5 Z"/><path d="M12 7 V17 M8.5 10 H15.5"/></svg>`,
+  rune: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"><path d="M12 3 L14.2 9.8 L21 12 L14.2 14.2 L12 21 L9.8 14.2 L3 12 L9.8 9.8 Z"/><circle cx="12" cy="12" r="2.2"/></svg>`,
+  scroll: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"><path d="M6 4 H19 C20.1 4 21 4.9 21 6 C21 7.1 20.1 8 19 8 H8 M6 4 C4.9 4 4 4.9 4 6 V18 C4 19.1 4.9 20 6 20 H17 C18.1 20 19 19.1 19 18 V8"/><path d="M8 11 H15 M8 14 H15 M8 17 H12"/></svg>`,
+}
+
+const SECTIONS = [
+  { label: "Characters", file: null, page: "All Characters", icon: "swords", desc: "Heroes, nobles, gods, and demons" },
+  { label: "Story", file: "Chronicles.md", page: "Chronicles", icon: "book", desc: "Sessions, side stories, and events" },
+  { label: "Locations", file: "Atlas.md", page: "Atlas", icon: "tower", desc: "The realms and cities of Eldoria" },
+  { label: "Organizations", file: "Heraldry.md", page: "Heraldry", icon: "shield", desc: "Houses, churches, and orders" },
+  { label: "Powers", file: "Grimoire.md", page: "Grimoire", icon: "rune", desc: "Magic, gifts, and forbidden arts" },
+  { label: "Appendices", file: "Appendices.md", page: "Appendices", icon: "scroll", desc: "Cosmology, rosters, and records" },
+]
+
+// ---------------------------------------------------------- story (Chronicles)
+
+const sessionsOf = (c) =>
+  [...notes.values()]
+    .filter((n) => n.outRel.startsWith(`Story/Sessions/Campaign ${c}/`))
+    .sort((a, b) => b.name.localeCompare(a.name, undefined, { numeric: true }))
+
+const sideStories = [...notes.values()]
+  .filter((n) => n.outRel.startsWith("Story/Side Stories/"))
+  .sort((a, b) => String(b.fm["date-added"] ?? "").localeCompare(String(a.fm["date-added"] ?? "")))
+
+const events = [...notes.values()].filter((n) => n.outRel.startsWith("Story/Events/"))
+
+const sessionCard = (n) => {
+  const m = n.name.match(/Session\s*0*(\d+)\s*(?:\(([^)]*)\))?/i)
+  const num = m ? m[1] : "?"
+  const note = m && m[2] ? m[2] : ""
+  return `<a class="shelf-card" href="${pageLink(n)}"><span class="shelf-num">Session ${num}</span><span class="shelf-note">${note}</span><span class="shelf-line">${firstLine(n, 110)}</span></a>`
+}
+
+const storyCard = (n) => {
+  const subject = asList(n.fm.subjects).map(wikilinkName).find((s) => usedPortraits.has(s))
+  const img = subject
+    ? `portraits/${slugSegment(portraitOutName(subject))}`
+    : "portraits/placeholder.svg"
+  return `<a class="tale-card" href="${pageLink(n)}"><img src="${img}" alt="" loading="lazy"><span class="tale-title">${n.name.replace(/ - /, " — ")}</span>${n.fm.author ? `<span class="tale-author">by ${n.fm.author}</span>` : ""}</a>`
+}
+
+const eventRow = (n) => {
+  const date = n.fm.date ? String(n.fm.date) : ""
+  return `<div class="tl-row"><div class="tl-date">${date || "time unknown"}</div><div class="tl-dot"></div><div class="tl-body"><a href="${pageLink(n)}">${n.name}</a><span>${firstLine(n, 100)}</span></div></div>`
+}
+
+{
+  const parts = []
+  for (const c of [1, 2]) {
+    const ss = sessionsOf(c)
+    if (!ss.length) continue
+    parts.push(sectionHead(`Campaign ${c} — Session Chronicles`))
+    parts.push(`<div class="shelf">\n${ss.map(sessionCard).join("\n")}\n</div>`)
+  }
+  if (sideStories.length) {
+    parts.push(sectionHead("Side Stories"))
+    parts.push(`<div class="tale-shelf">\n${sideStories.map(storyCard).join("\n")}\n</div>`)
+  }
+  const dated = events.filter((n) => n.fm.date).sort((a, b) => String(a.fm.date).localeCompare(String(b.fm.date)))
+  const undated = events.filter((n) => !n.fm.date).sort(byName)
+  if (events.length) {
+    parts.push(sectionHead("Timeline of Events"))
+    parts.push(`<div class="timeline">\n${[...dated, ...undated].map(eventRow).join("\n")}\n</div>`)
+  }
+  writeLanding("Chronicles.md", "The Chronicles", parts.join("\n\n") + "\n\n" + FLOURISH)
+}
+
+// ------------------------------------------------------------ locations (Atlas)
+
+{
+  const locs = [...notes.values()].filter((n) => n.rel.startsWith("Locations/"))
+  const children = new Map()
+  for (const n of locs) {
+    const parent = n.fm["part-of"] ? wikilinkName(n.fm["part-of"]) : null
+    if (!children.has(parent)) children.set(parent, [])
+    children.get(parent).push(n)
+  }
+  const locByName = new Map(locs.map((n) => [n.name, n]))
+  const renderLoc = (n, depth) => {
+    const kids = (children.get(n.name) ?? []).sort(byName)
+    return `<div class="gaz-entry" style="margin-left:${depth * 1.4}rem"><a href="${pageLink(n)}">${n.name}</a><span class="gaz-type">${n.fm.type ?? ""}</span><span class="gaz-line">${firstLine(n, 95)}</span></div>\n${kids.map((k) => renderLoc(k, depth + 1)).join("\n")}`
+  }
+  const countries = (children.get("Eldoria") ?? []).sort(byName)
+  const parts = [`<div class="map-slot">A map of Eldoria has yet to be drawn.</div>`]
+  const eldoria = locByName.get("Eldoria")
+  if (eldoria)
+    parts.push(`<div class="gaz-entry gaz-root"><a href="${pageLink(eldoria)}">Eldoria</a><span class="gaz-type">continent</span><span class="gaz-line">${firstLine(eldoria, 95)}</span></div>`)
+  for (const c of countries) {
+    parts.push(sectionHead(c.name))
+    parts.push(renderLoc(c, 0))
+  }
+  const placed = new Set()
+  const collect = (n) => {
+    placed.add(n.name)
+    for (const k of children.get(n.name) ?? []) collect(k)
+  }
+  if (eldoria) collect(eldoria)
+  const others = locs.filter((n) => !placed.has(n.name)).sort(byName)
+  if (others.length) {
+    parts.push(sectionHead("Other & Fallen Realms"))
+    parts.push(others.map((n) => renderLoc(n, 0)).join("\n"))
+  }
+  writeLanding("Atlas.md", "Atlas of Eldoria", parts.join("\n\n") + "\n\n" + FLOURISH)
+}
+
+// -------------------------------------------------------- organizations (Heraldry)
+
+{
+  const orgs = [...notes.values()].filter((n) => n.rel.startsWith("Organizations/"))
+  const groupOf = (n) => {
+    const t = String(n.fm.type ?? "")
+    if (n.rel.includes("Noble Houses/")) return "Noble Houses"
+    if (n.rel.includes("Churches/") || ["religious", "divine"].includes(t)) return "Churches & the Divine"
+    if (/demon/i.test(n.name) || ["secret", "criminal", "rebel", "guild"].includes(t)) return "Factions & Guilds"
+    if (["kingdom", "military", "political"].includes(t) || ["The Kingsguard", "King's Crown"].includes(n.name))
+      return "The Crown & the Realm"
+    return "Factions & Guilds"
+  }
+  const leaderOf = (n) => {
+    const roles = orgRoles.get(n.name)
+    if (!roles || !roles.size) return ""
+    const [first] = roles.entries()
+    return first ? `${first[0]}` : ""
+  }
+  const orgCard = (n) =>
+    `<a class="her-card" href="${pageLink(n)}"><span class="her-name">${n.name}</span>${leaderOf(n) ? `<span class="her-head">${leaderOf(n)}</span>` : ""}<span class="her-line">${firstLine(n, 100)}</span></a>`
+  const GROUP_ORDER = ["The Crown & the Realm", "Noble Houses", "Churches & the Divine", "Factions & Guilds"]
+  const parts = []
+  for (const g of GROUP_ORDER) {
+    const members = orgs.filter((n) => groupOf(n) === g && n.name !== "The Great Houses").sort(byName)
+    if (!members.length) continue
+    parts.push(sectionHead(g))
+    parts.push(`<div class="her-grid">\n${members.map(orgCard).join("\n")}\n</div>`)
+  }
+  writeLanding("Heraldry.md", "Heraldry & Orders", parts.join("\n\n") + "\n\n" + FLOURISH)
+}
+
+// ---------------------------------------------------------- powers (Grimoire)
+
+{
+  const powers = [...notes.values()].filter((n) => n.rel.startsWith("Power Systems/")).sort(byName)
+  const rows = powers.map(
+    (n) =>
+      `<a class="scroll-row" href="${pageLink(n)}"><span class="scroll-name">${n.name}</span><span class="scroll-type">${n.fm.type ?? ""}</span><span class="scroll-line">${firstLine(n, 120)}</span></a>`,
+  )
+  writeLanding("Grimoire.md", "The Grimoire", `${rows.join("\n")}\n\n${FLOURISH}`)
+}
+
+// ------------------------------------------------------------------ appendices
+
+{
+  const misc = [...notes.values()].filter((n) => n.rel.startsWith("Misc Notes/")).sort(byName)
+  const rows = misc.map(
+    (n) =>
+      `<a class="scroll-row" href="${pageLink(n)}"><span class="scroll-name">${n.name}</span><span class="scroll-line">${firstLine(n, 120)}</span></a>`,
+  )
+  writeLanding("Appendices.md", "Appendices", `${rows.join("\n")}\n\n${FLOURISH}`)
+}
+
 // ------------------------------------------------------------------ homepage
 
-const navCard = (title, slug, desc) =>
-  `<a class="nav-card" href="./${slugSegment(slug)}"><div class="nav-card-title">${title}</div><div class="nav-card-desc">${desc}</div></a>`
+{
+  const navCards = SECTIONS.map(
+    (s) =>
+      `<a class="nav-card" href="./${slugSegment(s.page)}"><span class="nav-icon">${ICONS[s.icon]}</span><span class="nav-card-title">${s.label}</span><span class="nav-card-desc">${s.desc}</span></a>`,
+  ).join("\n")
 
-fs.writeFileSync(
-  path.join(OUT, "index.md"),
-  `---
-title: "The Eldoria Expanse"
----
+  const party = pcsByCampaign(2)
+  const partyCards = party
+    .map(
+      (ch) =>
+        `<a class="party-card" href="${pageUrlByName(ch.name, 0)}"><img src="${portraitUrl(ch.name, 0)}" alt="${ch.name}" loading="lazy"><span>${ch.name.split(" ")[0]}</span></a>`,
+    )
+    .join("\n")
 
-<div class="home-banner">
+  const latest = []
+  const s1 = sessionsOf(1)[0]
+  const s2 = sessionsOf(2)[0]
+  if (s1) latest.push({ n: s1, tag: "Campaign 1" })
+  if (s2) latest.push({ n: s2, tag: "Campaign 2" })
+  for (const st of sideStories.slice(0, 3)) latest.push({ n: st, tag: "Side Story" })
+  const latestRows = latest
+    .map(
+      (l) =>
+        `<a class="chron-row" href="${pageLink(l.n)}"><span class="chron-tag">${l.tag}</span><span class="chron-title">${l.n.name}</span></a>`,
+    )
+    .join("\n")
+
+  writeLanding(
+    "index.md",
+    "The Eldoria Expanse",
+    `<div class="home-banner">
+<div class="home-glyph">❦</div>
 <h1>The Eldoria Expanse</h1>
+<div class="home-rule"></div>
 <p>A chronicle of two campaigns across the realm of Eldoria — its heroes, gods, kingdoms, and the storms gathering over Brittania.</p>
 </div>
 
 <div class="nav-grid">
-${navCard("Characters", "All Characters", "Every hero, noble, god, and demon — grouped by faction")}
-${navCard("Story", "Story", "Session chronicles, side stories, and major events")}
-${navCard("Locations", "Locations", "The continents, kingdoms, and cities of Eldoria")}
-${navCard("Organizations", "Organizations", "The Kingsguard, noble houses, churches, and more")}
-${navCard("Power Systems", "Power-Systems", "Magic, divine gifts, and forbidden arts")}
+${navCards}
 </div>
 
-*This wiki is maintained from the players' perspective — some details may be unconfirmed rumors. Use the search (top of the sidebar) to find anything.*
-`,
-)
+${sectionHead("The Current Party")}
+<div class="party-sub">Campaign 2</div>
+
+<div class="party-strip">
+${partyCards}
+</div>
+
+${sectionHead("Latest Chronicles")}
+
+<div class="chron-list">
+${latestRows}
+</div>
+
+${FLOURISH}`,
+  )
+}
 
 console.log(`Synced ${notes.size} pages, ${copied} images, ${usedPortraits.size} portraits.`)
 const noPortrait = characters.filter((ch) => !usedPortraits.has(ch.name)).map((ch) => ch.name)

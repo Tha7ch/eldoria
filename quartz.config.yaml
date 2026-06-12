@@ -17,7 +17,7 @@ configuration:
     typography:
       title: Cinzel
       header: Cormorant Garamond
-      body: Source Sans Pro
+      body: EB Garamond
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -100,6 +100,11 @@ plugins:
     order: 92
   - source: github:quartz-community/fonts
     enabled: true
+    options:
+      title: Cinzel
+      header: Cormorant Garamond
+      body: EB Garamond
+      code: IBM Plex Mono
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
@@ -126,12 +131,12 @@ plugins:
   - source: github:quartz-community/tag-page
     enabled: true
   - source: github:quartz-community/explorer
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 50
   - source: github:quartz-community/graph
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
@@ -146,8 +151,8 @@ plugins:
   - source: github:quartz-community/backlinks
     enabled: true
     layout:
-      position: right
-      priority: 50
+      position: afterBody
+      priority: 20
   - source: github:quartz-community/article-title
     enabled: true
     layout:
@@ -175,7 +180,7 @@ plugins:
       priority: 30
       group: toolbar
   - source: github:quartz-community/reader-mode
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 35
