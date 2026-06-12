@@ -13,6 +13,8 @@ source: "https://docs.google.com/document/d/1-OrsOqp27IWTLg06NcGNC3T8ZFoftxsKGXx
 
 *(Story text follows — immutable, never edited after initial ingest.)*
 
+![[Callum - Sword of Roland (Thumbnail).webp|450]]
+
 ## Characters & Locations
 
 **Characters**

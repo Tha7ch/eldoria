@@ -348,6 +348,23 @@ for (const [name, file] of usedPortraits) {
     .webp({ quality: 80 })
     .toFile(path.join(OUT, "portraits", portraitOutName(name)))
 }
+
+// side-story thumbnails: `<Story Title> (Thumbnail).png` -> thumbs/<slug>.webp
+const usedThumbs = new Map() // note name -> vault image file
+const thumbOutName = (name) => `${cleanName(name)}.webp`
+for (const n of notes.values()) {
+  if (!n.outRel.startsWith("Story/Side Stories/")) continue
+  const want = `${n.name.toLowerCase()} (thumbnail)`
+  const hit = vaultImages.find((f) => f.replace(/\.(png|jpe?g|webp)$/i, "").toLowerCase() === want)
+  if (hit) usedThumbs.set(n.name, hit)
+}
+fs.mkdirSync(path.join(OUT, "thumbs"), { recursive: true })
+for (const [name, file] of usedThumbs) {
+  await sharp(path.join(VAULT, IMAGES_DIR, file))
+    .resize({ width: 640, withoutEnlargement: true })
+    .webp({ quality: 80 })
+    .toFile(path.join(OUT, "thumbs", thumbOutName(name)))
+}
 // pre-rendered texture tiles (CSS feTurbulence hangs renderers)
 fs.mkdirSync(path.join(OUT, "textures"), { recursive: true })
 const noiseSvg = (freq, oct, r, g, b, alpha) =>
@@ -576,6 +593,10 @@ const sessionCard = (n) => {
 }
 
 const storyCard = (n) => {
+  if (usedThumbs.has(n.name)) {
+    const img = `thumbs/${slugSegment(thumbOutName(n.name))}`
+    return `<a class="tale-card has-thumb" href="${pageLink(n)}"><img src="${img}" alt="" loading="lazy"><span class="tale-title">${n.name.replace(/ - /, " — ")}</span>${n.fm.author ? `<span class="tale-author">by ${n.fm.author}</span>` : ""}</a>`
+  }
   const subject = asList(n.fm.subjects).map(wikilinkName).find((s) => usedPortraits.has(s))
   const img = subject
     ? `portraits/${slugSegment(portraitOutName(subject))}`

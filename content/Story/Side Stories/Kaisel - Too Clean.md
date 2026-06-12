@@ -12,6 +12,8 @@ date-added: "2026-06-09"
 
 *Source document (more parts may be added): [Kaisel Short Stories — Google Docs](https://docs.google.com/document/d/180BC-9y44aan656LQNDfg-zAbh2VRMH7b_VYkM8TWgM/edit?usp=sharing)*
 
+![[Kaisel - Too Clean (Thumbnail).webp|450]]
+
 ---
 
 ## Characters & Locations

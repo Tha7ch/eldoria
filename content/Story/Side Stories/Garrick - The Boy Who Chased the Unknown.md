@@ -11,6 +11,8 @@ source: "https://docs.google.com/document/d/1H5usYwZkxc5y9JiT2LgyF_XoRa0dktZFSOy
 
 *(Story text follows — immutable, never edited after initial ingest.)*
 
+![[Garrick - The Boy Who Chased the Unknown (Thumbnail).webp|450]]
+
 ## Characters & Locations
 
 **Characters**

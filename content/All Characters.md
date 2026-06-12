@@ -148,7 +148,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <div class="faction-banner"><a href="organizations/noble-houses/house-morningstar">House Morningstar</a></div>
 
 <div class="char-grid">
-<a class="char-card" href="characters/karsus-morningstar"><img src="portraits/placeholder.svg" alt="Karsus Morningstar" loading="lazy"><div class="char-card-text"><div class="char-card-name">Karsus Morningstar</div><div class="char-card-role">Headmaster of Strixhaven and Grand Mage of Brittania</div></div></a>
+<a class="char-card" href="characters/karsus-morningstar"><img src="portraits/karsus-morningstar.webp" alt="Karsus Morningstar" loading="lazy"><div class="char-card-text"><div class="char-card-name">Karsus Morningstar</div><div class="char-card-role">Headmaster of Strixhaven and Grand Mage of Brittania</div></div></a>
 <a class="char-card" href="characters/merlin-morningstar"><img src="portraits/placeholder.svg" alt="Merlin Morningstar" loading="lazy"><div class="char-card-text"><div class="char-card-name">Merlin Morningstar</div><div class="char-card-role">"The Prodigy of Potential"</div></div></a>
 </div>
 
@@ -279,5 +279,5 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <a class="char-card" href="characters/backstory-npcs/serapha-ashkel"><img src="portraits/serapha-ashkel.webp" alt="Serapha Ashkel" loading="lazy"><div class="char-card-text"><div class="char-card-name">Serapha Ashkel</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/seyrell"><img src="portraits/placeholder.svg" alt="Seyrell" loading="lazy"><div class="char-card-text"><div class="char-card-name">Seyrell</div></div></a>
 <a class="char-card" href="characters/the-warden"><img src="portraits/placeholder.svg" alt="The Warden" loading="lazy"><div class="char-card-text"><div class="char-card-name">The Warden</div></div></a>
-<a class="char-card" href="characters/veyr"><img src="portraits/placeholder.svg" alt="Veyr" loading="lazy"><div class="char-card-text"><div class="char-card-name">Veyr</div></div></a>
+<a class="char-card" href="characters/veyr"><img src="portraits/veyr.webp" alt="Veyr" loading="lazy"><div class="char-card-text"><div class="char-card-name">Veyr</div></div></a>
 </div>

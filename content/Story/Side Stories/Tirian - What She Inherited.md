@@ -1,6 +1,6 @@
 ---
 title: "Tirian - What She Inherited"
-author: "DM"
+author: "Trace"
 campaign:
   - "2"
 subjects:
@@ -10,6 +10,7 @@ subjects:
 date-added: "2026-06-03"
 ---
 
+![[Tirian - What She Inherited (Thumbnail).webp|450]]
 ![[Tirian x Amelia (Dancing Gala).webp|350]] ![[Tirian x Amelia (Flirting Gala).webp|350]]
 
 ## Characters & Locations

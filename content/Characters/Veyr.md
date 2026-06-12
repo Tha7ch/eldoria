@@ -10,11 +10,13 @@ title: "Veyr"
 ---
 
 <aside class="infobox">
-<img src="../portraits/placeholder.svg" alt="Veyr">
+<img src="../portraits/veyr.webp" alt="Veyr">
 <div class="infobox-name">Veyr</div>
 <table><tr><th>Age</th><td>30s</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Campaign</th><td>2</td></tr></table>
 </aside>
 
+
+![[Veyr (4x5 Portrait).webp|350]]
 
 ## Overview
 

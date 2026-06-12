@@ -17,6 +17,8 @@ source: "https://docs.google.com/document/d/1kG-UA2YUVs0F48ivqkFEVUgbdJs995o8PLK
 *(Note: this story is **unfinished** — the source document ends mid-sentence. Check the source link above for updates.)*
 *(Correction applied on ingest: "House Howell" standardized to "House Howelle" to match vault spelling.)*
 
+![[Lanius - The Duty of the Strong (Thumbnail).webp|450]]
+
 ---
 
 ## Characters & Locations

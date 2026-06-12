@@ -732,6 +732,15 @@ body[data-slug^="story/side-stories/"] {
   &:hover {
     outline-color: var(--tertiary);
   }
+
+  &.has-thumb {
+    width: 230px;
+
+    img {
+      aspect-ratio: 16 / 9;
+      object-position: center;
+    }
+  }
 }
 
 .tl-note {

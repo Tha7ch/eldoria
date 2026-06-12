@@ -17,15 +17,15 @@ title: "The Chronicles"
 <div class="ornate-head">⸻ Side Stories ⸻</div>
 
 <div class="tale-shelf">
-<a class="tale-card" href="story/side-stories/callum---sword-of-roland"><img src="portraits/callum.webp" alt="" loading="lazy"><span class="tale-title">Callum — Sword of Roland</span><span class="tale-author">by Bonner</span></a>
-<a class="tale-card" href="story/side-stories/kaisel---the-crooked-boar"><img src="portraits/kaisel-irvenest.webp" alt="" loading="lazy"><span class="tale-title">Kaisel — The Crooked Boar</span><span class="tale-author">by Tre</span></a>
-<a class="tale-card" href="story/side-stories/kaisel---too-clean"><img src="portraits/kaisel-irvenest.webp" alt="" loading="lazy"><span class="tale-title">Kaisel — Too Clean</span><span class="tale-author">by Tre</span></a>
-<a class="tale-card" href="story/side-stories/kaisel---what-was-left"><img src="portraits/kaisel-irvenest.webp" alt="" loading="lazy"><span class="tale-title">Kaisel — What Was Left</span><span class="tale-author">by Tre</span></a>
-<a class="tale-card" href="story/side-stories/tirian---one-night"><img src="portraits/tirian-dawnmere.webp" alt="" loading="lazy"><span class="tale-title">Tirian — One Night</span><span class="tale-author">by Claude (written with player direction)</span></a>
-<a class="tale-card" href="story/side-stories/lanius---the-duty-of-the-strong"><img src="portraits/lanius.webp" alt="" loading="lazy"><span class="tale-title">Lanius — The Duty of the Strong</span><span class="tale-author">by Migs (DM)</span></a>
-<a class="tale-card" href="story/side-stories/garrick---the-boy-who-chased-the-unknown"><img src="portraits/garrick.webp" alt="" loading="lazy"><span class="tale-title">Garrick — The Boy Who Chased the Unknown</span><span class="tale-author">by Gio</span></a>
-<a class="tale-card" href="story/side-stories/callum---out-of-the-crystal"><img src="portraits/callum.webp" alt="" loading="lazy"><span class="tale-title">Callum — Out of the Crystal</span><span class="tale-author">by Bonner</span></a>
-<a class="tale-card" href="story/side-stories/tirian---what-she-inherited"><img src="portraits/tirian-dawnmere.webp" alt="" loading="lazy"><span class="tale-title">Tirian — What She Inherited</span><span class="tale-author">by DM</span></a>
+<a class="tale-card has-thumb" href="story/side-stories/callum---sword-of-roland"><img src="thumbs/callum-sword-of-roland.webp" alt="" loading="lazy"><span class="tale-title">Callum — Sword of Roland</span><span class="tale-author">by Bonner</span></a>
+<a class="tale-card has-thumb" href="story/side-stories/kaisel---the-crooked-boar"><img src="thumbs/kaisel-the-crooked-boar.webp" alt="" loading="lazy"><span class="tale-title">Kaisel — The Crooked Boar</span><span class="tale-author">by Tre</span></a>
+<a class="tale-card has-thumb" href="story/side-stories/kaisel---too-clean"><img src="thumbs/kaisel-too-clean.webp" alt="" loading="lazy"><span class="tale-title">Kaisel — Too Clean</span><span class="tale-author">by Tre</span></a>
+<a class="tale-card has-thumb" href="story/side-stories/kaisel---what-was-left"><img src="thumbs/kaisel-what-was-left.webp" alt="" loading="lazy"><span class="tale-title">Kaisel — What Was Left</span><span class="tale-author">by Tre</span></a>
+<a class="tale-card has-thumb" href="story/side-stories/tirian---one-night"><img src="thumbs/tirian-one-night.webp" alt="" loading="lazy"><span class="tale-title">Tirian — One Night</span><span class="tale-author">by Trace</span></a>
+<a class="tale-card has-thumb" href="story/side-stories/lanius---the-duty-of-the-strong"><img src="thumbs/lanius-the-duty-of-the-strong.webp" alt="" loading="lazy"><span class="tale-title">Lanius — The Duty of the Strong</span><span class="tale-author">by Migs (DM)</span></a>
+<a class="tale-card has-thumb" href="story/side-stories/garrick---the-boy-who-chased-the-unknown"><img src="thumbs/garrick-the-boy-who-chased-the-unknown.webp" alt="" loading="lazy"><span class="tale-title">Garrick — The Boy Who Chased the Unknown</span><span class="tale-author">by Gio</span></a>
+<a class="tale-card has-thumb" href="story/side-stories/callum---out-of-the-crystal"><img src="thumbs/callum-out-of-the-crystal.webp" alt="" loading="lazy"><span class="tale-title">Callum — Out of the Crystal</span><span class="tale-author">by Bonner</span></a>
+<a class="tale-card has-thumb" href="story/side-stories/tirian---what-she-inherited"><img src="thumbs/tirian-what-she-inherited.webp" alt="" loading="lazy"><span class="tale-title">Tirian — What She Inherited</span><span class="tale-author">by Trace</span></a>
 </div>
 
 <div class="ornate-head">⸻ Timeline of Events ⸻</div>

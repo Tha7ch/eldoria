@@ -1,6 +1,6 @@
 ---
 title: "Tirian - One Night"
-author: "Claude (written with player direction)"
+author: "Trace"
 campaign:
   - "2"
 subjects:
@@ -18,6 +18,8 @@ date-added: "2026-06-09"
 ---
 
 *The night of [[The Dawnmere Slaughter]], told from Tirian's perspective.*
+
+![[Tirian - One Night (Thumbnail).webp|450]]
 
 ---
 

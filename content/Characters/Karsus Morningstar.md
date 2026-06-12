@@ -18,11 +18,13 @@ title: "Karsus Morningstar"
 ---
 
 <aside class="infobox">
-<img src="../portraits/placeholder.svg" alt="Karsus Morningstar">
+<img src="../portraits/karsus-morningstar.webp" alt="Karsus Morningstar">
 <div class="infobox-name">Karsus Morningstar</div>
 <table><tr><th>Aliases</th><td>Karsus, The Grand Mage</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../organizations/noble-houses/house-morningstar">House Morningstar</a><br><a href="../locations/institutions/strixhaven">Strixhaven</a><br><a href="../locations/countries/brittania">Brittania</a></td></tr><tr><th>Campaign</th><td>1, 2</td></tr></table>
 </aside>
 
+
+![[Karsus Morningstar (4x5 Portrait).webp|350]]
 
 ## Overview
 
