@@ -106,6 +106,8 @@ Kieran activates Divine Favor and glows golden. Lands one attack on the Warden, 
 
 Cyris and Aella attack an assassin from range in combination: Cyris's water bullet, electrified by Aella's Witch Bolt. 55 damage.
 
+![[Cyris and Aella (Session 7 - Rooftop Stand).webp|450]]
+
 **Aella**: "Quiet now. The storm is speaking."
 
 Damian creates a tree of blood that sprouts from the ground and kills an assassin.

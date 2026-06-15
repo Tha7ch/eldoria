@@ -48,7 +48,7 @@ Very cold and sharp-tongued. Keeps people at arm's length. Not good with kids by
 
 ## History
 
-*(largely unknown)*
+Originally from [[Frostgard]], the snowy country. *(Everything else is largely unknown.)*
 
 ## Relationships
 

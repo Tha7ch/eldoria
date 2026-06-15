@@ -5,7 +5,7 @@ type: "character"
 campaign:
   - "1"
 race: "Human"
-age: "40s"
+age: "44"
 height: "unknown"
 affiliation:
   - "[[Brittania]]"
@@ -16,7 +16,7 @@ title: "Roland Voss"
 <aside class="infobox">
 <img src="../../portraits/roland-voss.webp" alt="Roland Voss">
 <div class="infobox-name">Roland Voss</div>
-<table><tr><th>Aliases</th><td>Roland</td></tr><tr><th>Race</th><td>Human</td></tr><tr><th>Age</th><td>40s</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../../locations/countries/brittania">Brittania</a></td></tr><tr><th>Campaign</th><td>1</td></tr></table>
+<table><tr><th>Aliases</th><td>Roland</td></tr><tr><th>Race</th><td>Human</td></tr><tr><th>Age</th><td>44</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../../locations/countries/brittania">Brittania</a></td></tr><tr><th>Campaign</th><td>1</td></tr></table>
 </aside>
 
 

@@ -30,11 +30,12 @@ title: "Cyris Voss"
 ![[Cyris (Student).webp|350]] ![[Cyris (Timeskip).webp|350]]
 ![[Cyris (4x5 Portrait).webp|350]] ![[Cyris (Timeskip) Aura.webp|350]] ![[Cyris Aesthetic.webp|350]]
 ![[Cyris Chibi.webp|200]] ![[Cyris Chibi Timeskip.webp|200]] ![[Cyris file_00000000da7c71f683eb53e268915734.webp|350]]
-![[Cyris's Staff.webp|350]]
+![[Cyris's Staff.webp|350]] ![[Cyris (Close-Up Eye Shot).webp|350]]
+![[Cyris and Aella (Session 7 - Rooftop Stand).webp|350]] ![[Cyris and Cal (Library at Night).webp|350]]
 
 ## Overview
 
-Cyris Voss is a 19-year-old Purple Tiefling artificer/wizard from [[The Badlands]], raised by his parents until age 7, then taken in by merchant [[Roland Voss]] and brought to [[Brittania]]. He earned a scholarship to [[Strixhaven]] where he excels academically despite facing constant prejudice. He is enrolled in Prismari, one of Strixhaven's schools, and is nicknamed the **Prismari Prodigy**. At 19, he is a 2nd year student. He has a gift for time magic and recently developed a spell capable of rewinding a small object ten seconds in time.
+Cyris Voss is a 19-year-old Purple Tiefling artificer/wizard from [[The Badlands]], raised by his parents until age 7, then taken in by merchant [[Roland Voss]] and brought to [[Brittania]]. He earned a scholarship to [[Strixhaven]] where he excels academically despite facing constant prejudice. He is enrolled in Prismari, one of Strixhaven's schools, and is nicknamed the **Prismari Prodigy**. At 19, he is a 2nd year student. He has a gift for time magic and recently developed a spell capable of rewinding a small object ten seconds in time. He currently lives in [[Strixhaven]]'s dormitories, located in [[Caer Brittanis]].
 
 ## Appearance
 
@@ -65,6 +66,8 @@ Roland was not warm but not unkind — he saw Cyris as an investment. He drilled
 - [[Serapha Ashkel]] — deceased mother; taught him letters in dirt and ash; his gentleness comes from her
 - [[Roland Voss]] — adopted father and sponsor; not warm, but provided everything; taught Cyris that names open doors and doors have prices
 - [[Lucerin Atreides]] — recognized by Kylo as having similar abilities; Cyris has seen this meeting in a vision before (Session 2)
+- [[Merlin Morningstar]] — friend; a fellow Strixhaven student. [[Karsus Morningstar]] encouraged Merlin to befriend Cyris, and the two genuinely connected. Merlin showed Cyris [[Strixhaven]]'s forbidden section — Karsus is aware and doesn't mind
+- [[Karsus Morningstar]] — Headmaster of [[Strixhaven]]; encouraged his son Merlin to befriend Cyris
 - [[Kronos]] — the Demon General of Time sought Cyris out specifically in the doomed future
 - [[The Forbidden Magics]] — wields Time magic (chronomancy), one of the forbidden magics; not a Demon General
 

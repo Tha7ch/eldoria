@@ -24,11 +24,15 @@ title: "Karsus Morningstar"
 </aside>
 
 
-![[Karsus Morningstar (4x5 Portrait).webp|350]]
+![[Karsus Morningstar (4x5 Portrait).webp|350]] ![[Tirian and Karsus (Confrontation at Strixhaven).webp|350]]
 
 ## Overview
 
 Karsus Morningstar is the Headmaster of [[Strixhaven]] and the Grand Mage of [[Brittania]] — the highest magical authority in the country. He leads a house known for producing some of the most powerful mages in Brittanian history.
+
+## Personality
+
+He loves being Headmaster of [[Strixhaven]] and genuinely cares for each of his students. He sees knowledge as something to be shared regardless of class or race — an uncommon stance among Brittania's elite.
 
 ## Appearance
 
@@ -42,5 +46,7 @@ Karsus Morningstar is the Headmaster of [[Strixhaven]] and the Grand Mage of [[B
 
 - [[House Morningstar]] — his house
 - [[Strixhaven]] — Headmaster
-- [[Merlin Morningstar]] — relation *(exact relationship unknown)*
+- [[Merlin Morningstar]] — son; a student at [[Strixhaven]], known as The Prodigy of Potential. Karsus encouraged Merlin to befriend [[Cyris Voss]], which worked out genuinely
+- [[Cyris Voss]] — student; Karsus wanted Merlin to befriend him. Aware Merlin showed Cyris the forbidden section — overlooks it, fine with it
+- [[Tirian Dawnmere]] — former student (Silverquill); did everything he could to try to convince Tirian not to drop out after [[The Dawnmere Slaughter]]
 - [[Brittania]] — Grand Mage

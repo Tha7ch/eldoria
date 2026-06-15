@@ -57,6 +57,6 @@ His death is one of Tirian's most personal losses — and a significant part of 
 - [[Myrcella Atreides]] — his mother
 - [[Godwyn Atreides]] — older brother; First Prince
 - [[Lucerin Atreides]] — younger brother; the sole survivor
-- [[Damian Grimm]] — genuinely loved him; treated him as a person, not a bastard — one of the few royals who did
+- [[Damian Grimm]] — genuinely loved him; treated him as a person, not a bastard — one of the few royals who did; Damian is a few weeks older than Gideon
 - [[Tirian Dawnmere]] — close friend; part of the same circle; helped Tirian grieve after The Dawnmere Slaughter
 - [[Lumiere Ameris]] — close friend; part of the same circle of influential young nobles

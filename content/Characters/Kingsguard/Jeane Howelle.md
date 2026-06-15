@@ -59,6 +59,7 @@ Made her mark at the Bicentennial Winter Solstice Knight's Tournament. Impaled T
 - [[The Kingsguard]] — serves as Queen's Guard
 - [[Lanius]] — grew up together; he was a ward of [[House Howelle]] and they were close. Engaged to him as of the gala the night of [[The Dawnmere Slaughter]]. She despises the [[The People's Liberation Front of Brittania]] and everything it stands for — but her love for Lanius himself has never wavered. She pointed [[Aella Galefri]] toward the PLFB to find him, which she couldn't officially do.
 - [[Damian Grimm]] — despises him
+- [[The High Septon]] — her grandmother [[Olenna Howelle]]'s husband, but not her blood relative — Olenna had Jeane's mother with a different man before marrying him. Jeane hates him.
 
 ## Story
 

@@ -12,13 +12,13 @@ title: "Kronos"
 ---
 
 <aside class="infobox">
-<img src="../../portraits/placeholder.svg" alt="Kronos">
+<img src="../../portraits/kronos.webp" alt="Kronos">
 <div class="infobox-name">Kronos</div>
 <table><tr><th>Race</th><td>demon</td></tr><tr><th>Affiliation</th><td><a href="../../organizations/the-twelve-demon-generals">The Twelve Demon Generals</a></td></tr><tr><th>Campaign</th><td>1</td></tr></table>
 </aside>
 
 
-![[Kronos.webp|350]]
+![[Kronos.webp|350]] ![[Kronos (4x5 Portrait).webp|350]]
 
 ## Overview
 
@@ -26,7 +26,11 @@ Kronos is the Demon General of Time, one of [[The Twelve Demon Generals]]. He wi
 
 ## Appearance
 
-*(to be filled)*
+- Tall, hooded figure draped in tattered black and dark navy robes streaked with cracks of gold
+- Face entirely hidden in shadow beneath the hood — no visible features
+- Skeletal, gold-cuffed hands
+- Carries an ornate gold hourglass with glowing silver-white sand
+- Often depicted before a massive pale full moon, framed by golden astral sigils
 
 ## Personality
 

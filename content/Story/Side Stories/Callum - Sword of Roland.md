@@ -343,6 +343,8 @@ Lord Hector Vance had made the world a worse place. Now he wasn't around to do i
 
 He let the blade dissipate, gave the scene another look, and headed for the window.
 
+![[Callum escaping the manor (from that one side story).webp|450]]
+
 Hopefully Roland's information would be worth the trouble.
 
 Because if this clue led nowhere, Callum was going to have a very unpleasant conversation with him.

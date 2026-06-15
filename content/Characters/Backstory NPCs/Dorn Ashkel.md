@@ -5,7 +5,7 @@ type: "character"
 campaign:
   - "1"
 race: "Red/Purple Tiefling"
-age: "30s (at death)"
+age: "35"
 height: "unknown"
 status: "deceased"
 title: "Dorn Ashkel"
@@ -14,7 +14,7 @@ title: "Dorn Ashkel"
 <aside class="infobox">
 <img src="../../portraits/dorn-ashkel.webp" alt="Dorn Ashkel">
 <div class="infobox-name">Dorn Ashkel</div>
-<table><tr><th>Aliases</th><td>Dorn</td></tr><tr><th>Race</th><td>Red/Purple Tiefling</td></tr><tr><th>Age</th><td>30s (at death)</td></tr><tr><th>Status</th><td>deceased</td></tr><tr><th>Campaign</th><td>1</td></tr></table>
+<table><tr><th>Aliases</th><td>Dorn</td></tr><tr><th>Race</th><td>Red/Purple Tiefling</td></tr><tr><th>Age</th><td>35</td></tr><tr><th>Status</th><td>deceased</td></tr><tr><th>Campaign</th><td>1</td></tr></table>
 </aside>
 
 

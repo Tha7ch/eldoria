@@ -21,7 +21,7 @@ title: "Elizabeth Irvenest"
 </aside>
 
 
-![[Elizabeth Irvenest (4x5 Portrait).webp|350]] ![[Kaisel Aella Elizabeth Finn Whiro Friendgroup As Kids.webp|350]]
+![[Elizabeth Irvenest (4x5 Portrait).webp|350]] ![[Kaisel Aella Elizabeth Finn Whiro Friendgroup As Kids.webp|350]] ![[Kaisel & Elizabeth.webp|350]]
 
 ## Appearance
 

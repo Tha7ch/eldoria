@@ -26,6 +26,8 @@ title: "Callum"
 ![[Cal (4x5 Portrait).webp|350]] ![[Cal (Beating Up Street Thugs).webp|350]] ![[Cal (Ready for a fight).webp|350]]
 ![[Cal (Chilling at a bar).webp|350]] ![[Cal (Lazing Up On a Rooftop).webp|350]] ![[Cal (Sleeping in a tree).webp|350]]
 ![[Cal overlooking sandy valley.webp|350]]
+![[Callum (Close-Up Eye Shot).webp|350]] ![[Cal (Golden Hour Close-Up).webp|350]] ![[Cyris and Cal (Library at Night).webp|350]]
+![[Callum escaping the manor (from that one side story).webp|350]]
 
 ## Overview
 

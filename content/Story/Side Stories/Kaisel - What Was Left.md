@@ -151,6 +151,8 @@ date-added: "2026-06-09"
 
  I hadn't noticed it before, which immediately annoyed me. It was a dagger, or at least shaped like one. The blade was thin and curved in a strange way, almost uneven, with markings carved along the metal that didn't look like any language I knew. The handle was black, wrapped in old leather, and the guard curved outward like little hooks.
 
+![[Kaisel harnessing glowing red dagger.webp|450]]
+
  I stepped closer.
 
  The feeling in my chest got worse.

@@ -15,13 +15,13 @@ title: "Michael the Evangelist"
 ---
 
 <aside class="infobox">
-<img src="../portraits/placeholder.svg" alt="Michael the Evangelist">
+<img src="../portraits/michael-the-evangelist.webp" alt="Michael the Evangelist">
 <div class="infobox-name">Michael the Evangelist</div>
 <table><tr><th>Aliases</th><td>Michael, The Evangelist</td></tr><tr><th>Status</th><td>deceased *(in doomed future; present-timeline status unknown)*</td></tr><tr><th>Affiliation</th><td><a href="../characters/gods/erebus">Erebus</a></td></tr><tr><th>Campaign</th><td>1</td></tr></table>
 </aside>
 
 
-![[Michael the Evangelist.webp|350]] ![[Michael Defeated.webp|350]]
+![[Michael the Evangelist.webp|350]] ![[Michael Defeated.webp|350]] ![[Michael the Evangelist (4x5 Portrait).webp|350]]
 
 ## Overview
 
@@ -29,8 +29,8 @@ Michael the Evangelist is an oath-breaker paladin and warlock who worships [[Ere
 
 ## Appearance
 
-- Short dark crimson/red spiky hair
-- Glowing red eyes — sinister, burning with fanatical intensity
+- Short, spiky deep crimson-red hair
+- Glowing red eyes — sinister, burning with fanatical intensity; a trickle of blood often runs from one eye down his cheek
 - Pale skin, imposing physical build
 - Black and deep crimson ornate armor with jagged, spiked details — corrupted and demonic in aesthetic
 - Long dark crimson/black cape flowing dramatically behind him

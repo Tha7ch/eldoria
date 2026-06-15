@@ -36,6 +36,7 @@ title: "Tirian Dawnmere"
 ![[Tirian and Gideon (22 years old).webp|350]] ![[Tirian, Gideon, and Lumiere (17 years old).webp|350]] ![[Tirian, Gideon, and Lumiere (22 years old).webp|350]]
 ![[Lumiere and Tirian.webp|350]] ![[Tirian and Finn sparring.webp|350]] ![[House Dawnmere Family.webp|350]]
 ![[Tirian x Amelia (Dancing Gala).webp|350]] ![[Tirian x Amelia (Flirting Gala).webp|350]] ![[Tirian breaking up with Amelia.webp|350]]
+![[Tirian (Close-Up Eye Shot).webp|350]] ![[Tirian (Tirian and Noctis Duality).webp|350]] ![[Tirian and Karsus (Confrontation at Strixhaven).webp|350]]
 
 ## Overview
 
@@ -68,7 +69,7 @@ He associates publicly with the [[Church of Light]], which worships [[Aria]], Go
 
 ## History
 
-Before the massacre, Tirian attended [[Strixhaven]], enrolled in the **Silverquill** college — the school of politics, rhetoric, ambition, and social power. A natural fit for someone building a legacy through influence and words. He completed his first two years before [[The Dawnmere Slaughter]] forced him to drop out. With no family left, he could not justify continuing — he had a house to hold together and a murder to investigate.
+Before the massacre, Tirian attended [[Strixhaven]], enrolled in the **Silverquill** college — the school of politics, rhetoric, ambition, and social power. A natural fit for someone building a legacy through influence and words. He completed his first two years before [[The Dawnmere Slaughter]] forced him to drop out. With no family left, he could not justify continuing — he had a house to hold together and a murder to investigate. [[Karsus Morningstar]], the Headmaster, did everything he could to try to convince Tirian to stay.
 
 Three years ago, [[House Dawnmere]] was massacred. Tirian was 20 years old. Every member of his family was murdered:
 
@@ -89,6 +90,7 @@ The assassins responsible are dead. The people who **ordered** the murders are n
 - [[Ludwig St. James]] — friend; Tirian treats him a bit like a younger brother
 - [[Aevos]] — friends
 - [[Amelia Irvenest]] — had a 2–3 week fling approximately two years ago (Tirian 21, Amelia 25); he ended it when he saw she was pursuing him for political gain and saw how she treated [[Kaisel Irvenest]] and commoners; told her: *"You inherited your mother's beauty, but clearly not her heart."*
+- [[Karsus Morningstar]] — Headmaster of [[Strixhaven]]; tried everything he could to convince Tirian not to drop out after the Dawnmere Slaughter
 
 ## Goals
 

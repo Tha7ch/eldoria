@@ -43,6 +43,7 @@ Aevos is an Aasimar Sorcerer played by Jeff in Campaign 2. He is one of the [[Ch
 - His hair grows longer — soft, flowing, past his shoulders, silky and voluminous, moving with even the slightest breeze
 - **Large wings of radiant white-gold light** manifest behind him — luminous, angelic, majestic; the wings of an angel rather than a bird
 - The air around him shimmers with celestial energy and golden embers
+- When he loses control or gives in to anger, his wings flicker a darker shade
 
 ## Magic
 
@@ -55,6 +56,8 @@ Charismatic and suave — confident, but not in a loud way. As a Chosen of [[Ari
 He has a good eye for a person's true nature — a read on character that helps him decide who will benefit from his light, and who will be smited by it.
 
 Beneath the confidence lies genuine compassion and a sincere desire to help people. He wants to be a hero, and he takes that responsibility seriously. He is willing to get his hands dirty for what he believes is just — his morality is not passive or ceremonial.
+
+Carries a touch of bipolarity — he sometimes feels like he loses control or gives in to anger more than he'd like. When this happens while in his Aasimar form, his wings flicker a darker shade.
 
 ## History
 

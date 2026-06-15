@@ -14,13 +14,13 @@ title: "Luciferus"
 ---
 
 <aside class="infobox">
-<img src="../../portraits/placeholder.svg" alt="Luciferus">
+<img src="../../portraits/luciferus.webp" alt="Luciferus">
 <div class="infobox-name">Luciferus</div>
 <table><tr><th>Aliases</th><td>The Demon Prince</td></tr><tr><th>Race</th><td>half-demon, half-angel</td></tr><tr><th>Affiliation</th><td><a href="../../organizations/the-twelve-demon-generals">The Twelve Demon Generals</a></td></tr><tr><th>Campaign</th><td>1</td></tr></table>
 </aside>
 
 
-![[Luciferus.webp|350]]
+![[Luciferus.webp|350]] ![[Luciferus (4x5 Portrait).webp|350]]
 
 ## Overview
 
@@ -28,7 +28,11 @@ Luciferus is the Demon Prince — half-demon, half-angel. He commands [[The Twel
 
 ## Appearance
 
-- One demonic wing and one angel wing on his back
+- One dark demonic wing and one pale radiant angel wing on his back
+- Long, wild pale-blond curly hair
+- Curling black ram-like horns
+- Pointed ears, pale skin, sharp elegant features
+- Black and white layered robes with ornate gold embroidery, lined with gold chains and an ornate cross/star pendant
 - Immense presence — forced party members to the ground simply by approaching
 
 ## Personality

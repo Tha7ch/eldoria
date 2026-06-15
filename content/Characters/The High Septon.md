@@ -42,5 +42,7 @@ Monetized the four major churches and placed noble families in control of each, 
 ## Relationships
 
 - [[King's Crown]] — member; one of the six council members
-- [[Olenna Howelle]] — his wife; grandmother of [[Jeane Howelle]]; connects [[House Howelle]] to King's Crown through marriage
+- [[Olenna Howelle]] — his wife; connects [[House Howelle]] to King's Crown through marriage. *(Olenna had Jeane Howelle's mother with a different man before marrying the High Septon — he is not Jeane's blood grandfather.)*
+- [[Jeane Howelle]] — Olenna's granddaughter through marriage, not by blood; Jeane hates him
+- [[Roland Royce]] — hates him
 - [[Lucerin Atreides]] — part of the faction attempting to control or undermine the young king

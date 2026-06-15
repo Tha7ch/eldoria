@@ -15,7 +15,7 @@ House Morningstar is a noble house that has produced powerful mages throughout i
 ## Known Members
 
 - [[Karsus Morningstar]] — Headmaster of Strixhaven and Grand Mage of Brittania
-- [[Merlin Morningstar]] — "The Prodigy of Potential"; Strixhaven student; constantly pushes the arcane to new heights
+- [[Merlin Morningstar]] — "The Prodigy of Potential"; Karsus's son; Strixhaven student; constantly pushes the arcane to new heights
 
 ## Relationships
 

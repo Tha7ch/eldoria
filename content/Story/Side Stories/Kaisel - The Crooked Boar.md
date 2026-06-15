@@ -366,6 +366,8 @@ date-added: "2026-06-09"
 
  Then I slammed his head into the wall.
 
+![[Kaisel slamming someones head into a table at a bar.webp|450]]
+
  He slid down beside the other one.
 
  I checked both of them quickly. Breathing. Awake enough to regret things. Fine.

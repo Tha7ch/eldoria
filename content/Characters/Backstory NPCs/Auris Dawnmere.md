@@ -5,7 +5,7 @@ type: "character"
 campaign:
   - "2"
 race: "Human"
-age: "~78 (at death)"
+age: "78 (at death)"
 height: "5'3\""
 affiliation:
   - "[[House Dawnmere]]"
@@ -14,11 +14,13 @@ title: "Auris Dawnmere"
 ---
 
 <aside class="infobox">
-<img src="../../portraits/placeholder.svg" alt="Auris Dawnmere">
+<img src="../../portraits/auris-dawnmere.webp" alt="Auris Dawnmere">
 <div class="infobox-name">Auris Dawnmere</div>
-<table><tr><th>Aliases</th><td>Auris</td></tr><tr><th>Race</th><td>Human</td></tr><tr><th>Age</th><td>~78 (at death)</td></tr><tr><th>Height</th><td>5'3"</td></tr><tr><th>Status</th><td>deceased</td></tr><tr><th>Affiliation</th><td><a href="../../organizations/noble-houses/house-dawnmere">House Dawnmere</a></td></tr><tr><th>Campaign</th><td>2</td></tr></table>
+<table><tr><th>Aliases</th><td>Auris</td></tr><tr><th>Race</th><td>Human</td></tr><tr><th>Age</th><td>78 (at death)</td></tr><tr><th>Height</th><td>5'3"</td></tr><tr><th>Status</th><td>deceased</td></tr><tr><th>Affiliation</th><td><a href="../../organizations/noble-houses/house-dawnmere">House Dawnmere</a></td></tr><tr><th>Campaign</th><td>2</td></tr></table>
 </aside>
 
+
+![[Auris Dawnmere (4x5 Portrait).webp|350]]
 
 ## Overview
 
@@ -27,8 +29,10 @@ Auris Dawnmere was [[Tirian Dawnmere]]'s grandmother. Very old and a bit senile 
 ## Appearance
 
 - Small and slightly hunched with age, 5'3"
-- Hair gone fully silver-white, kept in a loose braid
+- Long gray hair worn in a thick braid over one shoulder, with loose wisps framing her face
+- Purple eyes, soft and clear with a warm, knowing smile
 - Soft, creased face with warm eyes that still held clarity in kind moments
+- Cream and gold robes with delicate embroidery, paired with amethyst and gold jewelry — drop earrings, a pendant necklace, and a ring
 - Always seemed to be reaching for something or someone she was remembering
 
 ## Personality

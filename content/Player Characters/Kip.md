@@ -13,7 +13,7 @@ title: "Kip"
 ---
 
 <aside class="infobox">
-<img src="../portraits/placeholder.svg" alt="Kip">
+<img src="../portraits/kip.webp" alt="Kip">
 <div class="infobox-name">Kip</div>
 <table><tr><th>Race</th><td>Hobgoblin</td></tr><tr><th>Age</th><td>14</td></tr><tr><th>Height</th><td>5'0</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../organizations/honest-hearts">Honest Hearts</a></td></tr><tr><th>Player</th><td>Matthew</td></tr><tr><th>Campaign</th><td>1</td></tr></table>
 </aside>

@@ -3,13 +3,13 @@ type: "institution"
 campaign:
   - "1"
   - "2"
-part-of: "[[Brittania]]"
+part-of: "[[Caer Brittanis]]"
 title: "Strixhaven"
 ---
 
 ## Overview
 
-Strixhaven is the most prestigious magical institution in [[Brittania]] — the only advanced school for magic. It is very large and split into five individual colleges, each with a distinct philosophy and magical focus.
+Strixhaven is the most prestigious magical institution in [[Brittania]] — the only advanced school for magic. Located in [[Caer Brittanis]], the capital. It is very large and split into five individual colleges, each with a distinct philosophy and magical focus. It has dormitories on campus — [[Cyris Voss]] currently lives in them.
 
 ## The Five Colleges
 
@@ -48,9 +48,9 @@ The full cycle of the natural world — birth, growth, disease, healing, death, 
 ## Notable Residents & Alumni
 
 **Current Students:**
-- [[Cyris Voss]] — **Prismari**; nicknamed the Prismari Prodigy; 2nd year
+- [[Cyris Voss]] — **Prismari**; nicknamed the Prismari Prodigy; 2nd year; friends with [[Merlin Morningstar]]
 - [[Saelen Brightfeather]] — 4th year, one of the most prestigious students *(college unknown)*
-- [[Merlin Morningstar]] — student *(college unknown)*
+- [[Merlin Morningstar]] — "The Prodigy of Potential"; 2nd year *(college unknown)*; friends with [[Cyris Voss]] — showed him the forbidden section, which Karsus overlooks
 - [[Lucius Raymor]] — student *(college unknown)*
 
 **Faculty/Notable Figures:**
@@ -65,3 +65,5 @@ The full cycle of the natural world — birth, growth, disease, healing, death, 
 [[Lucerin Atreides]] was secretly visiting Strixhaven to watch a magic duel when the royal family was assassinated — his unauthorized absence is what saved his life.
 
 [[Cyris Voss]] runs a time magic research lab here and developed a spell capable of rewinding a small object ten seconds — a noted breakthrough.
+
+Strixhaven also has a **forbidden section** *(restricted archives — exact contents unknown)*. [[Merlin Morningstar]] showed it to [[Cyris Voss]]; [[Karsus Morningstar]] is aware and overlooks it.

@@ -28,6 +28,6 @@ Lady Olenna Howelle is the grandmother of [[Jeane Howelle]] and a figure of sign
 
 ## Relationships
 
-- [[Jeane Howelle]] — her granddaughter
+- [[Jeane Howelle]] — her granddaughter; Jeane's mother is from an earlier relationship with a different man, so Jeane is not a blood relative of [[The High Septon]]
 - [[The High Septon]] — her husband; member of [[King's Crown]]
 - [[House Howelle]] — senior member

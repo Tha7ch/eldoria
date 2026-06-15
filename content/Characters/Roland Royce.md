@@ -55,3 +55,4 @@ Roland Royce is a gunslinger with a cowboy aesthetic and the acting chief of [[T
 - [[The People's Liberation Front of Brittania]] — acting chief; runs the organization day-to-day under [[Lanius]]
 - [[Lanius]] — his leader
 - [[Callum]] — found him newly woken and memoryless beside a shattered crystal in a cave; recruited him into the fight against Brittania's corrupt systems by describing the world's brokenness and offering him a place in "we" — the choice that eventually tied Cal to the PLFB *(see [[Callum - Out of the Crystal]])*. Later arranged a transactional job for Cal in [[Thaylen]] — assassinating [[Lord Hector Vance]] in exchange for a lead on one of the relics *(see [[Callum - Sword of Roland]])*
+- [[The High Septon]] — hates him

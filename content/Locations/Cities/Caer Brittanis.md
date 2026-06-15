@@ -30,6 +30,7 @@ Even in childhood, Lanius felt the way strangers here watched him after his adop
 
 ## Points of Interest
 
+- [[Strixhaven]] — the only advanced magical institution in [[Brittania]]; has on-campus dormitories
 - **Lowtown** — the slum district in the lower city; where Lanius was born and raised
 - [[Black Lantern Row]] — criminal district in the lower city; heart of the city's organized underworld; private gambling clubs, underground markets, information brokers; characterized by red lanterns and a perpetual sense of being watched
 - [[The Old Bathhouse]] — far end of Black Lantern Row; Veyr's base of operations; lower chambers with steam baths accessible via hidden staircase

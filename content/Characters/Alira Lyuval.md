@@ -12,13 +12,13 @@ title: "Alira Lyuval"
 ---
 
 <aside class="infobox">
-<img src="../portraits/placeholder.svg" alt="Alira Lyuval">
+<img src="../portraits/alira-lyuval.webp" alt="Alira Lyuval">
 <div class="infobox-name">Alira Lyuval</div>
 <table><tr><th>Aliases</th><td>Alira</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Campaign</th><td>1</td></tr></table>
 </aside>
 
 
-![[Alira Lyuval.webp|350]] ![[Alira (Neutral).webp|350]]
+![[Alira Lyuval.webp|350]] ![[Alira (Neutral).webp|350]] ![[Alira Lyuval (4x5 Portrait).webp|350]]
 ![[Alira ChatGPT Image Feb 23, 2026, 06_20_12 PM.webp|350]] ![[Alira Chibi.webp|250]] ![[Alira stabby.webp|350]]
 
 ## Overview
@@ -28,8 +28,8 @@ Alira Lyuval is a former Thieves Guild prodigy who walked away on her own terms 
 ## Appearance
 
 - Lean, athletic, agile build
-- Pale, luminous complexion
-- Bright genuine smile, clear gray eyes
+- Fair complexion with a warm, rosy glow
+- Bright genuine smile, clear gray-green eyes
 - Just past shoulder-length hair with bold alternating black and gold streaks, slightly tousled
 - Fitted charcoal-black leather rogue jacket with ivory bodice underneath, white-gold filigree trim
 - Red sash, leather utility belt with pouches, gold medallion charm at hip

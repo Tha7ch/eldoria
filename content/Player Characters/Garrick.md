@@ -5,7 +5,7 @@ campaign:
 player: "Gio"
 race: "elf"
 age: "16"
-height: "unknown"
+height: "5'10"
 status: "alive"
 title: "Garrick"
 ---
@@ -13,13 +13,14 @@ title: "Garrick"
 <aside class="infobox">
 <img src="../portraits/garrick.webp" alt="Garrick">
 <div class="infobox-name">Garrick</div>
-<table><tr><th>Race</th><td>elf</td></tr><tr><th>Age</th><td>16</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Player</th><td>Gio</td></tr><tr><th>Campaign</th><td>2</td></tr></table>
+<table><tr><th>Race</th><td>elf</td></tr><tr><th>Age</th><td>16</td></tr><tr><th>Height</th><td>5'10</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Player</th><td>Gio</td></tr><tr><th>Campaign</th><td>2</td></tr></table>
 </aside>
 
 
 ![[Garrick (4x5 Portrait).webp|350]] ![[Garrick IMG_20260603_024531_844~2.webp|350]]
 ![[Garrick IMG_20260603_024543_346.webp|350]] ![[Garrick IMG_20260603_024608_168.webp|350]]
 ![[Garrick IMG_20260604_000925_242.webp|350]] ![[Garrick IMG_20260604_001202_761.webp|350]]
+![[Garrick in a fighting stance.webp|350]]
 
 ## Overview
 
@@ -27,6 +28,7 @@ Garrick is a Monk/Rogue played by Gio in Campaign 2. At 16, he is the youngest o
 
 ## Appearance
 
+- 5'10, 180 lbs of pure muscle
 - Short wild spiky dark brown hair — voluminous and energetic
 - Dark amber/golden-brown eyes — warm and bright; carries a faint suppressed smile as a default
 - Clearly young — softer jaw, youthful face, not yet hardened; looks his age

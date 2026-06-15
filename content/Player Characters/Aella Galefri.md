@@ -28,6 +28,7 @@ title: "Aella Galefri"
 
 ![[Aella (4x5 Portrait).webp|350]] ![[Aella Training In Field.webp|350]] ![[Aella Spar Against Jean.webp|350]] ![[Aella Teasing Ludwig.webp|350]]
 ![[Aella (Drawn by Sunn).webp|350]] ![[Kaisel Aella Elizabeth Finn Whiro Friendgroup As Kids.webp|350]]
+![[Aella's Birth with Torr and Seyrell.webp|350]] ![[Cyris and Aella (Session 7 - Rooftop Stand).webp|350]]
 
 ## Overview
 

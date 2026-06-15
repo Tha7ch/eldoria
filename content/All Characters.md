@@ -13,7 +13,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <a class="char-card" href="player-characters/aella-galefri"><img src="portraits/aella-galefri.webp" alt="Aella Galefri" loading="lazy"><div class="char-card-text"><div class="char-card-name">Aella Galefri</div><div class="char-card-role">Played by Jeff</div></div></a>
 <a class="char-card" href="player-characters/cyris-voss"><img src="portraits/cyris-voss.webp" alt="Cyris Voss" loading="lazy"><div class="char-card-text"><div class="char-card-name">Cyris Voss</div><div class="char-card-role">Played by Trace</div></div></a>
 <a class="char-card" href="player-characters/kieran-arden"><img src="portraits/kieran-arden.webp" alt="Kieran Arden" loading="lazy"><div class="char-card-text"><div class="char-card-name">Kieran Arden</div><div class="char-card-role">Played by Marco</div></div></a>
-<a class="char-card" href="player-characters/kip"><img src="portraits/placeholder.svg" alt="Kip" loading="lazy"><div class="char-card-text"><div class="char-card-name">Kip</div><div class="char-card-role">Played by Matthew</div></div></a>
+<a class="char-card" href="player-characters/kip"><img src="portraits/kip.webp" alt="Kip" loading="lazy"><div class="char-card-text"><div class="char-card-name">Kip</div><div class="char-card-role">Played by Matthew</div></div></a>
 <a class="char-card" href="player-characters/seros-ashwalker"><img src="portraits/seros-ashwalker.webp" alt="Seros Ashwalker" loading="lazy"><div class="char-card-text"><div class="char-card-name">Seros Ashwalker</div></div></a>
 <a class="char-card" href="player-characters/solstice-shuriv"><img src="portraits/solstice-shuriv.webp" alt="Solstice Shuriv" loading="lazy"><div class="char-card-text"><div class="char-card-name">Solstice Shuriv</div><div class="char-card-role">Played by Sunn</div></div></a>
 </div>
@@ -87,7 +87,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <a class="char-card" href="player-characters/tirian-dawnmere"><img src="portraits/tirian-dawnmere.webp" alt="Tirian Dawnmere" loading="lazy"><div class="char-card-text"><div class="char-card-name">Tirian Dawnmere</div><div class="char-card-role">sole surviving heir</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/sorin-dawnmere"><img src="portraits/sorin-dawnmere.webp" alt="Sorin Dawnmere" loading="lazy"><div class="char-card-text"><div class="char-card-name">Sorin Dawnmere</div><div class="char-card-role">former head of house</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/lirien-dawnmere"><img src="portraits/lirien-dawnmere.webp" alt="Lirien Dawnmere" loading="lazy"><div class="char-card-text"><div class="char-card-name">Lirien Dawnmere</div><div class="char-card-role">Sorin's wife, former commoner</div></div></a>
-<a class="char-card" href="characters/backstory-npcs/auris-dawnmere"><img src="portraits/placeholder.svg" alt="Auris Dawnmere" loading="lazy"><div class="char-card-text"><div class="char-card-name">Auris Dawnmere</div><div class="char-card-role">Sorin's mother, the grandmother</div></div></a>
+<a class="char-card" href="characters/backstory-npcs/auris-dawnmere"><img src="portraits/auris-dawnmere.webp" alt="Auris Dawnmere" loading="lazy"><div class="char-card-text"><div class="char-card-name">Auris Dawnmere</div><div class="char-card-role">Sorin's mother, the grandmother</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/finn-dawnmere"><img src="portraits/finn-dawnmere.webp" alt="Finn Dawnmere" loading="lazy"><div class="char-card-text"><div class="char-card-name">Finn Dawnmere</div><div class="char-card-role">Tirian's younger brother (16 at death)</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/lyra-dawnmere"><img src="portraits/lyra-dawnmere.webp" alt="Lyra Dawnmere" loading="lazy"><div class="char-card-text"><div class="char-card-name">Lyra Dawnmere</div><div class="char-card-role">Tirian's younger sister (12 at death)</div></div></a>
 <a class="char-card" href="characters/osric-hollowell"><img src="portraits/osric-hollowell.webp" alt="Osric Hollowell" loading="lazy"><div class="char-card-text"><div class="char-card-name">Osric Hollowell</div><div class="char-card-role">steward</div></div></a>
@@ -100,7 +100,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 
 <div class="char-grid">
 <a class="char-card" href="characters/backstory-npcs/torr-galefri"><img src="portraits/torr-galefri.webp" alt="Torr Galefri" loading="lazy"><div class="char-card-text"><div class="char-card-name">Torr Galefri</div><div class="char-card-role">head of the house and head of Church of the Storm</div></div></a>
-<a class="char-card" href="characters/backstory-npcs/arashi-galefri"><img src="portraits/placeholder.svg" alt="Arashi Galefri" loading="lazy"><div class="char-card-text"><div class="char-card-name">Arashi Galefri</div><div class="char-card-role">eldest son</div></div></a>
+<a class="char-card" href="characters/backstory-npcs/arashi-galefri"><img src="portraits/arashi-galefri.webp" alt="Arashi Galefri" loading="lazy"><div class="char-card-text"><div class="char-card-name">Arashi Galefri</div><div class="char-card-role">eldest son</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/whiro-galefri"><img src="portraits/whiro-galefri.webp" alt="Whiro Galefri" loading="lazy"><div class="char-card-text"><div class="char-card-name">Whiro Galefri</div><div class="char-card-role">second son</div></div></a>
 <a class="char-card" href="player-characters/aella-galefri"><img src="portraits/aella-galefri.webp" alt="Aella Galefri" loading="lazy"><div class="char-card-text"><div class="char-card-name">Aella Galefri</div><div class="char-card-role">daughter (banished)</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/urami-galefri"><img src="portraits/placeholder.svg" alt="Urami Galefri" loading="lazy"><div class="char-card-text"><div class="char-card-name">Urami Galefri</div><div class="char-card-role">wife of Torr</div></div></a>
@@ -149,7 +149,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 
 <div class="char-grid">
 <a class="char-card" href="characters/karsus-morningstar"><img src="portraits/karsus-morningstar.webp" alt="Karsus Morningstar" loading="lazy"><div class="char-card-text"><div class="char-card-name">Karsus Morningstar</div><div class="char-card-role">Headmaster of Strixhaven and Grand Mage of Brittania</div></div></a>
-<a class="char-card" href="characters/merlin-morningstar"><img src="portraits/placeholder.svg" alt="Merlin Morningstar" loading="lazy"><div class="char-card-text"><div class="char-card-name">Merlin Morningstar</div><div class="char-card-role">"The Prodigy of Potential"</div></div></a>
+<a class="char-card" href="characters/merlin-morningstar"><img src="portraits/merlin-morningstar.webp" alt="Merlin Morningstar" loading="lazy"><div class="char-card-text"><div class="char-card-name">Merlin Morningstar</div><div class="char-card-role">"The Prodigy of Potential"</div></div></a>
 </div>
 
 <div class="faction-banner"><a href="organizations/noble-houses/house-raymor">House Raymor</a></div>
@@ -183,6 +183,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <a class="char-card" href="characters/kingsguard/lucius-raymor"><img src="portraits/lucius-raymor.webp" alt="Lucius Raymor" loading="lazy"><div class="char-card-text"><div class="char-card-name">Lucius Raymor</div><div class="char-card-role">Chosen of Aria</div></div></a>
 <a class="char-card" href="player-characters/tirian-dawnmere"><img src="portraits/tirian-dawnmere.webp" alt="Tirian Dawnmere" loading="lazy"><div class="char-card-text"><div class="char-card-name">Tirian Dawnmere</div><div class="char-card-role">public affiliate (Campaign 2)</div></div></a>
 <a class="char-card" href="player-characters/aevos"><img src="portraits/aevos.webp" alt="Aevos" loading="lazy"><div class="char-card-text"><div class="char-card-name">Aevos</div><div class="char-card-role">Chosen of Aria</div></div></a>
+<a class="char-card" href="characters/backstory-npcs/seyrell"><img src="portraits/seyrell.webp" alt="Seyrell" loading="lazy"><div class="char-card-text"><div class="char-card-name">Seyrell</div><div class="char-card-role">previous Chosen of Aria, a generation before Lucius and Aevos</div></div></a>
 </div>
 
 <div class="faction-banner"><a href="organizations/churches/church-of-love">Church of Love</a></div>
@@ -199,7 +200,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <a class="char-card" href="characters/backstory-npcs/torr-galefri"><img src="portraits/torr-galefri.webp" alt="Torr Galefri" loading="lazy"><div class="char-card-text"><div class="char-card-name">Torr Galefri</div><div class="char-card-role">current head of the church</div></div></a>
 <a class="char-card" href="player-characters/aella-galefri"><img src="portraits/aella-galefri.webp" alt="Aella Galefri" loading="lazy"><div class="char-card-text"><div class="char-card-name">Aella Galefri</div><div class="char-card-role">former member</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/urami-galefri"><img src="portraits/placeholder.svg" alt="Urami Galefri" loading="lazy"><div class="char-card-text"><div class="char-card-name">Urami Galefri</div></div></a>
-<a class="char-card" href="characters/backstory-npcs/arashi-galefri"><img src="portraits/placeholder.svg" alt="Arashi Galefri" loading="lazy"><div class="char-card-text"><div class="char-card-name">Arashi Galefri</div></div></a>
+<a class="char-card" href="characters/backstory-npcs/arashi-galefri"><img src="portraits/arashi-galefri.webp" alt="Arashi Galefri" loading="lazy"><div class="char-card-text"><div class="char-card-name">Arashi Galefri</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/whiro-galefri"><img src="portraits/whiro-galefri.webp" alt="Whiro Galefri" loading="lazy"><div class="char-card-text"><div class="char-card-name">Whiro Galefri</div></div></a>
 </div>
 
@@ -220,7 +221,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <a class="char-card" href="characters/ludwig-st.-james"><img src="portraits/ludwig-st-james.webp" alt="Ludwig St. James" loading="lazy"><div class="char-card-text"><div class="char-card-name">Ludwig St. James</div><div class="char-card-role">founder and funder</div></div></a>
 <a class="char-card" href="player-characters/aella-galefri"><img src="portraits/aella-galefri.webp" alt="Aella Galefri" loading="lazy"><div class="char-card-text"><div class="char-card-name">Aella Galefri</div></div></a>
 <a class="char-card" href="player-characters/cyris-voss"><img src="portraits/cyris-voss.webp" alt="Cyris Voss" loading="lazy"><div class="char-card-text"><div class="char-card-name">Cyris Voss</div></div></a>
-<a class="char-card" href="player-characters/kip"><img src="portraits/placeholder.svg" alt="Kip" loading="lazy"><div class="char-card-text"><div class="char-card-name">Kip</div></div></a>
+<a class="char-card" href="player-characters/kip"><img src="portraits/kip.webp" alt="Kip" loading="lazy"><div class="char-card-text"><div class="char-card-name">Kip</div></div></a>
 <a class="char-card" href="player-characters/kieran-arden"><img src="portraits/kieran-arden.webp" alt="Kieran Arden" loading="lazy"><div class="char-card-text"><div class="char-card-name">Kieran Arden</div></div></a>
 <a class="char-card" href="player-characters/seros-ashwalker"><img src="portraits/seros-ashwalker.webp" alt="Seros Ashwalker" loading="lazy"><div class="char-card-text"><div class="char-card-name">Seros Ashwalker</div></div></a>
 <a class="char-card" href="player-characters/solstice-shuriv"><img src="portraits/solstice-shuriv.webp" alt="Solstice Shuriv" loading="lazy"><div class="char-card-text"><div class="char-card-name">Solstice Shuriv</div></div></a>
@@ -253,31 +254,30 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <div class="faction-banner"><a href="organizations/the-twelve-demon-generals">Demons & Demon Generals</a></div>
 
 <div class="char-grid">
-<a class="char-card" href="characters/demons/luciferus"><img src="portraits/placeholder.svg" alt="Luciferus" loading="lazy"><div class="char-card-text"><div class="char-card-name">Luciferus</div><div class="char-card-role">The Demon Prince</div></div></a>
+<a class="char-card" href="characters/demons/luciferus"><img src="portraits/luciferus.webp" alt="Luciferus" loading="lazy"><div class="char-card-text"><div class="char-card-name">Luciferus</div><div class="char-card-role">The Demon Prince</div></div></a>
 <a class="char-card" href="characters/null"><img src="portraits/placeholder.svg" alt="Null" loading="lazy"><div class="char-card-text"><div class="char-card-name">Null</div></div></a>
 <a class="char-card" href="characters/demons/x"><img src="portraits/placeholder.svg" alt="X" loading="lazy"><div class="char-card-text"><div class="char-card-name">X</div><div class="char-card-role">Demon General of Magic</div></div></a>
-<a class="char-card" href="characters/demons/kronos"><img src="portraits/placeholder.svg" alt="Kronos" loading="lazy"><div class="char-card-text"><div class="char-card-name">Kronos</div><div class="char-card-role">Demon General of Time</div></div></a>
+<a class="char-card" href="characters/demons/kronos"><img src="portraits/kronos.webp" alt="Kronos" loading="lazy"><div class="char-card-text"><div class="char-card-name">Kronos</div><div class="char-card-role">Demon General of Time</div></div></a>
 </div>
 
 ## Unaffiliated & Others
 
 
 <div class="char-grid">
-<a class="char-card" href="characters/alira-lyuval"><img src="portraits/placeholder.svg" alt="Alira Lyuval" loading="lazy"><div class="char-card-text"><div class="char-card-name">Alira Lyuval</div></div></a>
+<a class="char-card" href="characters/alira-lyuval"><img src="portraits/alira-lyuval.webp" alt="Alira Lyuval" loading="lazy"><div class="char-card-text"><div class="char-card-name">Alira Lyuval</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/dorn-ashkel"><img src="portraits/dorn-ashkel.webp" alt="Dorn Ashkel" loading="lazy"><div class="char-card-text"><div class="char-card-name">Dorn Ashkel</div></div></a>
 <a class="char-card" href="characters/hannibal"><img src="portraits/placeholder.svg" alt="Hannibal" loading="lazy"><div class="char-card-text"><div class="char-card-name">Hannibal</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/kane-orso"><img src="portraits/placeholder.svg" alt="Kane Orso" loading="lazy"><div class="char-card-text"><div class="char-card-name">Kane Orso</div></div></a>
 <a class="char-card" href="player-characters/leandros-thalassor"><img src="portraits/leandros-thalassor.webp" alt="Leandros Thalassor" loading="lazy"><div class="char-card-text"><div class="char-card-name">Leandros Thalassor</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/lord-hector-vance"><img src="portraits/placeholder.svg" alt="Lord Hector Vance" loading="lazy"><div class="char-card-text"><div class="char-card-name">Lord Hector Vance</div></div></a>
 <a class="char-card" href="characters/melan-thalassa"><img src="portraits/melan-thalassa.webp" alt="Melan Thalassa" loading="lazy"><div class="char-card-text"><div class="char-card-name">Melan Thalassa</div></div></a>
-<a class="char-card" href="characters/michael-the-evangelist"><img src="portraits/placeholder.svg" alt="Michael the Evangelist" loading="lazy"><div class="char-card-text"><div class="char-card-name">Michael the Evangelist</div></div></a>
+<a class="char-card" href="characters/michael-the-evangelist"><img src="portraits/michael-the-evangelist.webp" alt="Michael the Evangelist" loading="lazy"><div class="char-card-text"><div class="char-card-name">Michael the Evangelist</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/mira"><img src="portraits/placeholder.svg" alt="Mira" loading="lazy"><div class="char-card-text"><div class="char-card-name">Mira</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/nixi"><img src="portraits/placeholder.svg" alt="Nixi" loading="lazy"><div class="char-card-text"><div class="char-card-name">Nixi</div></div></a>
 <a class="char-card" href="characters/razaar-blackwing"><img src="portraits/placeholder.svg" alt="Razaar Blackwing" loading="lazy"><div class="char-card-text"><div class="char-card-name">Razaar Blackwing</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/roland-voss"><img src="portraits/roland-voss.webp" alt="Roland Voss" loading="lazy"><div class="char-card-text"><div class="char-card-name">Roland Voss</div></div></a>
 <a class="char-card" href="characters/saelen-brightfeather"><img src="portraits/placeholder.svg" alt="Saelen Brightfeather" loading="lazy"><div class="char-card-text"><div class="char-card-name">Saelen Brightfeather</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/serapha-ashkel"><img src="portraits/serapha-ashkel.webp" alt="Serapha Ashkel" loading="lazy"><div class="char-card-text"><div class="char-card-name">Serapha Ashkel</div></div></a>
-<a class="char-card" href="characters/backstory-npcs/seyrell"><img src="portraits/placeholder.svg" alt="Seyrell" loading="lazy"><div class="char-card-text"><div class="char-card-name">Seyrell</div></div></a>
 <a class="char-card" href="characters/the-warden"><img src="portraits/placeholder.svg" alt="The Warden" loading="lazy"><div class="char-card-text"><div class="char-card-name">The Warden</div></div></a>
 <a class="char-card" href="characters/veyr"><img src="portraits/veyr.webp" alt="Veyr" loading="lazy"><div class="char-card-text"><div class="char-card-name">Veyr</div></div></a>
 </div>

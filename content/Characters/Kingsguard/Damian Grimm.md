@@ -28,6 +28,7 @@ title: "Damian Grimm"
 
 ![[Damian Grimm (4x5 Portrait).webp|350]] ![[Damian.webp|350]] ![[Manuel training young Damien.webp|350]] ![[Damian and Kieran getting freaky.webp|350]]
 ![[Damian Grimm and Roland Royce (Standoff in the Rain - Wide).webp|350]] ![[Damian Grimm and Roland Royce (Standoff in the Rain - Close Up).webp|350]]
+![[Damian Grimm (Blood Magic - Eyes Ablaze).webp|350]] ![[Damian Grimm and Merlin Morningstar (Magic Clash - Close Up).webp|350]] ![[Damian Grimm and Merlin Morningstar (Magic Clash - Wide).webp|350]]
 
 ## Overview
 
@@ -64,7 +65,7 @@ Was present, alongside [[Tirian Dawnmere]], [[Lumiere Ameris]], [[Ludwig St. Jam
 
 - [[Lucerin Atreides]] — illegitimate brother; serves to protect him; clearly loves him
 - [[Godwyn Atreides]] — hated him; deceased
-- [[Gideon Atreides]] — genuinely loved him; one of the few royals who treated him as a person; deceased
+- [[Gideon Atreides]] — genuinely loved him; one of the few royals who treated him as a person; deceased; Damian is a few weeks older than Gideon
 - [[Catherine Atreides]] — hated him; deceased
 - [[Violet Atreides]] — loved him; deceased
 - [[Elio Atreides]] — adored him; the twins were especially attached to Damian; deceased

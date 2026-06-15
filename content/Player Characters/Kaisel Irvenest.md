@@ -7,7 +7,7 @@ campaign:
 player: "Tre"
 race: "unknown"
 age: "20"
-height: "6'3"
+height: "6'4"
 affiliation:
   - "[[Wylder]]"
   - "[[House Irvenest]]"
@@ -18,7 +18,7 @@ title: "Kaisel Irvenest"
 <aside class="infobox">
 <img src="../portraits/kaisel-irvenest.webp" alt="Kaisel Irvenest">
 <div class="infobox-name">Kaisel Irvenest</div>
-<table><tr><th>Aliases</th><td>Kaisel</td></tr><tr><th>Age</th><td>20</td></tr><tr><th>Height</th><td>6'3</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../characters/gods/wylder">Wylder</a><br><a href="../organizations/noble-houses/house-irvenest">House Irvenest</a></td></tr><tr><th>Player</th><td>Tre</td></tr><tr><th>Campaign</th><td>2</td></tr></table>
+<table><tr><th>Aliases</th><td>Kaisel</td></tr><tr><th>Age</th><td>20</td></tr><tr><th>Height</th><td>6'4</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../characters/gods/wylder">Wylder</a><br><a href="../organizations/noble-houses/house-irvenest">House Irvenest</a></td></tr><tr><th>Player</th><td>Tre</td></tr><tr><th>Campaign</th><td>2</td></tr></table>
 </aside>
 
 
@@ -39,6 +39,7 @@ Kaisel (adopted name: **Kaisel Irvenest**) is a paladin played by Tre in Campaig
 ![[Kaisel Sword.webp|350]] ![[Kaisel Amulet.webp|350]] ![[Kaisel (6 years old).webp|350]]
 ![[Kaisel (6 years old) meeting Aella for the first time.webp|350]] ![[Kaisel dark infiltration outfit.webp|350]]
 ![[Kaisel walking into a hostile tavern.webp|350]] ![[Kaisel meeting peoples liberation front.webp|450]]
+![[Kaisel & Elizabeth.webp|350]] ![[Kaisel Putting Helmet On.webp|350]]
 
 ## Appearance
 
@@ -46,7 +47,7 @@ Kaisel (adopted name: **Kaisel Irvenest**) is a paladin played by Tre in Campaig
 - Fair skin
 - Warm amber/golden-brown eyes
 - A wide open grin as his default expression — the goofy energy is visible from across a room
-- 6'3", broad-shouldered and powerfully built
+- 6'4", 200 lbs, more of a lean build than bulky — broad-shouldered but not heavily muscled
 
 **Casual outfit:** White and navy/blue noble clothing with star motifs, chains, and belt buckles — light and expressive
 
@@ -72,7 +73,7 @@ Some noble families look down on him and consider him a fake noble — a charity
 
 Kaisel's parents died when he was 2–3 years old. After being orphaned, he was adopted by [[House Irvenest]] — one of Brittania's major royal families. His adopted father [[Roland Irvenest]] personally chose to adopt him and loved him as his own, keeping him sheltered until age 12. His adopted mother [[Catherine Irvenest]] pushed back on the overprotection and insisted he experience the real world.
 
-At 12, he became a **Chosen of [[Wylder]]**, God of Ascension. The sheltered life effectively ended there. As he grew older, the calling led him to the paladin path. Catherine convinced Roland to send him to a paladin academy, and at 16 he trained and swore his formal oath to Wylder.
+At 12, shortly after [[Aella Galefri]]'s disappearance, he became a **Chosen of [[Wylder]]**, God of Ascension. The sheltered life effectively ended there. As he grew older, the calling led him to the paladin path. Catherine convinced Roland to send him to a paladin academy, and at 16 he trained and swore his formal oath to Wylder.
 
 He carries only two possessions from his birth family: a longsword of unknown material named **Nadir**, and an amulet. He has trained with the sword for as long as he can remember — it is practically part of him.
 
@@ -87,7 +88,7 @@ He carries only two possessions from his birth family: a longsword of unknown ma
 - [[Amelia Irvenest]] — adopted sister (age 27); looks down on him; privately disdainful
 - [[Finn Dawnmere]] † — close friend; killed in [[The Dawnmere Slaughter]] when Kaisel was 17. One of the significant losses of his teenage years
 - [[Torr Galefri]] — hates Kaisel; Kaisel knows it and rage-baits him deliberately
-- [[Aella Galefri]] — friends; her banishment when Kaisel was 13 was the first major loss of his teenage years, followed four years later by Finn's death. Both hit hard
+- [[Aella Galefri]] — friends; her disappearance when Kaisel was 12 was the first major loss of his youth, followed five years later by Finn's death. Both hit hard
 - [[Whiro Galefri]] — was an asshole to Kaisel when Kaisel was 7 (Whiro 9); by the time Kaisel was 11 and Whiro 13 they became genuine friends — close for about nine years
 - [[Veyr]] — information broker operating out of [[The Old Bathhouse]] in [[Black Lantern Row]]; only person to seriously investigate Aella's disappearance before Kaisel; pointed him toward House Galefri as the likely origin of the conspiracy; he found her sister [[Mira]] and brought back her journal
 - [[Kane Orso]] — trafficker Kaisel confronted at [[The Crooked Boar]] while searching for leads on Aella; gave up Veyr's name; left alive
@@ -109,13 +110,13 @@ He carries only two possessions from his birth family: a longsword of unknown ma
 
 ## Story
 
-**Age 17 — The Search for Aella (backstory):** When [[Aella Galefri]] disappeared, Kaisel spent months looking for answers. All legitimate avenues — noble channels, official inquiries — produced nothing. He eventually pushed into [[Caer Brittanis]]'s criminal underground, tearing through the lower districts until he found [[Kane Orso]] at [[The Crooked Boar]]. He cleared the entire tavern, got Kane's name for an information broker, and walked into [[Black Lantern Row]].
+**Age 17 — The Search for Aella (backstory):** [[Aella Galefri]] disappeared when Kaisel was 12, and he never let it go. All legitimate avenues — noble channels, official inquiries — produced nothing over the years. At 17, he took the search underground. He eventually pushed into [[Caer Brittanis]]'s criminal underground, tearing through the lower districts until he found [[Kane Orso]] at [[The Crooked Boar]]. He cleared the entire tavern, got Kane's name for an information broker, and walked into [[Black Lantern Row]].
 
 [[Veyr]] had already heard about the Crooked Boar before he arrived. She'd spent months independently investigating Aella's disappearance, exhausting every external lead — travel records, guard routes, servant gossip, criminal ledgers, smuggling paths, hidden roads — and found nothing. Her conclusion: whoever orchestrated the disappearance was already inside [[House Galefri]]. When Kaisel heard "House Galefri insider," his mind went immediately to [[Whiro Galefri]], and he couldn't shake it even though he didn't want to believe it.
 
 In exchange for the information, Veyr asked him to check on her sister [[Mira]], who had gone quiet. Kaisel found Mira's house in a small town outside the city — she had been possessed by a demon. The fight was desperate; he took significant damage. When he was cornered and near-defeated, something happened: words came out of him he didn't choose — *Eldritch Blast* — and black-and-red energy tore through the demon and drove it back. He killed it, but couldn't reproduce what he'd done. He buried Mira in the garden behind her house and brought her journal to Veyr.
 
-He returned to the Irvenest estate to find that [[House Dawnmere]] had been slaughtered three days earlier. [[Finn Dawnmere]] was dead. He found [[Tirian Dawnmere]] at the estate — present but broken, visibly destroyed. The two losses — Aella gone at 13, Finn dead at 17 — bracket his adolescence.
+He returned to the Irvenest estate to find that [[House Dawnmere]] had been slaughtered three days earlier. [[Finn Dawnmere]] was dead. He found [[Tirian Dawnmere]] at the estate — present but broken, visibly destroyed. The two losses — Aella gone at 12, Finn dead at 17 — bracket his adolescence.
 
 *(Campaign 2 has not yet begun.)*
 

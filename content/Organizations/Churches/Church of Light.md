@@ -19,6 +19,7 @@ One of the four major churches of [[Brittania]]. The Church of Light worships [[
 - [[Lucius Raymor]] — Chosen of Aria
 - [[Tirian Dawnmere]] — public affiliate (Campaign 2)
 - [[Aevos]] — Chosen of Aria; Church prodigy, underwent divine experimental rites (Campaign 2)
+- [[Seyrell]] — previous Chosen of Aria, a generation before Lucius and Aevos; deceased
 
 ## Relationships
 
