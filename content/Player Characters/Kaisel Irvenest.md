@@ -43,7 +43,7 @@ Kaisel (adopted name: **Kaisel Irvenest**) is a paladin played by Tre in Campaig
 
 ## Appearance
 
-- Short messy hair — a natural mix of **white and brown**, tousled and energetic
+- Short messy hair — primarily white with defined brown streaks throughout, tousled and energetic
 - Fair skin
 - Warm amber/golden-brown eyes
 - A wide open grin as his default expression — the goofy energy is visible from across a room

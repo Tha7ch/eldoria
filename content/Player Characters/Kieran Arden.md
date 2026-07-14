@@ -10,7 +10,7 @@ age: "unknown"
 height: "unknown"
 affiliation:
   - "[[Honest Hearts]]"
-status: "deceased (presumed)"
+status: "deceased"
 spoiler-status: "true"
 title: "Kieran Arden"
 ---
@@ -18,7 +18,7 @@ title: "Kieran Arden"
 <aside class="infobox">
 <img src="../portraits/kieran-arden.webp" alt="Kieran Arden">
 <div class="infobox-name">Kieran Arden</div>
-<table><tr><th>Aliases</th><td>Kieran</td></tr><tr><th>Race</th><td>Dhampir</td></tr><tr><th>Status</th><td><span class="spoiler" tabindex="0" title="Click to reveal">deceased (presumed)</span></td></tr><tr><th>Affiliation</th><td><a href="../organizations/honest-hearts">Honest Hearts</a></td></tr><tr><th>Player</th><td>Marco</td></tr><tr><th>Campaign</th><td>1</td></tr></table>
+<table><tr><th>Aliases</th><td>Kieran</td></tr><tr><th>Race</th><td>Dhampir</td></tr><tr><th>Status</th><td><span class="spoiler" tabindex="0" title="Click to reveal">deceased</span></td></tr><tr><th>Affiliation</th><td><a href="../organizations/honest-hearts">Honest Hearts</a></td></tr><tr><th>Player</th><td>Marco</td></tr><tr><th>Campaign</th><td>1</td></tr></table>
 </aside>
 
 
@@ -48,7 +48,9 @@ From [[Brittania]]. His family ran an apothecary. His father was an investigator
 
 ## Story
 
-**Session 7:** Targeted by [[Hannibal]] and trapped in a purple cube with the Warden. Fought back but was overwhelmed — teeth knocked out, arm cracked audibly, body mangled. Tossed out of the cube when Hannibal declared he was "over the limit." **Presumed dead.** Kip puked upon seeing the state of his body.
+**Session 8:** Confirmed dead. Aella told [[Ludwig St. James]] and [[Lucius Raymor]] directly: "He's dead. It was an impenetrable barrier. He was beaten to death." His body was carried by [[Seros Ashwalker]], then by Cyris's unseen servant, and taken to the infirmary. Lucius offered to cover funeral costs; Aella said she wasn't the person to speak to about arrangements. No known family contacts — Kieran was the quiet type. Kip had been trying to forget what he saw; Cyris was quietly disturbed by how quickly Aella and Solstice dismissed the death.
+
+**Session 7:** Targeted by [[Hannibal]] and trapped in a purple cube with the Warden. Fought back but was overwhelmed — teeth knocked out, arm cracked audibly, body mangled. Tossed out of the cube when Hannibal declared he was "over the limit." Kip puked upon seeing the state of his body.
 
 **Session 5:** Stayed present during Damian's interrogation aftermath. Told Damian he should have used a different method. Damian came to his room that night — they bonded over controlled anger, and began a romantic relationship.
 

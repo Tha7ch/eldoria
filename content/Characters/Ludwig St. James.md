@@ -47,6 +47,8 @@ Somewhat awkward in direct conversation — stuttered introducing himself to Cyr
 
 He has a well-known playboy reputation, which [[Aella Galefri]] particularly enjoys teasing him about. The reputation is not incidental — Ludwig seeks escapism through worldly pleasure: love, lust, indulgence. He is under the constant pressure of being the **Chosen of [[Mara]]**, Goddess of Love, Fertility, and Life. The weight of that divine expectation pushes him toward the very thing he's supposed to embody — but as escape rather than devotion.
 
+Growing up, he frequently heard *"Why can't you be more like [[Lucius Raymor]]?"* — Lucius was the model child parents held up against troubled kids.
+
 ## History
 
 Heir to [[House St. James]], a human house that has produced countless heroes and important figures. Is funding and establishing the guild that the party agreed to join.
@@ -64,6 +66,8 @@ Was present, alongside [[Tirian Dawnmere]], [[Lumiere Ameris]], [[Damian Grimm]]
 - [[House St. James]] — his noble house
 
 ## Story
+
+**Session 8:** Was terrified and out of his element when [[Hannibal]] and the Warden appeared — reached for his sword with a trembling hand and prayed to Mara. [[Solstice Shuriv]] grabbed his arm and told him to relax. Later sat with [[Lucius Raymor]] and [[Aella Galefri]] in the courtyard. His sword literally fell to the ground when Aella told them Kieran is dead; he fell out of his chair. Joked about Lucius's Elvish princess to deflect the mood; got called "nun-fucker" by Aella. Mentioned that [[Lumiere Ameris]], "the older Morningstar," and "the Lionheart" (blonde, very confident — "Lion Boy") are all coming back. Put his faith in Lucerin as the one who can save the country. Briefly tried to get Aella to say why she came back to Brittania — she deflected. Ran back to invite Solstice for drinks before leaving to meet the High Septon with the other Chosens.
 
 **Session 4:** Took the party shopping. Correctly identified Cyris as a time wizard. Revealed he took his knight's oath at age 14. Shared that Damian was once in love with a maiden of the queen who was married off. During the rooftop ambush, killed one assassin and dragged the other away — destination unknown.
 

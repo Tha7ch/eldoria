@@ -21,7 +21,7 @@ title: "Solstice Shuriv"
 </aside>
 
 
-![[Solstice Shuriv (4x5 Portrait).webp|350]] ![[Solstice (Pose).webp|350]] ![[Solstice (Dragon Pose).webp|350]] ![[Solstice (Tongue Out).webp|350]]
+![[Solstice Shuriv (4x5 Portrait).webp|350]] ![[Solstice Reference Full Body.webp|350]] ![[Solstice (Pose).webp|350]] ![[Solstice (Dragon Pose).webp|350]] ![[Solstice (Tongue Out).webp|350]]
 ![[Solstice (Cute).webp|350]] ![[Solstice (Baby).webp|250]] ![[Solstice (Tiny Baby).webp|250]]
 ![[Solstice (Timeskip).webp|350]] ![[Solstice Dragon.webp|350]] ![[Solstice_Shuriv_freaky_pt_2.webp|350]]
 
@@ -32,15 +32,17 @@ Solstice Shuriv is a human draconic sorcerer. Cold, sharp-tongued, and highly ca
 ## Appearance
 
 - Human female, 5'7
-- Striking two-toned hair — one side pure white falling loose and wavy, the other jet black pulled up in a knot/bun; the contrast is sharp and deliberate
+- Very long white/silver hair flowing freely; a dark section flows separately behind her, creating a two-toned effect — the white dominant, the dark trailing like a shadow
 - Pale fair skin
-- Dark, heavy-lidded eyes with dark markings beneath them — almost like shadows permanently settled under her gaze
+- Teal/cyan eyes, heavy-lidded with dark markings permanently settled beneath them
 - Dark markings/lines running across her face and down her neck — like dark veins or arcane scarring
-- Long pointed ears with ear cuffs
-- Small and slender, deceptively so
-- Wears dark teal and black layered clothing — high-collared, scale-like armor panels, form-fitted
-- Teal/blue gemstone pendant at her throat
-- Her expression defaults to something between cold and mildly amused — the look of someone who finds most situations beneath full attention
+- Septum ring
+- Long pointed ears
+- Slender and small, deceptively so
+- Wears a form-fitting dark bodysuit covered in intricate geometric vine-like patterning across the entire surface; a long dark flowing cloak/cape layers over it
+- Carries a **dragon egg** — pale, with handprints pressed into the shell
+- Bears an unknown sigil on her body — labeled "Mark of [redacted]" in her reference art; the name it belongs to is deliberately obscured *(see Mysteries)*
+- Default expression: cold, mildly amused, the look of someone who finds most situations beneath full attention
 
 ## Personality
 
@@ -55,6 +57,8 @@ Originally from [[Frostgard]], the snowy country. *(Everything else is largely u
 - [[Lucerin Atreides]] — reluctant but warming; Lucerin says she is one of the people he trusts
 
 ## Story
+
+**Session 8:** Escaped with the king and the Kingsguard through the city. [[Hannibal]] appeared to her group — he told [[Manuel]] "you're not supposed to be here" and said he was "interested in the woman behind you," referring to Solstice. After Hannibal disappeared, [[Manuel]] killed the Warden in five sword strokes. Solstice pulled [[Lucerin Atreides]] out of her bag by his collar. Lucerin asked about "that round thing" in the bag (the dragon egg) — she deflected, calling it a globe. After half a day sneaking back to the castle, the Kingsguard knelt to Solstice and praised her for saving the king. Manuel privately warned her that whatever is in her bag "won't leave these walls" — she was furious but accepted it. Manuel trauma dumped about Damian. Solstice is not good at comfort but held the conversation anyway. In the distillery later: had her drink frozen by her own Ray of Frost after Cyris lit it on fire; dodged Kip's mashed potato prank (Cyris got hit instead); was cold but not unkind when Kieran's death was mentioned — "How unfortunate. Things happen."
 
 **Session 7:** Hid [[Lucerin Atreides]] in her bag of holding to protect him during the parade attack — he discovered the dragon egg inside. Sent a message to the party: "I have the king in my bag."
 

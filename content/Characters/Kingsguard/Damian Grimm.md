@@ -79,6 +79,10 @@ Was present, alongside [[Tirian Dawnmere]], [[Lumiere Ameris]], [[Ludwig St. Jam
 
 ## Story
 
+**Session 8:** Found mangled in a bloody crater — sent through several buildings by the backlash from his own spells. Barely breathing. [[Kylo Wisemoon]] said he has to pull through on his own; Healing Word from [[Aella Galefri]] did the opposite — his skin burned (confirmed blood magic incompatibility with healing spells). Carried by [[Seros Ashwalker]] back to the castle infirmary. [[Kylo Wisemoon]] is actively keeping the extent of his injuries from [[Manuel]] — "He'll lose his mind." Kylo told Cyris "he should be alright" in the throne room to keep up the cover. [[Jeane Howelle]] went to check on him.
+
+**Session 7:** Tried to save Kieran by throwing a blood spear at Hannibal's purple cube — it bounced back and impaled him. Tried again with even more power — the backlash blasted him over a mile through the city, destroying several buildings.
+
 **Session 2:** Came with the Kingsguard to free the party. Used blood magic — sliced his finger, formed a key from his blood — to open Kieran's cell. Told Kieran about blood magic being forbidden. Handed Cyris a letter to excuse him from class. Told the party that Lucerin is his brother. Asked them to look out for Lucerin. Glanced meaningfully at Kieran on departure.
 
 **Session 4 (via Ludwig):** Was once in love with a maiden of the queen, but she was married off. Ludwig describes him as "a sensitive kid."

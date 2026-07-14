@@ -53,6 +53,8 @@ A former criminal from [[The Badlands]]. Joined the [[Honest Hearts]] to get bac
 
 ## Story
 
+**Session 8:** Carried [[Kieran Arden]]'s body until [[Cyris Voss]] summoned an unseen servant to take it. Later scooped up [[Damian Grimm]] from the bloody crater and carried him back to the castle. Escorted Damian and Kieran to the infirmary with [[Kylo Wisemoon]].
+
 **Session 4:** Drew three cards from a Deck of Many Things at the shop. *(Effects unrecorded.)* Fought a rooftop assassin alongside Solstice — was hit three times and thrown off the roof, knocked unconscious.
 
 **Session 3:** Introduced by Ludwig as the sixth person Lucerin saw in his visions. Was asleep at a table in the guild hall when Aella woke him with a gust of wind. Exchanged barbs with Kip immediately. Accepted the group with minimal fuss. Received 1000 gold for the parade assignment.

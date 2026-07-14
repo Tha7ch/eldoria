@@ -8,7 +8,7 @@ title: "Honest Hearts"
 
 ## Overview
 
-An adventuring guild funded and organized by [[Ludwig St. James]] of [[House St. James]]. Based in [[Brittania]] but operates across continents. The party joined in Session 2. The guild has no official name yet.
+An adventuring guild funded and organized by [[Ludwig St. James]] of [[House St. James]]. Based in [[Brittania]] but operates across continents. The party joined in Session 2.
 
 ## Leadership
 

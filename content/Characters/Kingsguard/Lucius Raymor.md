@@ -46,7 +46,7 @@ Lucius Raymor is the Chosen of [[Aria]], Goddess of Light. At 22, he is a member
 
 ## Personality
 
-*(to be filled)*
+Growing up, Lucius was the kid that parents pointed troubled children at — the name invoked to inspire shame or aspiration depending on your angle: *"Why can't you be more like Lucius?"* He was the model of what a young noble was supposed to be. [[Aella Galefri]] and [[Ludwig St. James]] in particular heard this comparison often.
 
 ## History
 
@@ -64,6 +64,8 @@ Son of [[Silas Raymor]] (Duke of House Raymor, formerly known as Silas the Stron
 - [[Strixhaven]] — student
 
 ## Story
+
+**Session 8:** Sat with Ludwig and Aella in the courtyard after the parade attack. Was visibly shaken when Aella told them Kieran is dead ("Oh gods."). Offered to cover funeral costs and reach out to Kieran's family; Aella said she wasn't the person to talk to. Confirmed that [[Lumiere Ameris]], "the older Morningstar," and "the Lionheart" are all coming back to Brittania. Told Aella she'll meet the heir of [[House Dawnmere]] officially at the upcoming gala. Privately warned Aella that her family knows she's back — word spread through palace nobles. Got mercilessly roasted by Ludwig about the Elvish princess; walked away rather than engage. He and Ludwig had to leave to meet the other Chosens — the High Septon apparently has something for them.
 
 **Session 4 (via Ludwig):** Ludwig mentioned Lucius has been "charmed by some Elven students at Strixhaven" — likely a reference to his romantic interest with an Elven princess.
 

@@ -49,9 +49,11 @@ Aella Galefri is a half-elf storm mage of approximately 21 years. Blunt, aggress
 
 Very aggressive and blunt. Sharp tongue, does not tolerate condescension or sexism. Despite her edge, she has moments of loyalty — she told Damian "you're a good brother" in Session 2. Dislikes being called "Lady Galefri" but reluctantly accepts "Lady Aella."
 
+Growing up, she frequently heard *"Why can't you be more like [[Lucius Raymor]]?"* — he was the model child parents invoked to shame troubled kids.
+
 ## History
 
-Was banished from the [[Church of the Storm]] and sent to [[Elsweyr]] seven years ago — when she was 14. *(Circumstances unconfirmed — she said she would explain more later.)*
+Was banished from the [[Church of the Storm]] and sent to [[Elsweyr]] seven years ago — when she was 14. *(Circumstances unconfirmed — she said she would explain more later.)* She doesn't even know why she came back to Brittania — told Ludwig she'd explain over a drink sometime. Her family ([[House Galefri]] / Church of Storm) now knows she's back; word spread through the palace nobles.
 
 **She is a bastard child.** Her father [[Torr Galefri]] had an affair with a woman named [[Seyrell]], and Aella was the result. She was raised in the Galefri household, but her illegitimacy explains the cruelty, neglect, and eventual banishment she experienced. Her family name "Galefri" carries associations she wants no part of.
 
@@ -72,6 +74,8 @@ Was banished from the [[Church of the Storm]] and sent to [[Elsweyr]] seven year
 - [[Kaisel Irvenest]] — likely friendship and mutual respect (Campaign 2); he doesn't carry the snobbishness of most nobles
 
 ## Story
+
+**Session 8:** After the parade attack, searched for Damian with the group. Found him mangled in a bloody crater — Healing Word burned him instead of healing (blood magic). At the castle crossroads, brooded alone in the courtyard polishing her spear. [[Ludwig St. James]] and [[Lucius Raymor]] sat down with her. She told them Kieran is dead — Ludwig's sword fell to the ground; he fell out of his chair. Dismissed her own grief: "I barely knew the guy. I've dealt with loss before — it's no big deal." Shut down Ludwig's commentary about the nobility. Heard from Lucius that [[Lumiere Ameris]], "the older Morningstar" *(unconfirmed — possibly [[Karsus Morningstar]])*, and someone called "the Lionheart" (blonde, very confident) are all coming back to Brittania. When Ludwig mentioned the Lionheart was blonde, Aella paused — seemed to think of someone — then said "it's nobody." Learned she'll meet the heir of [[House Dawnmere]] officially at the upcoming gala. Found out her family (Church of Storm / House Galefri) knows she's back. In the distillery: froze drink retribution, cold reaction to Kieran's death ("how unfortunate, things happen"), gave Kip a look when he brought it up again.
 
 **Session 5:** Stepped outside after Damian's interrogation — the blood affected her. Kylo found her, sat with her without pushing. Revealed her father was similar to Damian. Showed Kylo her scars; deflected when asked about their origin. Bonded genuinely. Tested her new crystal-spear; her lightning runs almost purple-red. Revealed she knows the leader of the northern druid grove in Elsweyr.
 

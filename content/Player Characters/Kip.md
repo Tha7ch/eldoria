@@ -56,6 +56,8 @@ From [[Petalton]], a small village in [[Elsweyr]]. Got arrested for stealing.
 
 ## Story
 
+**Session 8:** Helped search the city for Damian with the rest of the group — found him in a bloody crater, barely breathing. Looked away from the gruesome sight. Offered a Goodberry for Damian. At the crossroads went to the infirmary. In the throne room with Cyris and Manuel: brought up that Hannibal knew his sister's name and spoke of "different times." Got the small proud smile when Manuel confirmed he slew the Warden. Tried to cover with Manuel about Damian's condition when Cyris gave him a look. Asked for ale in the distillery — confirmed he's drank before. Masterminded the mashed potato prank on Solstice; she dodged it, Cyris got hit instead; got knocked flat by Cyris's retaliatory chicken leg spell. Had been trying to forget Kieran's death — his face fell again when it was mentioned at the distillery.
+
 **Session 7:** Stabbed during the parade fight — coughed up blood, felt fear for the first time. Followed Hannibal and transformed into a miniature dragon to help. Hannibal named his sister Nixi as a threat. Slammed into Hannibal's cube, launched into a building. Cried over Kieran's mangled body. Refused to go home — chose to stay and hunt Hannibal to protect his sister.
 
 **Session 2:** Arrested for stealing. Released when Manuel literally snapped the bars off rather than waste time. Immediately asked about gold. Excited by everything. Received 250 gold from Manuel. Asked Kieran if he should steal Damian's jewelry — Damian heard. Agreed to join the [[Honest Hearts]].

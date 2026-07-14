@@ -67,6 +67,8 @@ The [[House Atreides]] line is descended from King [[Arthur Atreides]] of the An
 
 ## Story
 
+**Session 8:** Was in the path of [[Hannibal]] and the Warden. Pulled out of [[Solstice Shuriv]]'s bag by the collar when she grabbed him to keep him safe. When Hannibal noted Solstice's interest in him, Solstice deflected — said it was just a "globe, for my collection," about the bag. Carried to safety. Later received the group in the throne room alongside [[Kylo Wisemoon]]. [[Ludwig St. James]] expressed faith in his ability to save Brittania.
+
 **Session 2:** Met the party after the Kingsguard freed them from prison on his behalf. Showed them a vision of their future selves in a ruined throne room. Asked for their help leading Brittania.
 
 **Session 3:** Appeared at the guild hall. Broke from formality to directly accuse [[King's Crown]] of sabotaging him and possibly being responsible for his family's deaths. Named [[House St. James]], [[House Ameris]], and [[House Howelle]] as the trustworthy houses. Confirmed his awareness of political danger — "They won't say it, so I will." Demonstrated his foresight by showing them a vision of their older selves in a ruined future throne room. Briefly healed [[Kieran Arden]]'s face marking using primordial magic. Knelt to the party when asking for their help. Asked them to aid him in leading Brittania to a better tomorrow.
