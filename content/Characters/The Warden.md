@@ -20,7 +20,18 @@ title: "The Warden"
 
 ## Overview
 
-The Warden was [[Hannibal]]'s enforcer. Could grow to eight feet tall in combat. Wielded a flail, and also carried a twelve-foot spear of thick solid metal. Was trapped alongside [[Kieran Arden]] in Hannibal's purple cube during the parade attack — nearly killed Kieran before Hannibal called him off. Killed by [[Manuel]] in Session 8.
+The Warden was [[Hannibal]]'s enforcer — a massive, mutated figure who appeared to have once been human. Could grow to eight feet tall in combat. Wielded a flail and a twelve-foot spear of thick solid metal. Acted entirely on Hannibal's orders, without apparent will of his own. Killed by [[Manuel]] in Session 8.
+
+## Appearance
+
+- Described as "what used to be a huge man — now genetically or scientifically mutated"
+- Grows to eight feet tall in combat
+- Massive build; the spear he carries is twelve feet of thick solid metal
+- Presence reads as something done *to* a person, not something they were born as
+
+## Personality
+
+No dialogue, no apparent independent will. Acted entirely on Hannibal's orders — when Hannibal said stop, he stopped; when Hannibal left, he stayed and fought. A weapon, not a person.
 
 ## Story
 
@@ -30,4 +41,4 @@ The Warden was [[Hannibal]]'s enforcer. Could grow to eight feet tall in combat.
 
 ## Relationships
 
-- [[Hannibal]] — his commander; acts on Hannibal's orders
+- [[Hannibal]] — his commander; acts entirely on Hannibal's orders

@@ -41,15 +41,17 @@ Seros Ashwalker is a former criminal from [[The Badlands]] who joined the [[Hone
 
 ## Personality
 
-Bit of an asshole. Reformed criminal trying to do better.
+Rough and combative by default — immediately fell into barbs with [[Kip]] on meeting him. Doesn't make a fuss about things; was asleep at a guild hall table and accepted the group with minimal ceremony once he woke up. Not warm, but not complicated either. Underneath the edge he does the hard thing without being asked — in Session 8 he carried Kieran's body and then Damian out of a bloody crater without hesitation or comment. A former criminal who seems to mean it about getting right.
 
 ## History
 
-A former criminal from [[The Badlands]]. Joined the [[Honest Hearts]] to get back on the right path. Is searching for his missing friends.
+From [[The Badlands]]. Has a criminal past he doesn't advertise. Joined [[Honest Hearts]] to get back on the right path. Is searching for missing friends — their names and what happened to them are unknown.
 
 ## Relationships
 
-*(to be filled)*
+- [[Kip]] — immediately combative; trading barbs from the first moment
+- [[Solstice Shuriv]] — fought alongside during the Session 4 rooftop ambush
+- [[Honest Hearts]] — member; the reason he's in Brittania
 
 ## Story
 

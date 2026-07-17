@@ -37,6 +37,7 @@ title: "Tirian Dawnmere"
 ![[Lumiere and Tirian.webp|350]] ![[Tirian and Finn sparring.webp|350]] ![[House Dawnmere Family.webp|350]]
 ![[Tirian x Amelia (Dancing Gala).webp|350]] ![[Tirian x Amelia (Flirting Gala).webp|350]] ![[Tirian breaking up with Amelia.webp|350]]
 ![[Tirian (Close-Up Eye Shot).webp|350]] ![[Tirian (Tirian and Noctis Duality).webp|350]] ![[Tirian and Karsus (Confrontation at Strixhaven).webp|350]]
+![[Tirian (Age 11).webp|350]] ![[Tirian (Young - Aurora Display).webp|350]]
 
 ## Overview
 

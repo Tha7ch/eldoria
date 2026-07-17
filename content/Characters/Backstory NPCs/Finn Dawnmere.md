@@ -26,6 +26,7 @@ Finn Dawnmere was [[Tirian Dawnmere]]'s younger brother, 4 years his junior. He 
 
 ![[Finn Dawnmere (4x5 Portrait).webp|350]] ![[Finn Dawnmere.webp|350]] ![[Tirian and Finn sparring.webp|350]] ![[Kaisel and Finn.webp|350]]
 ![[Kaisel Aella Elizabeth Finn Whiro Friendgroup As Kids.webp|350]] ![[House Dawnmere Family.webp|350]]
+![[Finn (Age 7).webp|350]] ![[Finn (Young - Aurora Eyes).webp|350]]
 
 ## Appearance
 

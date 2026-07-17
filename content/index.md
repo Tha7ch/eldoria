@@ -33,9 +33,9 @@ title: "The Eldoria Expanse"
 
 <div class="chron-list">
 <a class="chron-row" href="story/sessions/campaign-1/campaign-1---session-08-(07-13)"><span class="chron-tag">Campaign 1</span><span class="chron-title">Campaign 1 - Session 08 (07-13)</span></a>
+<a class="chron-row" href="story/side-stories/tirian---first-light"><span class="chron-tag">Side Story</span><span class="chron-title">Tirian - First Light</span></a>
 <a class="chron-row" href="story/side-stories/callum---sword-of-roland"><span class="chron-tag">Side Story</span><span class="chron-title">Callum - Sword of Roland</span></a>
 <a class="chron-row" href="story/side-stories/kaisel---the-crooked-boar"><span class="chron-tag">Side Story</span><span class="chron-title">Kaisel - The Crooked Boar</span></a>
-<a class="chron-row" href="story/side-stories/kaisel---too-clean"><span class="chron-tag">Side Story</span><span class="chron-title">Kaisel - Too Clean</span></a>
 </div>
 
 <div class="flourish">⸙ ❦ ⸙</div>
