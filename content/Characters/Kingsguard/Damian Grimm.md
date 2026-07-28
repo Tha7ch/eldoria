@@ -79,6 +79,8 @@ Was present, alongside [[Tirian Dawnmere]], [[Lumiere Ameris]], [[Ludwig St. Jam
 
 ## Story
 
+**Session 9:** Found by the party asleep on the floor of the castle crypts, between the graves of [[Elio Atreides]] and [[Iris Atreides]] — two of the royal children, both age 4. He had left the infirmary against medical orders and had been refusing to return for approximately two weeks. Manuel picked him up as one would a sleeping child and said "Come on, son. It's time to go."
+
 **Session 8:** Found mangled in a bloody crater — sent through several buildings by the backlash from his own spells. Barely breathing. [[Kylo Wisemoon]] said he has to pull through on his own; Healing Word from [[Aella Galefri]] did the opposite — his skin burned (confirmed blood magic incompatibility with healing spells). Carried by [[Seros Ashwalker]] back to the castle infirmary. [[Kylo Wisemoon]] is actively keeping the extent of his injuries from [[Manuel]] — "He'll lose his mind." Kylo told Cyris "he should be alright" in the throne room to keep up the cover. [[Jeane Howelle]] went to check on him.
 
 **Session 7:** Tried to save Kieran by throwing a blood spear at Hannibal's purple cube — it bounced back and impaled him. Tried again with even more power — the backlash blasted him over a mile through the city, destroying several buildings.

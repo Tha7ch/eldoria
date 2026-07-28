@@ -29,8 +29,8 @@ Unknown. In the doomed future they were part of the end of the world.
 - Lust General — *(name unknown)*
 - Acceleration General — *(name unknown)*
 - Rhythm General — *(name unknown)*
-- Death General — *(name unknown)*
-- *(additional members unknown — possibly wielding Soul, Probability, Perception, Inertia/Momentum, or Anti-Magic, none of which are confirmed to exist among the Twelve)*
+- Judgement General — *(name unknown; [[Veritas Aletheia]] wields Judgement magic but Demon General status unconfirmed)*
+- *(3 additional members unknown; Death magic previously listed but now unconfirmed)*
 
 ## History
 

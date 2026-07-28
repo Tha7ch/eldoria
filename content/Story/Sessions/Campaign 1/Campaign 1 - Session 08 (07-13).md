@@ -488,9 +488,9 @@ They talk about the state of the country.
 
 **Lucius**: "I guess it's just how we talk. We usually know who each other is talking about."
 
-**Aella**: "What do you know about the heir of House Dawnmere?"
+**Lucius**: "What do you know about the heir of House Dawnmere?"
 
-**Lucius**: "I know of the name, but they weren't one of the houses I was familiar with when I lived here. I missed seven years of endless royal drama, I'm sure — not that I missed it. I definitely did not."
+**Aella**: "I know of the name, but they weren't one of the houses I was familiar with when I lived here. I missed seven years of endless royal drama, I'm sure — not that I missed it. I definitely did not."
 
 **Lucius**: "I guess you'll meet them at the gala for the first time officially."
 

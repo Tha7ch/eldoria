@@ -1,5 +1,6 @@
 ---
 aliases:
+  - "Lanius Howell"
   - "Lanius Stormbringer"
 type: "character"
 campaign:
@@ -18,7 +19,7 @@ title: "Lanius"
 <aside class="infobox">
 <img src="../portraits/lanius.webp" alt="Lanius">
 <div class="infobox-name">Lanius</div>
-<table><tr><th>Aliases</th><td>Lanius Stormbringer</td></tr><tr><th>Affiliation</th><td><a href="../organizations/the-people's-liberation-front-of-brittania">The People's Liberation Front of Brittania</a><br><a href="../characters/gods/veyrana">Veyrana</a></td></tr><tr><th>Campaign</th><td>1, 2</td></tr></table>
+<table><tr><th>Aliases</th><td>Lanius Howell, Lanius Stormbringer</td></tr><tr><th>Affiliation</th><td><a href="../organizations/the-people's-liberation-front-of-brittania">The People's Liberation Front of Brittania</a><br><a href="../characters/gods/veyrana">Veyrana</a></td></tr><tr><th>Campaign</th><td>1, 2</td></tr></table>
 </aside>
 
 

@@ -5,6 +5,7 @@ title: "The Chronicles"
 <div class="ornate-head">⸻ Campaign 1 — Session Chronicles ⸻</div>
 
 <div class="shelf">
+<a class="shelf-card" href="story/sessions/campaign-1/campaign-1---session-09-(07-27)"><span class="shelf-num">Session 9</span><span class="shelf-note">07-27</span><span class="shelf-line">The opening scene is the slums of Caer Brittanis — Lowtown.</span></a>
 <a class="shelf-card" href="story/sessions/campaign-1/campaign-1---session-08-(07-13)"><span class="shelf-num">Session 8</span><span class="shelf-note">07-13</span><span class="shelf-line">Manuel kills the Warden. Damian is found barely breathing in a crater. Kieran is confirmed dead. Solstice…</span></a>
 <a class="shelf-card" href="story/sessions/campaign-1/campaign-1---session-07-(05-31)"><span class="shelf-num">Session 7</span><span class="shelf-note">05-31</span><span class="shelf-line">The royal parade is attacked. Hannibal reveals himself. Kieran is nearly killed. Kylo drops the biggest lore…</span></a>
 <a class="shelf-card" href="story/sessions/campaign-1/campaign-1---session-06-(05-19)"><span class="shelf-num">Session 6</span><span class="shelf-note">05-19</span><span class="shelf-line">Parade briefing, training with Lucerin, Aella spars Jean, and Lanius is revealed.</span></a>

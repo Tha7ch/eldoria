@@ -28,7 +28,7 @@ title: "Merlin Morningstar"
 
 ## Overview
 
-Merlin Morningstar is a 2nd-year student at [[Strixhaven]] and member of [[House Morningstar]], a noble family of powerful mages. Known as **The Prodigy of Potential**, he constantly pushes his use of the arcane to new heights no mage has ever reached before.
+Merlin Morningstar is a 2nd-year **Prismari** student at [[Strixhaven]] and member of [[House Morningstar]], a noble family of powerful mages. Known as **The Prodigy of Potential**, he constantly pushes his use of the arcane to new heights no mage has ever reached before.
 
 ## Appearance
 

@@ -10,8 +10,6 @@ title: "Questions for the DM"
 
 - **What is the current year in Eldoria?** Would be hugely helpful for building out a proper timeline across both campaigns (e.g. [[Tirian - Story Roadmap]], the Aella/Kaisel age-gap question in [[Mysteries - Campaign 2]]).
 
-- **Strixhaven's five colleges — make them more unique?** Right now [[Strixhaven]]'s colleges (Lorehold, Prismari, Quandrix, Silverquill, Witherbloom) are close to a 1:1 copy of Magic: the Gathering's Strixhaven colleges. Would like more detail on how Eldoria's versions differ and stand on their own — distinct identity, history, rivalries, teaching styles, etc.
-
 - **Strixhaven professors — names and relationships, especially Cyris's mentor.** [[Cyris Voss]] runs a time magic research lab at Strixhaven and has a mentor figure who isn't currently named on his page. Would like names, personalities, and relationships for Strixhaven faculty — particularly who Cyris's mentor is.
 
 - **More Strixhaven students — noteworthy or not.** Currently only a handful of named students exist ([[Cyris Voss]], [[Saelen Brightfeather]], [[Merlin Morningstar]], [[Lucius Raymor]]). Would like more characters — noteworthy or background — to use in future side stories (e.g. for the [[Cyris Voss]] / [[Karsus Morningstar]] scene in [[Story Queue]]).
@@ -24,6 +22,5 @@ title: "Questions for the DM"
 
 ## Side Story Permission Requests
 
-- **Tirian — military campaign with Lumiere:** Want to write a short story of Tirian on a military campaign with [[Lumiere Ameris]], where Lumiere has to bring in someone he trusts and knows would have his back no matter what (and picks Tirian). Asking for permission and input before writing — added to [[Story Queue]].
 - **Cyris & Karsus scene:** Want to write a scene of [[Cyris Voss]] talking with [[Karsus Morningstar]] — Cyris doesn't seem to have many friends at [[Strixhaven]], and Karsus seems like a kind headmaster. Asking for permission and input — added to [[Story Queue]].
 - **Tirian & Karsus scene — confrontation about dropping out:** Want to write a scene of Karsus confronting [[Tirian Dawnmere]] about him dropping out of Strixhaven. Asking for permission and input — added to [[Story Queue]].

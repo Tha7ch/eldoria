@@ -15,6 +15,7 @@ affiliation:
   - "[[House Raymor]]"
   - "[[House Aberra]]"
   - "[[Church of Light]]"
+  - "[[Strixhaven]]"
 status: "alive"
 title: "Lucius Raymor"
 ---
@@ -22,7 +23,7 @@ title: "Lucius Raymor"
 <aside class="infobox">
 <img src="../../portraits/lucius-raymor.webp" alt="Lucius Raymor">
 <div class="infobox-name">Lucius Raymor</div>
-<table><tr><th>Aliases</th><td>Lucius the Lightbringer, Chosen of the Light Goddess Aria, Lucius</td></tr><tr><th>Age</th><td>22</td></tr><tr><th>Height</th><td>6'2</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../../organizations/the-kingsguard">The Kingsguard</a><br><a href="../../locations/countries/brittania">Brittania</a><br><a href="../../organizations/noble-houses/house-raymor">House Raymor</a><br><a href="../../organizations/noble-houses/house-aberra">House Aberra</a><br><a href="../../organizations/churches/church-of-light">Church of Light</a></td></tr><tr><th>Campaign</th><td>1</td></tr></table>
+<table><tr><th>Aliases</th><td>Lucius the Lightbringer, Chosen of the Light Goddess Aria, Lucius</td></tr><tr><th>Age</th><td>22</td></tr><tr><th>Height</th><td>6'2</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../../organizations/the-kingsguard">The Kingsguard</a><br><a href="../../locations/countries/brittania">Brittania</a><br><a href="../../organizations/noble-houses/house-raymor">House Raymor</a><br><a href="../../organizations/noble-houses/house-aberra">House Aberra</a><br><a href="../../organizations/churches/church-of-light">Church of Light</a><br><a href="../../locations/institutions/strixhaven">Strixhaven</a></td></tr><tr><th>Campaign</th><td>1</td></tr></table>
 </aside>
 
 
@@ -64,6 +65,8 @@ Son of [[Silas Raymor]] (Duke of House Raymor, formerly known as Silas the Stron
 - [[Strixhaven]] — student
 
 ## Story
+
+**Session 9:** Escorted the party to the King's Crown chamber alongside Jean and Kylo. Was visibly sweating during the meeting — Cyris noticed. Grimaced when Manuel relayed the details of the Dawnmere Slaughter in the crypts. Afterward dismissed back to the king.
 
 **Session 8:** Sat with Ludwig and Aella in the courtyard after the parade attack. Was visibly shaken when Aella told them Kieran is dead ("Oh gods."). Offered to cover funeral costs and reach out to Kieran's family; Aella said she wasn't the person to talk to. Confirmed that [[Lumiere Ameris]], "the older Morningstar," and "the Lionheart" are all coming back to Brittania. Told Aella she'll meet the heir of [[House Dawnmere]] officially at the upcoming gala. Privately warned Aella that her family knows she's back — word spread through palace nobles. Got mercilessly roasted by Ludwig about the Elvish princess; walked away rather than engage. He and Ludwig had to leave to meet the other Chosens — the High Septon apparently has something for them.
 

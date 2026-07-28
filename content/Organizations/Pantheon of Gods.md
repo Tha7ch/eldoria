@@ -1,17 +1,47 @@
 ---
+type: "divine"
+campaign:
+  - "1"
+  - "2"
+status: "active"
 title: "Pantheon of Gods"
 ---
 
-1. [[Aria]] - Goddess of Light, Truth, and Justice
-2. [[Dark man]] - God of Darkness, Deceit, and Death
-3. [[Mara]] - Goddess of Love, Fertility, and Life
-4. [[Hermaus Mora]] - God of Knowledge, Secrets, and Wisdom
-5. [[Kharn]] - God of War, Victory, and Glory
-6. [[Veyrana]] - Goddess of Storms
-7. [[Helios]] - God of the Sun
-8. [[Luna]] - Goddess of the Moon
-9. [[Erebus]] - God of Pain, Agony, and Murder
-10. [[Judas]] - God of Lies, Deceit, and Thievery
-11. [[Dari]] - Goddess of Luck, Good Fortune, and Miracles
-12. [[Indra]] - God of the Sky
-13. [[Wylder]] - God of Ascension
+## Overview
+
+The Pantheon of Gods is the collective body of thirteen deities worshipped across Eldoria. Several maintain dedicated churches in [[Brittania]] and select mortal Chosens to act as their champions.
+
+## Leadership
+
+No known internal hierarchy or leadership structure among the thirteen. *(unconfirmed)*
+
+## Known Members
+
+- [[Aria]] — Goddess of Light, Truth, and Justice
+- [[Dark man]] — God of Darkness, Deceit, and Death
+- [[Mara]] — Goddess of Love, Fertility, and Life
+- [[Hermaus Mora]] — God of Knowledge, Secrets, and Wisdom
+- [[Kharn]] — God of War, Victory, and Glory
+- [[Veyrana]] — Goddess of Storms
+- [[Helios]] — God of the Sun
+- [[Luna]] — Goddess of the Moon
+- [[Erebus]] — God of Pain, Agony, and Murder
+- [[Judas]] — God of Lies, Deceit, and Thievery
+- [[Dari]] — Goddess of Luck, Good Fortune, and Miracles
+- [[Indra]] — God of the Sky
+- [[Wylder]] — God of Ascension
+
+## Goals & Ideology
+
+Unknown. *(unconfirmed)*
+
+## History
+
+Unknown. *(unconfirmed)*
+
+## Relationships
+
+- [[Church of Light]] — church devoted to Aria
+- [[Church of Love]] — church devoted to Mara
+- [[Church of the Storm]] — church devoted to Veyrana
+- [[Church of the Sky]] — church devoted to Indra

@@ -63,6 +63,8 @@ Made her mark at the Bicentennial Winter Solstice Knight's Tournament. Impaled T
 
 ## Story
 
+**Session 9:** Escorted the party to the King's Crown chamber alongside Lucius and Kylo. Looked almost like a kid in front of the council — Solstice noticed she appeared meek. Received a small hug from Manuel after the council members left. Went completely still when Manuel recounted the details of the Dawnmere Slaughter in the crypts.
+
 **Session 8:** Accompanied [[Manuel]] and [[Lucius Raymor]] as part of the group escorting the king during the parade attack. Reassured the group that Damian and Kylo could handle anything. After Lucerin was secured, shot Manuel a look and offered to go check on the others — specifically calling Damian "your darling son." Went to check on Damian in the infirmary.
 
 **Session 2:** Released [[Solstice Shuriv]] from her cell by kicking the door down. Brief, effective exchange — earned Solstice's respect with minimal words.

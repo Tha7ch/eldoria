@@ -27,7 +27,7 @@ title: "Kylo Wisemoon"
 
 ## Overview
 
-Kylo Wisemoon is a Royal Protector of the Royal Family in [[The Kingsguard]]. Once a promising mage at [[Strixhaven]], fate gave him a magical blade known as Dawnstar. [[Manuel]] defeated him in combat and then took him as his only squire before inducting him into the Kingsguard. He recognized [[Cyris Voss]] from his Strixhaven reputation.
+Kylo Wisemoon is a Royal Protector of the Royal Family in [[The Kingsguard]]. Once a promising **Lorehold** mage at [[Strixhaven]], fate gave him a magical blade known as Dawnstar. [[Manuel]] defeated him in combat and then took him as his only squire before inducting him into the Kingsguard. He recognized [[Cyris Voss]] from his Strixhaven reputation.
 
 ## Appearance
 
@@ -53,6 +53,8 @@ Former Strixhaven mage with great potential. Acquired the magical blade Dawnstar
 - Used to hide it with illusion spells while at Strixhaven; grew better at concealing it over time
 
 ## Story
+
+**Session 9:** Escorted the party to the King's Crown chamber alongside Jean and Lucius. Purposely stayed out of the way during the meeting — Cyris noticed. Tried to step forward and speak ("If I may —") and was immediately cut off by the High Septon ("You may not. Go back to where you were, you glorified bodyguard."). Manuel defended him and the Septon allowed it with heavy sarcasm. Kylo then vouched for the party's actions during the parade, noting Solstice's idea to use the bag of holding. Afterward dismissed back to the king.
 
 **Session 8:** Searched the city with the group for Damian — following the path of destruction. Called weakly for him. After Damian was found mangled in a crater, Kylo directed the group: Damian has to pull through on his own; Healing Word from Aella confirmed it only burns him (blood magic). Critically: told the group to keep Damian's condition from Manuel — "He'll lose his mind." Guided Kip to walk behind Seros so he didn't have to see the body. Led the group back to the castle, answered Cyris's pointed question about the lack of evacuation planning ("our oath is toward protecting the king"). At the crossroads, split the group — sent Cyris and Kip to the throne room, led Seros, Damian, and Kieran's body to the infirmary.
 

@@ -24,3 +24,4 @@ One of the four major churches of [[Brittania]]. The Church of the Storm worship
 
 - [[Veyrana]] — deity worshipped
 - [[The High Septon]] — placed a noble family in control of this church
+- [[Pantheon of Gods]] — Veyrana is a member

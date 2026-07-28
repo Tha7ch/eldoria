@@ -11,6 +11,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 
 <div class="char-grid">
 <a class="char-card" href="player-characters/aella-galefri"><img src="portraits/aella-galefri.webp" alt="Aella Galefri" loading="lazy"><div class="char-card-text"><div class="char-card-name">Aella Galefri</div><div class="char-card-role">Played by Jeff</div></div></a>
+<a class="char-card" href="player-characters/aeron-velmont"><img src="portraits/aeron-velmont.webp" alt="Aeron Velmont" loading="lazy"><div class="char-card-text"><div class="char-card-name">Aeron Velmont</div><div class="char-card-role">Played by Marco</div></div></a>
 <a class="char-card" href="player-characters/cyris-voss"><img src="portraits/cyris-voss.webp" alt="Cyris Voss" loading="lazy"><div class="char-card-text"><div class="char-card-name">Cyris Voss</div><div class="char-card-role">Played by Trace</div></div></a>
 <a class="char-card" href="player-characters/kieran-arden"><img src="portraits/kieran-arden.webp" alt="Kieran Arden" loading="lazy"><div class="char-card-text"><div class="char-card-name">Kieran Arden</div><div class="char-card-role">Played by Marco</div></div></a>
 <a class="char-card" href="player-characters/kip"><img src="portraits/kip.webp" alt="Kip" loading="lazy"><div class="char-card-text"><div class="char-card-name">Kip</div><div class="char-card-role">Played by Matthew</div></div></a>
@@ -44,9 +45,11 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <div class="faction-banner"><a href="organizations/king's-crown">King's Crown</a></div>
 
 <div class="char-grid">
-<a class="char-card" href="characters/lucerin-atreides"><img src="portraits/lucerin-atreides.webp" alt="Lucerin Atreides" loading="lazy"><div class="char-card-text"><div class="char-card-name">Lucerin Atreides</div><div class="char-card-role">King</div></div></a>
-<a class="char-card" href="characters/the-high-septon"><img src="portraits/placeholder.svg" alt="The High Septon" loading="lazy"><div class="char-card-text"><div class="char-card-name">The High Septon</div><div class="char-card-role">pope-like religious authority</div></div></a>
-<a class="char-card" href="characters/oldric-ameris"><img src="portraits/placeholder.svg" alt="Oldric Ameris" loading="lazy"><div class="char-card-text"><div class="char-card-name">Oldric Ameris</div><div class="char-card-role">War Master</div></div></a>
+<a class="char-card" href="characters/archibald-howell"><img src="portraits/archibald-howell.webp" alt="Archibald Howell" loading="lazy"><div class="char-card-text"><div class="char-card-name">Archibald Howell</div><div class="char-card-role">The High Septon</div></div></a>
+<a class="char-card" href="characters/veritas-aletheia"><img src="portraits/veritas-aletheia.webp" alt="Veritas Aletheia" loading="lazy"><div class="char-card-text"><div class="char-card-name">Veritas Aletheia</div><div class="char-card-role">The Grand Arbiter</div></div></a>
+<a class="char-card" href="characters/oldric-ameris"><img src="portraits/oldric-ameris.webp" alt="Oldric Ameris" loading="lazy"><div class="char-card-text"><div class="char-card-name">Oldric Ameris</div><div class="char-card-role">The Warmaster</div></div></a>
+<a class="char-card" href="characters/elric-fletcher"><img src="portraits/elric-fletcher.webp" alt="Elric Fletcher" loading="lazy"><div class="char-card-text"><div class="char-card-name">Elric Fletcher</div><div class="char-card-role">The Archmaester</div></div></a>
+<a class="char-card" href="characters/lucerin-atreides"><img src="portraits/lucerin-atreides.webp" alt="Lucerin Atreides" loading="lazy"><div class="char-card-text"><div class="char-card-name">Lucerin Atreides</div></div></a>
 </div>
 
 ## Noble Houses
@@ -61,7 +64,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <div class="faction-banner"><a href="organizations/noble-houses/house-ameris">House Ameris</a></div>
 
 <div class="char-grid">
-<a class="char-card" href="characters/oldric-ameris"><img src="portraits/placeholder.svg" alt="Oldric Ameris" loading="lazy"><div class="char-card-text"><div class="char-card-name">Oldric Ameris</div><div class="char-card-role">War Master of King's Crown</div></div></a>
+<a class="char-card" href="characters/oldric-ameris"><img src="portraits/oldric-ameris.webp" alt="Oldric Ameris" loading="lazy"><div class="char-card-text"><div class="char-card-name">Oldric Ameris</div><div class="char-card-role">War Master of King's Crown</div></div></a>
 <a class="char-card" href="characters/lumiere-ameris"><img src="portraits/lumiere-ameris.webp" alt="Lumiere Ameris" loading="lazy"><div class="char-card-text"><div class="char-card-name">Lumiere Ameris</div><div class="char-card-role">most notable current member among the younger generation</div></div></a>
 </div>
 
@@ -77,7 +80,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <a class="char-card" href="characters/backstory-npcs/violet-atreides"><img src="portraits/violet-atreides.webp" alt="Violet Atreides" loading="lazy"><div class="char-card-text"><div class="char-card-name">Violet Atreides</div><div class="char-card-role">Second Princess, age ~8</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/elio-atreides"><img src="portraits/elio-atreides.webp" alt="Elio Atreides" loading="lazy"><div class="char-card-text"><div class="char-card-name">Elio Atreides</div><div class="char-card-role">Fourth Prince, age 5</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/iris-atreides"><img src="portraits/iris-atreides.webp" alt="Iris Atreides" loading="lazy"><div class="char-card-text"><div class="char-card-name">Iris Atreides</div><div class="char-card-role">Third Princess, age 5</div></div></a>
-<a class="char-card" href="characters/oldric-ameris"><img src="portraits/placeholder.svg" alt="Oldric Ameris" loading="lazy"><div class="char-card-text"><div class="char-card-name">Oldric Ameris</div><div class="char-card-role">Leo's younger brother, born Oldric Atreides</div></div></a>
+<a class="char-card" href="characters/oldric-ameris"><img src="portraits/oldric-ameris.webp" alt="Oldric Ameris" loading="lazy"><div class="char-card-text"><div class="char-card-name">Oldric Ameris</div><div class="char-card-role">Leo's younger brother, born Oldric Atreides</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/arthur-atreides"><img src="portraits/placeholder.svg" alt="Arthur Atreides" loading="lazy"><div class="char-card-text"><div class="char-card-name">Arthur Atreides</div></div></a>
 </div>
 
@@ -117,6 +120,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <div class="char-grid">
 <a class="char-card" href="characters/olenna-howelle"><img src="portraits/placeholder.svg" alt="Olenna Howelle" loading="lazy"><div class="char-card-text"><div class="char-card-name">Olenna Howelle</div><div class="char-card-role">grandmother of Jeane</div></div></a>
 <a class="char-card" href="characters/kingsguard/jeane-howelle"><img src="portraits/jeane-howelle.webp" alt="Jeane Howelle" loading="lazy"><div class="char-card-text"><div class="char-card-name">Jeane Howelle</div><div class="char-card-role">Queen's Guard of The Kingsguard</div></div></a>
+<a class="char-card" href="characters/archibald-howell"><img src="portraits/archibald-howell.webp" alt="Archibald Howell" loading="lazy"><div class="char-card-text"><div class="char-card-name">Archibald Howell</div></div></a>
 </div>
 
 <div class="faction-banner"><a href="organizations/noble-houses/house-irvenest">House Irvenest</a></div>
@@ -142,7 +146,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <div class="faction-banner"><a href="organizations/noble-houses/house-lyons">House Lyons</a></div>
 
 <div class="char-grid">
-<a class="char-card" href="characters/lucas-lyons"><img src="portraits/placeholder.svg" alt="Lucas Lyons" loading="lazy"><div class="char-card-text"><div class="char-card-name">Lucas Lyons</div><div class="char-card-role">the Lionheart</div></div></a>
+<a class="char-card" href="characters/lucas-lyons"><img src="portraits/lucas-lyons.webp" alt="Lucas Lyons" loading="lazy"><div class="char-card-text"><div class="char-card-name">Lucas Lyons</div><div class="char-card-role">the Lionheart</div></div></a>
 </div>
 
 <div class="faction-banner"><a href="organizations/noble-houses/house-morningstar">House Morningstar</a></div>
@@ -165,6 +169,12 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 
 <div class="char-grid">
 <a class="char-card" href="characters/ludwig-st.-james"><img src="portraits/ludwig-st-james.webp" alt="Ludwig St. James" loading="lazy"><div class="char-card-text"><div class="char-card-name">Ludwig St. James</div><div class="char-card-role">heir to the house</div></div></a>
+</div>
+
+<div class="faction-banner"><a href="organizations/noble-houses/house-velmont">House Velmont</a></div>
+
+<div class="char-grid">
+<a class="char-card" href="player-characters/aeron-velmont"><img src="portraits/aeron-velmont.webp" alt="Aeron Velmont" loading="lazy"><div class="char-card-text"><div class="char-card-name">Aeron Velmont</div><div class="char-card-role">assigned to the party (Session 9)</div></div></a>
 </div>
 
 <div class="faction-banner"><a href="organizations/noble-houses/house-whitlocke">House Whitlocke</a></div>
@@ -266,7 +276,8 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <div class="char-grid">
 <a class="char-card" href="characters/alira-lyuval"><img src="portraits/alira-lyuval.webp" alt="Alira Lyuval" loading="lazy"><div class="char-card-text"><div class="char-card-name">Alira Lyuval</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/dorn-ashkel"><img src="portraits/dorn-ashkel.webp" alt="Dorn Ashkel" loading="lazy"><div class="char-card-text"><div class="char-card-name">Dorn Ashkel</div></div></a>
-<a class="char-card" href="characters/hannibal"><img src="portraits/placeholder.svg" alt="Hannibal" loading="lazy"><div class="char-card-text"><div class="char-card-name">Hannibal</div></div></a>
+<a class="char-card" href="characters/hannibal"><img src="portraits/hannibal.webp" alt="Hannibal" loading="lazy"><div class="char-card-text"><div class="char-card-name">Hannibal</div></div></a>
+<a class="char-card" href="characters/hero-with-no-name"><img src="portraits/placeholder.svg" alt="Hero With No Name" loading="lazy"><div class="char-card-text"><div class="char-card-name">Hero With No Name</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/kane-orso"><img src="portraits/placeholder.svg" alt="Kane Orso" loading="lazy"><div class="char-card-text"><div class="char-card-name">Kane Orso</div></div></a>
 <a class="char-card" href="player-characters/leandros-thalassor"><img src="portraits/leandros-thalassor.webp" alt="Leandros Thalassor" loading="lazy"><div class="char-card-text"><div class="char-card-name">Leandros Thalassor</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/lord-hector-vance"><img src="portraits/placeholder.svg" alt="Lord Hector Vance" loading="lazy"><div class="char-card-text"><div class="char-card-name">Lord Hector Vance</div></div></a>
@@ -278,6 +289,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <a class="char-card" href="characters/backstory-npcs/roland-voss"><img src="portraits/roland-voss.webp" alt="Roland Voss" loading="lazy"><div class="char-card-text"><div class="char-card-name">Roland Voss</div></div></a>
 <a class="char-card" href="characters/saelen-brightfeather"><img src="portraits/placeholder.svg" alt="Saelen Brightfeather" loading="lazy"><div class="char-card-text"><div class="char-card-name">Saelen Brightfeather</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/serapha-ashkel"><img src="portraits/serapha-ashkel.webp" alt="Serapha Ashkel" loading="lazy"><div class="char-card-text"><div class="char-card-name">Serapha Ashkel</div></div></a>
+<a class="char-card" href="characters/the-lone-wanderer"><img src="portraits/placeholder.svg" alt="The Lone Wanderer" loading="lazy"><div class="char-card-text"><div class="char-card-name">The Lone Wanderer</div></div></a>
 <a class="char-card" href="characters/the-warden"><img src="portraits/placeholder.svg" alt="The Warden" loading="lazy"><div class="char-card-text"><div class="char-card-name">The Warden</div></div></a>
 <a class="char-card" href="characters/veyr"><img src="portraits/veyr.webp" alt="Veyr" loading="lazy"><div class="char-card-text"><div class="char-card-name">Veyr</div></div></a>
 </div>

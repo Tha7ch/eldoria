@@ -54,7 +54,7 @@ Fourth in line for the Brittanian throne. Was gifted with foresight from a young
 
 The [[House Atreides]] line is descended from King [[Arthur Atreides]] of the Ancient Kingdom of [[Camelot]], chosen by the Celestial Realm to lead humanity. Abnormal magic types running in the family across generations are believed to be a mark of this divine selection — Lucerin's primordial foresight is the latest expression of this.
 
-**His siblings (all deceased):** [[Godwyn Atreides]] (First Prince, 25), [[Gideon Atreides]] (Second Prince, 23), [[Catherine Atreides]] (First Princess, ~16), [[Violet Atreides]] (Second Princess, ~8), [[Elio Atreides]] (Fourth Prince, 5, twins), [[Iris Atreides]] (Third Princess, 5, twins).
+**His siblings (all deceased):** [[Godwyn Atreides]] (First Prince, 25), [[Gideon Atreides]] (Second Prince, 23), [[Catherine Atreides]] (First Princess, ~16), [[Violet Atreides]] (Second Princess, ~8), [[Elio Atreides]] (Fourth Prince, 4, twins), [[Iris Atreides]] (Third Princess, 4, twins). *(Session 9: age confirmed as 4 from gravestone inscription.)*
 
 ## Relationships
 
@@ -66,6 +66,8 @@ The [[House Atreides]] line is descended from King [[Arthur Atreides]] of the An
 - [[King's Crown]] — the council grooming him; he does not fully trust them
 
 ## Story
+
+**Session 9:** Seen briefly in the throne room. Greeted Kip warmly. Watched in confusion as Lucas Lyons knelt and offered him his sword — told Kip not to be mean about it. Told Manuel he hadn't seen Damian, but said he'd heard from the maids that Damian had been going to the crypts often.
 
 **Session 8:** Was in the path of [[Hannibal]] and the Warden. Pulled out of [[Solstice Shuriv]]'s bag by the collar when she grabbed him to keep him safe. When Hannibal noted Solstice's interest in him, Solstice deflected — said it was just a "globe, for my collection," about the bag. Carried to safety. Later received the group in the throne room alongside [[Kylo Wisemoon]]. [[Ludwig St. James]] expressed faith in his ability to save Brittania.
 

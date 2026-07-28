@@ -22,3 +22,5 @@ One of the four major churches of [[Brittania]]. The Church of Love worships [[M
 - [[Mara]] — deity worshipped
 - [[Ludwig St. James]] — has some connection to the church *(nature unclear)*
 - [[The High Septon]] — placed a noble family in control of this church
+- [[House Justicar]] — the noble house placed in control of this church
+- [[Pantheon of Gods]] — Mara is a member

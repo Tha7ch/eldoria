@@ -70,8 +70,11 @@ Roland was not warm but not unkind — he saw Cyris as an investment. He drilled
 - [[Karsus Morningstar]] — Headmaster of [[Strixhaven]]; encouraged his son Merlin to befriend Cyris
 - [[Kronos]] — the Demon General of Time sought Cyris out specifically in the doomed future
 - [[The Forbidden Magics]] — wields Time magic (chronomancy), one of the forbidden magics; not a Demon General
+- [[Elric Fletcher]] — the Archmaester; quietly invited Cyris to come visit him after the King's Crown meeting (Session 9)
 
 ## Story
+
+**Session 9:** Entered the King's Crown chamber and immediately began reading the room — noticed Kylo purposely staying back, Lucius sweating, and a slight resemblance between Jean and the High Septon. Recognized Aeron Velmont's name. Objected to Aeron's appointment by King's Crown without the king's input ("I think it is up to *the King* to decide") — was rebuffed but held his ground. Narrowed his eyes when the High Septon justified the move. Perked up at mention of Aeron's mother's research into old nature magic and artifacts. Gave Manuel a look of understanding after the meeting, shared a nod with [[Elric Fletcher|the Archmaester]] ("Come visit me when you get the chance"). In the crypts, asked why Manuel chose such a morbid setting for a gala briefing — wasn't satisfied with the answer but didn't push further. Voiced his lack of enthusiasm for the upcoming gala alongside Kip.
 
 **Session 8:** After the parade attack, searched the city with Aella, Seros, Kip, and Kylo for Damian — following a clear path of destruction. Found Damian mangled in a bloody crater; Healing Word burned rather than healed him (blood magic incompatibility). Scooped up by Seros; the group agreed to hide Damian's state from Manuel. At the castle crossroads, went to the throne room to check on Lucerin. Immediately tried to resign to Manuel — told him about Kieran's death and the magical barrier neither Kylo nor Damian could break. Covered for Damian's condition when Manuel asked. In the distillery afterward: set Solstice's drink on fire to test alcohol content (she froze the next one as retaliation); got hit by Kip's mashed potato prank instead of Solstice; catapulted a chicken leg at Kip in response. Tried to drink and discovered he's too young — slid the drink to Aella.
 

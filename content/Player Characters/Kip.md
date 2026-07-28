@@ -19,7 +19,7 @@ title: "Kip"
 </aside>
 
 
-![[Kip.webp|350]] ![[Kip (Timeskip).webp|200]] ![[Kipp (4x5 Portrait).webp|350]]
+![[Kip.webp|350]] ![[Kip (Timeskip).webp|200]] ![[Kip (4x5 Portrait).webp|350]]
 
 ## Overview
 
@@ -55,6 +55,8 @@ From [[Petalton]], a small village in [[Elsweyr]]. Got arrested for stealing.
 - [[Hannibal]] — Hannibal knows his sister's name and referenced alternate versions of Kip across timelines ("you're actually alive in this one")
 
 ## Story
+
+**Session 9:** Called "goblin" by the Grand Arbiter in the King's Crown meeting — stared at the ceiling and ignored the men talking at him while Aella defended him. Said "No thanks, not anymore" when the Archmaester offered medical help. Greeted Lucerin casually in the throne room ("Hey, Lucerin"). Said Lucas "looks stupid" when he knelt with his sword — was told not to be mean by Lucerin; responded "just being honest." Noted the gala "doesn't seem like my kind of place." Was present in the crypts when Damian was found.
 
 **Session 8:** Helped search the city for Damian with the rest of the group — found him in a bloody crater, barely breathing. Looked away from the gruesome sight. Offered a Goodberry for Damian. At the crossroads went to the infirmary. In the throne room with Cyris and Manuel: brought up that Hannibal knew his sister's name and spoke of "different times." Got the small proud smile when Manuel confirmed he slew the Warden. Tried to cover with Manuel about Damian's condition when Cyris gave him a look. Asked for ale in the distillery — confirmed he's drank before. Masterminded the mashed potato prank on Solstice; she dodged it, Cyris got hit instead; got knocked flat by Cyris's retaliatory chicken leg spell. Had been trying to forget Kieran's death — his face fell again when it was mentioned at the distillery.
 

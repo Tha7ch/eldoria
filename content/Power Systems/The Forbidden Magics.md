@@ -36,13 +36,13 @@ There are 12 forbidden magics total.
 - [[Cyris Voss]] — Time magic *(chronomancy; not a Demon General)*
 - [[X]] — Magic
 - [[Damian Grimm]] — Blood magic *(in his blood, not a Demon General)*
+- [[Veritas Aletheia]] — Judgement magic *(not confirmed as a Demon General)*
 - Blood General — *(name unknown)*
 - Gravity General — *(name unknown)*
 - Hellfire General — *(name unknown)*
 - Lust General — *(name unknown)*
 - Acceleration General — *(name unknown)*
 - Rhythm General — *(name unknown)*
-- Death General — *(name unknown)*
 
 ## Known Forbidden Magics
 
@@ -54,17 +54,17 @@ There are 12 forbidden magics total.
 5. Lust — *(Demon General unknown)*
 6. Acceleration — *(Demon General unknown)*
 7. Rhythm — *(Demon General unknown)*
-8. Magic — [[X]]
-9. Death — *(Demon General unknown)*
+8. Judgement — [[Veritas Aletheia]]; manifests as a scale; Demon General unknown
+9. Magic — [[X]]
 
 **Unconfirmed / speculative:**
 - Soul
+- Death *(previously listed as confirmed — may need DM clarification)*
 - Probability
 - Perception
-- Inertia/Momentum
 - Anti-Magic
 
-12 forbidden magics exist in total — 9 confirmed so far, with the remaining slots among the unconfirmed candidates above (or still entirely unknown).
+12 forbidden magics exist in total — 9 confirmed so far, with 3 slots remaining.
 
 ## Limitations & Costs
 

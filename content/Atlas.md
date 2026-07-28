@@ -33,6 +33,8 @@ title: "Atlas of Eldoria"
 <div class="gaz-entry" style="margin-left:0rem"><a href="locations/countries/frostgard">Frostgard</a><span class="gaz-type">country</span><span class="gaz-line">Frostgard is the snowy country of Eldoria.</span></div>
 <div class="gaz-entry" style="margin-left:1.4rem"><a href="locations/cities/winterhold">Winterhold</a><span class="gaz-type">city</span><span class="gaz-line">Winterhold is the capital city of Frostgard, the snowy country.</span></div>
 
+<div class="gaz-entry" style="margin-left:1.4rem"><a href="locations/wilderness/ycehelm-thermguard">Ycehelm-Thermguard</a><span class="gaz-type">wilderness</span><span class="gaz-line">Ycehelm-Thermguard (Y-ice-helm, Therm-guard) is the far northern snow peaks region of…</span></div>
+
 
 <div class="ornate-head">⸻ Gorak'Thul ⸻</div>
 

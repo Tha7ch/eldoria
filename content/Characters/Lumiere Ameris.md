@@ -42,7 +42,11 @@ Lumiere Ameris is a general in the Brittanian military and heir of [[House Ameri
 
 ## Personality
 
-Cocky, confident, and magnetically outgoing — the kind of person who walks into a room and the room rearranges itself around him. His commanding presence isn't performed; it's just what he is. He's a genuine prodigy and he knows it, which tips into arrogance at times. But beneath the confidence is someone who holds himself to an almost impossible standard — when he fails, or even perceives that he's failed, he turns that weight entirely inward and blames himself hard.
+Lumiere is two different people depending on context, and the contrast is stark.
+
+**At war:** Commanding, decisive, and fully present. He leads from the front, sets the pace, and his authority is total — forty thousand soldiers followed him without hesitation because when he speaks in the field, there is no ambiguity. This version of him is not performed. It is simply what war requires and he rises to it completely.
+
+**Back in Brittania:** Quiet, reserved, and almost meek. He shrinks into himself — not from weakness, but because there's always a lot on his mind and he doesn't reach outward with it. He is still the same person, but the commanding edge is gone; what's left is someone thoughtful and a little withdrawn, someone easy to underestimate if you haven't seen him in the field.
 
 ## History
 
@@ -56,8 +60,8 @@ Was present, alongside [[Tirian Dawnmere]], [[Ludwig St. James]], [[Damian Grimm
 
 - [[House Ameris]] — his house
 - [[Luna]] — his goddess; he is her Chosen; wields the Moonlight Greatsword
-- [[Tirian Dawnmere]] — close friend; part of the same circle of influential young nobles; gifted him the Lunar Rapier
-- [[Gideon Atreides]] — close friend; part of the same circle of influential young nobles alongside Tirian; killed in the Assassination of the Royal Family
+- [[Tirian Dawnmere]] — friend; the two were part of the same circle alongside [[Gideon Atreides]]; gifted him the Lunar Rapier. Their friendship is genuine but carries a quiet awkwardness — both were closer to Gideon than they were to each other, and his absence left a void between them neither has quite filled
+- [[Gideon Atreides]] — closest friend of the trio; killed in the Assassination of the Royal Family. Gideon was the heart of the group — the one who held Lumiere and Tirian together as much as he held them individually. His loss changed the shape of everything
 - [[Oldric Ameris]] — father; also his superior as War Master of [[King's Crown]] and High General of the Brittanian Army
 - [[Lucerin Atreides]] — cousin; King of Brittania
 - [[Leo Atreides]] — uncle *(deceased)*

@@ -86,7 +86,7 @@ The assassins responsible are dead. The people who **ordered** the murders are n
 
 - [[House Dawnmere]] — his house, his legacy, his motivation
 - [[Gideon Atreides]] — a close friend; Second Prince of Brittania; part of the same circle of influential young nobles with Tirian and Lumiere; helped Tirian grieve after the Dawnmere Slaughter; murdered in the Assassination of the Royal Family — Tirian's most personal reason for investigating
-- [[Lumiere Ameris]] — close friend; part of the same circle alongside Gideon; all three were similar in age and prominent figures in Brittania
+- [[Lumiere Ameris]] — friend; part of the same circle alongside [[Gideon Atreides]]; all three were similar in age and prominent figures in Brittania. Their friendship is genuine but carries a quiet awkwardness — both were closer to Gideon than they were to each other, and his absence left a void between them that neither has filled
 - [[Lucius Raymor]] — friend; overlapped for one year at [[Strixhaven]] and share a connection through the [[Church of Light]]; one year apart in age, they grew up moving in much the same noble circles
 - [[Ludwig St. James]] — friend; Tirian treats him a bit like a younger brother
 - [[Aevos]] — friends

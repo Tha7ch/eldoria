@@ -5,7 +5,7 @@ title: "Heraldry & Orders"
 <div class="ornate-head">⸻ The Crown & the Realm ⸻</div>
 
 <div class="her-grid">
-<a class="her-card" href="organizations/king's-crown"><span class="her-name">King's Crown</span><span class="her-head">Lucerin Atreides</span><span class="her-line">King's Crown is the ruling council of Brittania, identified by a six-pronged crown sigil…</span></a>
+<a class="her-card" href="organizations/king's-crown"><span class="her-name">King's Crown</span><span class="her-head">Archibald Howell</span><span class="her-line">King's Crown is the ruling council of Brittania, identified by a six-pronged crown sigil…</span></a>
 <a class="her-card" href="organizations/the-kingsguard"><span class="her-name">The Kingsguard</span><span class="her-head">Manuel</span><span class="her-line">The Kingsguard is an elite group of five royal protectors handpicked by the king of Brittania to…</span></a>
 </div>
 
@@ -27,6 +27,7 @@ title: "Heraldry & Orders"
 <a class="her-card" href="organizations/noble-houses/house-morningstar"><span class="her-name">House Morningstar</span><span class="her-head">Karsus Morningstar</span><span class="her-line">House Morningstar is a noble house that has produced powerful mages throughout its lineage.</span></a>
 <a class="her-card" href="organizations/noble-houses/house-raymor"><span class="her-name">House Raymor</span><span class="her-head">Silas Raymor</span><span class="her-line">House Raymor is a noble house in Brittania, known for celestial and light magic.</span></a>
 <a class="her-card" href="organizations/noble-houses/house-st.-james"><span class="her-name">House St. James</span><span class="her-head">Ludwig St. James</span><span class="her-line">A human noble house in Brittania that has produced countless heroes and important figures.</span></a>
+<a class="her-card" href="organizations/noble-houses/house-velmont"><span class="her-name">House Velmont</span><span class="her-head">Aeron Velmont</span><span class="her-line">House Velmont is a Brittanian noble house.</span></a>
 <a class="her-card" href="organizations/noble-houses/house-whitlocke"><span class="her-name">House Whitlocke</span><span class="her-head">Raevyn Whitlocke</span><span class="her-line">House Whitlocke are the direct descendants of Raevyn Whitlocke — the legendary founder of The…</span></a>
 </div>
 
@@ -37,13 +38,13 @@ title: "Heraldry & Orders"
 <a class="her-card" href="organizations/churches/church-of-love"><span class="her-name">Church of Love</span><span class="her-head">Vera Justicar</span><span class="her-line">One of the four major churches of Brittania.</span></a>
 <a class="her-card" href="organizations/churches/church-of-the-sky"><span class="her-name">Church of the Sky</span><span class="her-line">One of the four major churches of Brittania.</span></a>
 <a class="her-card" href="organizations/churches/church-of-the-storm"><span class="her-name">Church of the Storm</span><span class="her-head">Torr Galefri</span><span class="her-line">One of the four major churches of Brittania.</span></a>
+<a class="her-card" href="organizations/pantheon-of-gods"><span class="her-name">Pantheon of Gods</span><span class="her-head">Aria</span><span class="her-line">The Pantheon of Gods is the collective body of thirteen deities worshipped across Eldoria.</span></a>
 </div>
 
 <div class="ornate-head">⸻ Factions & Guilds ⸻</div>
 
 <div class="her-grid">
 <a class="her-card" href="organizations/honest-hearts"><span class="her-name">Honest Hearts</span><span class="her-head">Ludwig St. James</span><span class="her-line">An adventuring guild funded and organized by Ludwig St.</span></a>
-<a class="her-card" href="organizations/pantheon-of-gods"><span class="her-name">Pantheon of Gods</span><span class="her-line">1. Aria - Goddess of Light, Truth, and Justice</span></a>
 <a class="her-card" href="organizations/the-people's-liberation-front-of-brittania"><span class="her-name">The People's Liberation Front of Brittania</span><span class="her-head">Lanius</span><span class="her-line">A revolutionary group in Brittania that wants to topple tyrannical rule.</span></a>
 <a class="her-card" href="organizations/the-twelve-demon-generals"><span class="her-name">The Twelve Demon Generals</span><span class="her-head">Luciferus</span><span class="her-line">The Demon Generals are a group of powerful demon commanders who each wield one of the forbidden…</span></a>
 </div>

@@ -25,3 +25,4 @@ One of the four major churches of [[Brittania]]. The Church of Light worships [[
 
 - [[Aria]] — deity worshipped
 - [[The High Septon]] — supreme religious authority; placed a noble family in control of this church
+- [[Pantheon of Gods]] — Aria is a member

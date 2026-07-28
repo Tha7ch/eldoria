@@ -32,7 +32,9 @@ Karsus Morningstar is the Headmaster of [[Strixhaven]] and the Grand Mage of [[B
 
 ## Personality
 
-He loves being Headmaster of [[Strixhaven]] and genuinely cares for each of his students. He sees knowledge as something to be shared regardless of class or race — an uncommon stance among Brittania's elite.
+Genuinely cares about his students and their development — not just their academic output but who they are becoming. This is the core of him: he wants to see people grow. It's why he fought hard to keep [[Tirian Dawnmere]] from dropping out, and why he quietly steered [[Merlin Morningstar]] toward [[Cyris Voss]].
+
+He is smart, highly charismatic, and exceptionally wise — the kind of person who usually sees what you're going to do before you do it. He does have a strict side; his standards are high and he holds people to them. He sees knowledge as something to be shared regardless of class or race — an uncommon stance among Brittania's elite.
 
 ## Appearance
 

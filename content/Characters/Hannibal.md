@@ -12,7 +12,7 @@ title: "Hannibal"
 ---
 
 <aside class="infobox">
-<img src="../portraits/placeholder.svg" alt="Hannibal">
+<img src="../portraits/hannibal.webp" alt="Hannibal">
 <div class="infobox-name">Hannibal</div>
 <table><tr><th>Aliases</th><td>The Cold Man</td></tr><tr><th>Campaign</th><td>1</td></tr></table>
 </aside>
@@ -22,8 +22,18 @@ title: "Hannibal"
 
 Hannibal is the primary antagonist introduced in Session 7. He is not an assassin — he wants to "usher in a new era." He possesses power that is **not man-made** and appears to have Abyssal origin or connection. He can freeze the surrounding area with cold, nullify spells with a gesture, travel through realities by cutting through the fabric of space, and trap targets in translucent purple cubes that repel all attacks — even Kylo's Wish spell. He has knowledge of **alternate timelines and universes**, referring to "this universe" and "you're actually alive in this one" when speaking to Seros and Kip. He knows [[Kip]]'s sister's name.
 
+![[Hannibal (4x5 Portrait).webp|350]] ![[Hannibal (Reference).webp|350]]
+
 ## Appearance
 
+- Ageless — appears young but carries no warmth that youth normally implies
+- Short white/silver hair swept to one side, partially falling across his face
+- Pale ashen/grey skin — almost grey-white
+- Sharp angular features, narrow face
+- Pale blue-grey eyes with an unsettling, fixed quality — slightly wide, deeply menacing
+- Thin lips; default expression is a faint sinister smirk
+- Dark layered black armor
+- Small and slight build; the menace is entirely in his presence, not his size
 - Makes the surrounding area cold simply by being present
 
 ## Personality
