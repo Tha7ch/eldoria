@@ -677,4 +677,4 @@ Cyris slides the drink over to Aella.
 - **Why is [[Manuel]] unexpected?** — [[Hannibal]] said "you're not supposed to be here" and didn't know if the Warden could kill Manuel "now." He has multiverse awareness — Manuel's presence in this timeline is apparently anomalous. What happened to Manuel in the other timelines Hannibal knows?
 - **What does Hannibal want with [[Solstice Shuriv]]?** — He said "I am interested in the woman you have behind you" before Lucerin was even revealed. His interest was in Solstice specifically, not the king. Why?
 - **Why did [[Aella Galefri]] react to the Lionheart?** — [[Lucas Lyons]] (Chosen of Helios, head of House Lyons) is "the Lionheart" — already documented. But Aella thought of someone blonde when he was mentioned and said "it's nobody." She has a personal connection to him.
-- **Who is "the older Morningstar"?** — A Campaign 2 player character not yet established; returning to Brittania alongside [[Lumiere Ameris]] and the Lionheart.
+- **Who is "the older Morningstar"?** — Likely [[Karsus Morningstar]]; returning to Brittania alongside [[Lumiere Ameris]] and the Lionheart.

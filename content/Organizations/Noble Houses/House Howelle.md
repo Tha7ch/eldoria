@@ -14,7 +14,7 @@ A noble house in [[Brittania]] with a proud tradition of powerful women. One of 
 
 ## Known Members
 
-- [[Olenna Howelle]] — grandmother of Jeane; significant political influence; married to [[The High Septon]]
+- [[Olenna Howelle]] — grandmother of Jeane; significant political influence; married to [[Archibald Howell|The High Septon]]
 - [[Jeane Howelle]] — Queen's Guard of [[The Kingsguard]]
 - [[Lanius]] — ward (adopted from the slums of [[Caer Brittanis]] as a child); grew up alongside Jeane; later founded [[The People's Liberation Front of Brittania]]
 

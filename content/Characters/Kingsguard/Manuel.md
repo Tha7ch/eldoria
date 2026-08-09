@@ -11,6 +11,7 @@ age: "65"
 height: "6'6"
 affiliation:
   - "[[The Kingsguard]]"
+  - "[[King's Crown]]"
   - "[[Brittania]]"
 status: "alive"
 title: "Manuel"
@@ -19,7 +20,7 @@ title: "Manuel"
 <aside class="infobox">
 <img src="../../portraits/manuel.webp" alt="Manuel">
 <div class="infobox-name">Manuel</div>
-<table><tr><th>Aliases</th><td>Ser Manuel the Undefeated, Lord Protector of the King's Guard, The Undefeated</td></tr><tr><th>Age</th><td>65</td></tr><tr><th>Height</th><td>6'6</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../../organizations/the-kingsguard">The Kingsguard</a><br><a href="../../locations/countries/brittania">Brittania</a></td></tr><tr><th>Campaign</th><td>1</td></tr></table>
+<table><tr><th>Aliases</th><td>Ser Manuel the Undefeated, Lord Protector of the King's Guard, The Undefeated</td></tr><tr><th>Age</th><td>65</td></tr><tr><th>Height</th><td>6'6</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../../organizations/the-kingsguard">The Kingsguard</a><br><a href="../../organizations/king's-crown">King's Crown</a><br><a href="../../locations/countries/brittania">Brittania</a></td></tr><tr><th>Campaign</th><td>1</td></tr></table>
 </aside>
 
 

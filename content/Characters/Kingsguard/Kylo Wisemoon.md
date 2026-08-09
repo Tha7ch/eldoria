@@ -27,7 +27,7 @@ title: "Kylo Wisemoon"
 
 ## Overview
 
-Kylo Wisemoon is a Royal Protector of the Royal Family in [[The Kingsguard]]. Once a promising **Lorehold** mage at [[Strixhaven]], fate gave him a magical blade known as Dawnstar. [[Manuel]] defeated him in combat and then took him as his only squire before inducting him into the Kingsguard. He recognized [[Cyris Voss]] from his Strixhaven reputation.
+Kylo Wisemoon is a Royal Protector of the Royal Family in [[The Kingsguard]] — the actual **5th Kingsguard member**, a position [[Lumiere Ameris]] was originally supposed to fill before choosing to become a general instead. He is the **#3 ranked magical genius** in the world. Once a promising **Lorehold** mage at [[Strixhaven]], fate gave him a magical blade known as Dawnstar. [[Manuel]] defeated him in combat and then took him as his only squire before inducting him into the Kingsguard. He recognized [[Cyris Voss]] from his Strixhaven reputation.
 
 ## Appearance
 

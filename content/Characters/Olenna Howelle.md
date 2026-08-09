@@ -24,10 +24,10 @@ title: "Olenna Howelle"
 
 ## Overview
 
-Lady Olenna Howelle is the grandmother of [[Jeane Howelle]] and a figure of significant political sway in [[Brittania]]. She is married to [[The High Septon]] — connecting [[House Howelle]] directly to [[King's Crown]] through marriage. This makes her one of the most politically connected women in Brittania.
+Lady Olenna Howelle is the grandmother of [[Jeane Howelle]] and a figure of significant political sway in [[Brittania]]. She is married to [[Archibald Howell|The High Septon]] — connecting [[House Howelle]] directly to [[King's Crown]] through marriage. This makes her one of the most politically connected women in Brittania.
 
 ## Relationships
 
-- [[Jeane Howelle]] — her granddaughter; Jeane's mother is from an earlier relationship with a different man, so Jeane is not a blood relative of [[The High Septon]]
-- [[The High Septon]] — her husband; member of [[King's Crown]]
+- [[Jeane Howelle]] — her granddaughter; Jeane's mother is from an earlier relationship with a different man, so Jeane is not a blood relative of [[Archibald Howell|The High Septon]]
+- [[Archibald Howell|The High Septon]] — her husband; member of [[King's Crown]]
 - [[House Howelle]] — senior member

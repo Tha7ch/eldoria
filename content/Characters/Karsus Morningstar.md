@@ -28,7 +28,7 @@ title: "Karsus Morningstar"
 
 ## Overview
 
-Karsus Morningstar is the Headmaster of [[Strixhaven]] and the Grand Mage of [[Brittania]] — the highest magical authority in the country. He leads a house known for producing some of the most powerful mages in Brittanian history.
+Karsus Morningstar is the Headmaster of [[Strixhaven]] and the Grand Mage of [[Brittania]] — the highest magical authority in the country. He leads a house known for producing some of the most powerful mages in Brittanian history. He wields **Magic** — one of [[The Forbidden Magics]] — and this is public knowledge; it is the reason he holds the position of Headmaster and is known as one of the best magic users in the world. Where most mages forcibly bend the arcane to their will through their body, Karsus weaves magic intuitively and gently — a fundamentally different approach. His demonic counterpart is [[X]], who represents the violent, dominating relationship with magic that Karsus's approach stands in contrast to.
 
 ## Personality
 
@@ -49,6 +49,10 @@ He is smart, highly charismatic, and exceptionally wise — the kind of person w
 - [[House Morningstar]] — his house
 - [[Strixhaven]] — Headmaster
 - [[Merlin Morningstar]] — son; a student at [[Strixhaven]], known as The Prodigy of Potential. Karsus encouraged Merlin to befriend [[Cyris Voss]], which worked out genuinely
-- [[Cyris Voss]] — student; Karsus wanted Merlin to befriend him. Aware Merlin showed Cyris the forbidden section — overlooks it, fine with it
+- [[Cyris Voss]] — student; Karsus wanted Merlin to befriend him. Likes Cyris because he is a genuine friend to Merlin — most people asskiss Merlin because of the family name, making real connections hard to find. Aware Merlin showed Cyris the forbidden section — overlooks it, fine with it. Helping Cyris get into the upcoming gala alongside Merlin
+- [[Callum]] — helping him get into the upcoming gala
+- [[Vernan Hawkes]] — almost certainly knew Vernan was sneaking into Strixhaven's libraries to teach himself magic and turned a blind eye; consistent with his belief that everyone deserves the right to learn
 - [[Tirian Dawnmere]] — former student (Silverquill); did everything he could to try to convince Tirian not to drop out after [[The Dawnmere Slaughter]]
+- [[The Forbidden Magics]] — wields Magic, one of the forbidden magics; not a Demon General
+- [[X]] — the Demon General of Magic; Karsus's demonic counterpart. X forces magic to bend violently; Karsus weaves it gently. Mortal enemies
 - [[Brittania]] — Grand Mage

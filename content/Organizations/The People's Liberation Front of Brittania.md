@@ -23,13 +23,18 @@ A revolutionary group in [[Brittania]] that wants to topple tyrannical rule. Fou
 
 ## Goals & Ideology
 
-End the classism of [[Brittania]] — by any means necessary. They started as people protecting slum residents from abuse and evolved into an organized force willing to do whatever it takes to dismantle the systems that enable it. Not a gentle reform movement.
+End the classism of [[Brittania]]. Dismantle the systems that let the powerful exploit everyone beneath them. Not a gentle reform movement, but the leadership is split on how far to go.
+
+**[[Lanius]]** does not want to kill all the nobles. His goal is systemic change, not extermination. He lived on both sides of the divide and knows that not every noble is the enemy.
+
+**[[Roland Royce]]** is much more brutal. He's willing to do whatever it takes to change Brittania, and "whatever it takes" sits closer to burning the whole structure down. Where Lanius draws lines, Roland pushes past them.
 
 **Motto:** *"It is the duty of the strong to protect the weak."*
 
 ## Known Members
 
 - [[Lanius]] — chosen of Veyrana, brawler fighter
+- [[Vernan Hawkes]] — field operative and intelligence runner; joined at age 20, trained by the Front
 
 ## Associates
 
@@ -38,7 +43,7 @@ End the classism of [[Brittania]] — by any means necessary. They started as pe
 
 ## History
 
-Founded by people patrolling the slums against mistreatment — higher-ups in Brittania's power structure were involved in abusing slum residents. The group evolved from protection into organized resistance. Stories about them circulate in Cyris's knowledge from Strixhaven.
+Founded approximately **4 years ago** by people patrolling the slums against mistreatment — higher-ups in Brittania's power structure were involved in abusing slum residents. The group evolved from protection into organized resistance. Stories about them circulate in Cyris's knowledge from Strixhaven. The founding predates the [[Assassination of the Royal Family]] by roughly 3 years — the assassination was not their catalyst, but it worsened the conditions they fight against.
 
 ## Relationships
 

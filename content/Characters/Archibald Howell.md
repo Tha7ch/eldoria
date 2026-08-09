@@ -47,6 +47,8 @@ Corrupt and calculating. Uses the appearance of religious authority to consolida
 
 Monetized the four major churches and placed noble families in control of each, effectively turning religion into a political and economic instrument. His membership in [[King's Crown]] means he sits at the intersection of religious and political power in Brittania.
 
+Through his spies and talks with [[Leo Atreides|the King]], the High Septon discovered the identity of [[Damian Grimm]]'s mother. Leo asked him to keep her away — partly to hide the affair, partly because Leo had taken Damian from her. The High Septon went further: he had Damian's mother killed and covered it up.
+
 **The four major churches under noble family control:**
 - [[Church of Light]] — worships [[Aria]] — [[House Raymor]] and [[House Aberra]]
 - [[Church of Love]] — worships [[Mara]] — [[House Justicar]]
@@ -63,4 +65,6 @@ Monetized the four major churches and placed noble families in control of each, 
 - [[Olenna Howelle]] — his wife; connects [[House Howelle]] to King's Crown through marriage. *(Olenna had Jeane Howelle's mother with a different man before marrying the High Septon — he is not Jeane's blood grandfather.)*
 - [[Jeane Howelle]] — Olenna's step-granddaughter; Jeane hates him
 - [[Roland Royce]] — hates him
+- [[Damian Grimm]] — discovered the identity of Damian's mother through spies and the King; had her killed when the King asked him to "keep her away"
+- [[Leo Atreides]] — the King asked the High Septon to keep Damian's mother away; the High Septon took it further than Leo likely intended
 - [[Lucerin Atreides]] — part of the faction attempting to control or undermine the young king

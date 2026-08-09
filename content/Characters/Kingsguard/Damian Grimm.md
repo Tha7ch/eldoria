@@ -32,7 +32,7 @@ title: "Damian Grimm"
 
 ## Overview
 
-Damian Grimm is the "Blade of the King" in [[The Kingsguard]], and the illegitimate brother of [[Lucerin Atreides]]. At 23, he is the youngest Kingsguard member. His file is marked REDACTED. He has blood magic — one of the forbidden magics — running in his blood, which he is not supposed to discuss. He carries deep loyalty toward Lucerin and genuine guilt over the circumstances of his birth.
+Damian Grimm is the "Blade of the King" in [[The Kingsguard]], and the illegitimate brother of [[Lucerin Atreides]]. At 23, he is the youngest Kingsguard member. His file is marked REDACTED. He has blood magic — one of the forbidden magics — running in his blood. His blood magic is a loosely kept secret among the nobility — it's not publicly broadcast, but nobles generally know. He carries deep loyalty toward Lucerin and genuine guilt over the circumstances of his birth. He is the **#5 ranked magical genius** — he gained mastery over forbidden blood magic remarkably fast and has enormous raw power. However, he has low battle IQ and fights with his heart rather than his head.
 
 ## Appearance
 
@@ -55,7 +55,9 @@ Calm and controlled. Does not raise his voice. Opens up vulnerably when he trust
 
 ## History
 
-Illegitimate son of [[Leo Atreides]], the former King of Brittania. "Grimm" is a common bastard surname. When Damian was born, Leo entrusted him to [[Manuel]] to raise within the castle. His upbringing was harsh — and none were crueler to him than [[Myrcella Atreides]], the Queen. She was the worst source of his suffering within the castle. In a calculated act, she made him a member of the Kingsguard — placing him permanently close to the royal family, while ensuring he could never truly be a part of it. Close enough to serve. Never close enough to belong. Manuel did his best to protect him, though by his own admission he wonders if it was ever enough.
+Illegitimate son of [[Leo Atreides]], the former King of Brittania. "Grimm" is a common bastard surname. Leo stole Damian away from his mother as an infant and entrusted him to [[Manuel]] to raise within the castle. To hide the affair, Leo asked [[Archibald Howell|the High Septon]] to keep Damian's mother away — a "don't ask, don't tell" arrangement. The High Septon went further than the King likely intended: he had Damian's mother killed and covered it up. Damian does not appear to know this.
+
+His upbringing was harsh — and none were crueler to him than [[Myrcella Atreides]], the Queen. She was the worst source of his suffering within the castle. In a calculated act, she made him a member of the Kingsguard — placing him permanently close to the royal family, while ensuring he could never truly be a part of it. Close enough to serve. Never close enough to belong. Manuel did his best to protect him, though by his own admission he wonders if it was ever enough.
 
 He has blood magic in his blood — one of [[The Forbidden Magics]] — and is not supposed to discuss it. Joined [[The Kingsguard]] at least in part to protect his little brother [[Lucerin Atreides]]. His file reads "Information: REDACTED."
 
@@ -70,6 +72,7 @@ Was present, alongside [[Tirian Dawnmere]], [[Lumiere Ameris]], [[Ludwig St. Jam
 - [[Violet Atreides]] — loved him; deceased
 - [[Elio Atreides]] — adored him; the twins were especially attached to Damian; deceased
 - [[Iris Atreides]] — adored him; the twins were especially attached to Damian; deceased
+- [[Archibald Howell|The High Septon]] — had Damian's mother killed on Leo's request to "keep her away"; went far beyond what Leo likely intended
 - [[Myrcella Atreides]] — the Queen; the worst source of cruelty during his upbringing; deliberately placed him in the Kingsguard to keep him close but never belonging
 - [[Kieran Arden]] — romantic relationship begun in Session 5; noticed his face marking in Session 2; a mutual recognition from first meeting
 - [[Manuel]] — effectively raised by Manuel as a child; Manuel is the closest thing he has to a father figure

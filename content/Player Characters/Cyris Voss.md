@@ -66,10 +66,10 @@ Roland was not warm but not unkind — he saw Cyris as an investment. He drilled
 - [[Serapha Ashkel]] — deceased mother; taught him letters in dirt and ash; his gentleness comes from her
 - [[Roland Voss]] — adopted father and sponsor; not warm, but provided everything; taught Cyris that names open doors and doors have prices
 - [[Lucerin Atreides]] — recognized by Kylo as having similar abilities; Cyris has seen this meeting in a vision before (Session 2)
-- [[Merlin Morningstar]] — friend; a fellow Strixhaven student. [[Karsus Morningstar]] encouraged Merlin to befriend Cyris, and the two genuinely connected. Merlin showed Cyris [[Strixhaven]]'s forbidden section — Karsus is aware and doesn't mind
-- [[Karsus Morningstar]] — Headmaster of [[Strixhaven]]; encouraged his son Merlin to befriend Cyris
+- [[Karsus Morningstar]] — Headmaster of [[Strixhaven]]; encouraged his son Merlin to befriend Cyris. Likes Cyris because he is a genuine friend to Merlin — most people asskiss Merlin because of his family, making it hard to find real connections. Helping Cyris get into the upcoming gala alongside Merlin
 - [[Kronos]] — the Demon General of Time sought Cyris out specifically in the doomed future
-- [[The Forbidden Magics]] — wields Time magic (chronomancy), one of the forbidden magics; not a Demon General
+- [[The Forbidden Magics]] — wields Time magic (chronomancy), one of the forbidden magics; not a Demon General; keeps this hidden publicly
+- [[Merlin Morningstar]] — friend; a fellow Strixhaven student and fellow time magic wielder. [[Karsus Morningstar]] encouraged Merlin to befriend Cyris, and the two genuinely connected. Merlin showed Cyris [[Strixhaven]]'s forbidden section — Karsus is aware and doesn't mind. Merlin's magic goes haywire when Cyris is nearby; both their magics react extremely to each other's presence. Merlin initially approached Cyris partly because of this resonance, hiding the real reason. Merlin is more naturally talented at time magic, but Cyris is more creative and revolutionary
 - [[Elric Fletcher]] — the Archmaester; quietly invited Cyris to come visit him after the King's Crown meeting (Session 9)
 
 ## Story
@@ -86,6 +86,8 @@ Roland was not warm but not unkind — he saw Cyris as an investment. He drilled
 
 Likely multiclass: **Chronurgy Wizard** (fits time magic research) + **Battle Smith Artificer** (tinkering, invention, protecting others). Background: **Haunted One** — grew up in the Badlands, has seen horrors; inspires sympathy and admiration from common people.
 
+**Inherent magic — Water and Time:** Cyris has two inherent magic types — an extraordinary rarity. Water magic manifested around age 10 as a basic elemental gift (hydrokinesis, water bullets, fluid control). Time magic (chronomancy) is also inherent, not merely studied — it is in his blood. He cannot become a **dual caster mage** until he masters both. Having two inherent magics is almost unheard of; the only other known case is [[Lanius]], who is the first dual caster mage in 3,000 years. Publicly, Cyris identifies water as his main magic — his time magic is a closely guarded secret, known only to [[Merlin Morningstar]] and [[Karsus Morningstar]].
+
 Notable spell — *Chronal Fracture*: draws a thin line through a creature's timeline, causing disadvantage on next roll (Temporal Recoil), or preventing reactions (Fate Stutter).
 
-Personal spell under development: rewinding a single object or creature's body 10 seconds — could function as an emergency heal.
+Personal spell under development: rewinding a single object or creature's body 10 seconds — could function as an emergency heal. When Cyris invented this chronomancy spell, it stunned [[Merlin Morningstar]] — despite Merlin being more naturally talented with time magic, Cyris's creativity and revolutionary thinking put him a step ahead.

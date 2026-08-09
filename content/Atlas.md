@@ -15,6 +15,8 @@ title: "Atlas of Eldoria"
 <div class="gaz-entry" style="margin-left:2.8rem"><a href="locations/cities/black-lantern-row">Black Lantern Row</a><span class="gaz-type">landmark</span><span class="gaz-line">Black Lantern Row is a criminal district in the lower reaches of Caer Brittanis — the…</span></div>
 <div class="gaz-entry" style="margin-left:4.199999999999999rem"><a href="locations/cities/the-old-bathhouse">The Old Bathhouse</a><span class="gaz-type">building</span><span class="gaz-line">The Old Bathhouse is Veyr's base of operations at the far end of Black Lantern Row in Caer…</span></div>
 
+<div class="gaz-entry" style="margin-left:2.8rem"><a href="locations/cities/lowtown">Lowtown</a><span class="gaz-type">city</span><span class="gaz-line">Lowtown is the slum district of Caer Brittanis, located roughly 20–30 miles from the city…</span></div>
+
 <div class="gaz-entry" style="margin-left:2.8rem"><a href="locations/institutions/strixhaven">Strixhaven</a><span class="gaz-type">institution</span><span class="gaz-line">Strixhaven is the most prestigious magical institution in Brittania — the only advanced…</span></div>
 
 <div class="gaz-entry" style="margin-left:2.8rem"><a href="locations/cities/the-crooked-boar">The Crooked Boar</a><span class="gaz-type">building</span><span class="gaz-line">The Crooked Boar is a rough tavern in the lower criminal districts of Caer Brittanis, in the…</span></div>
@@ -25,6 +27,8 @@ title: "Atlas of Eldoria"
 <div class="ornate-head">⸻ Elsweyr ⸻</div>
 
 <div class="gaz-entry" style="margin-left:0rem"><a href="locations/countries/elsweyr">Elsweyr</a><span class="gaz-type">country</span><span class="gaz-line">Elsweyr is the third country in Eldoria.</span></div>
+<div class="gaz-entry" style="margin-left:1.4rem"><a href="locations/countries/cervan-kingdom">Cervan Kingdom</a><span class="gaz-type">country</span><span class="gaz-line">A kingdom located deep within Elsweyr.</span></div>
+
 <div class="gaz-entry" style="margin-left:1.4rem"><a href="locations/cities/petalton">Petalton</a><span class="gaz-type">village</span><span class="gaz-line">A small village in Elsweyr. Hometown of Kip.</span></div>
 
 

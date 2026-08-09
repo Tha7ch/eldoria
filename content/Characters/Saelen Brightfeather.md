@@ -22,4 +22,4 @@ title: "Saelen Brightfeather"
 
 ## Overview
 
-One of the most prestigious students at [[Strixhaven]] in [[Brittania]]. A 4th year **Prismari** student, 22 years old.
+One of the most prestigious students at [[Strixhaven]] in [[Brittania]]. A 4th year **Prismari** student, 22 years old. He is the **#6 ranked magical genius** in the world.

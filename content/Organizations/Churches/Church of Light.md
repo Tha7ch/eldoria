@@ -11,7 +11,7 @@ title: "Church of Light"
 
 ## Overview
 
-One of the four major churches of [[Brittania]]. The Church of Light worships [[Aria]], Goddess of Light, Truth, and Justice. Controlled by a noble family appointed by [[The High Septon]]. [[Lucius Raymor]] is the Chosen of Aria and affiliated with the church. [[Tirian Dawnmere]] publicly associates with the Church of Light — its values align with [[House Dawnmere]]'s ideals, and the affiliation carries significant political benefit.
+One of the four major churches of [[Brittania]]. The Church of Light worships [[Aria]], Goddess of Light, Truth, and Justice. Controlled by a noble family appointed by [[Archibald Howell|The High Septon]]. [[Lucius Raymor]] is the Chosen of Aria and affiliated with the church. [[Tirian Dawnmere]] publicly associates with the Church of Light — its values align with [[House Dawnmere]]'s ideals, and the affiliation carries significant political benefit.
 
 ## Known Members
 
@@ -24,5 +24,5 @@ One of the four major churches of [[Brittania]]. The Church of Light worships [[
 ## Relationships
 
 - [[Aria]] — deity worshipped
-- [[The High Septon]] — supreme religious authority; placed a noble family in control of this church
+- [[Archibald Howell|The High Septon]] — supreme religious authority; placed a noble family in control of this church
 - [[Pantheon of Gods]] — Aria is a member

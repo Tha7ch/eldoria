@@ -68,6 +68,7 @@ Members of the Front have taken to calling him "Sword of Roland" — a nickname 
 
 - [[Roland Royce]] — found him newly woken and memoryless in the crystal cave; recruited him into the fight against Brittania's corrupt systems, the choice that eventually tied him to the PLFB
 - [[The People's Liberation Front of Brittania]] — not a full member, but shares many of their goals and works with them on occasion
+- [[Karsus Morningstar]] — helping Callum get into the upcoming gala
 
 ## Story
 

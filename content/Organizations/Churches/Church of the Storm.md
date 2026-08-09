@@ -9,7 +9,7 @@ title: "Church of the Storm"
 
 ## Overview
 
-One of the four major churches of [[Brittania]]. The Church of the Storm worships [[Veyrana]], Goddess of Storms. Controlled by a noble family appointed by [[The High Septon]]. [[Aella Galefri]] grew up within the church before being banished to [[Elsweyr]].
+One of the four major churches of [[Brittania]]. The Church of the Storm worships [[Veyrana]], Goddess of Storms. Controlled by a noble family appointed by [[Archibald Howell|The High Septon]]. [[Aella Galefri]] grew up within the church before being banished to [[Elsweyr]].
 
 ## Leadership
 
@@ -23,5 +23,5 @@ One of the four major churches of [[Brittania]]. The Church of the Storm worship
 ## Relationships
 
 - [[Veyrana]] — deity worshipped
-- [[The High Septon]] — placed a noble family in control of this church
+- [[Archibald Howell|The High Septon]] — placed a noble family in control of this church
 - [[Pantheon of Gods]] — Veyrana is a member

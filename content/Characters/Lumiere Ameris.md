@@ -27,7 +27,9 @@ title: "Lumiere Ameris"
 
 ## Overview
 
-Lumiere Ameris is a general in the Brittanian military and heir of [[House Ameris]], known for lunar magic. Compared to Achilles by the DM. Active over the last 3 years with a 13–0 record in military campaigns — a prodigy by any measure.
+Lumiere Ameris is a general in the Brittanian military and heir of [[House Ameris]], known for lunar magic. Compared to Achilles by the DM. Active over the last 3 years with a 13–0 record in military campaigns — a prodigy by any measure. He is the **#2 ranked magical genius** in the world. He was supposed to be the 5th member of [[The Kingsguard]] and was offered the throne, but chose to be a general instead — to actually contribute to the kingdom rather than stand guard.
+
+Lumiere possesses a **lunar domain** — a pocket-reality AOE effect where everyone gets teleported into a space he controls. Lunar-themed battlefield, his rules.
 
 ## Appearance
 

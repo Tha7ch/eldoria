@@ -9,7 +9,7 @@ title: "Church of Love"
 
 ## Overview
 
-One of the four major churches of [[Brittania]]. The Church of Love worships [[Mara]], Goddess of Love, Fertility, and Life. Controlled by a noble family appointed by [[The High Septon]]. [[Vera Justicar]] serves as High Priestess.
+One of the four major churches of [[Brittania]]. The Church of Love worships [[Mara]], Goddess of Love, Fertility, and Life. Controlled by a noble family appointed by [[Archibald Howell|The High Septon]]. [[Vera Justicar]] serves as High Priestess.
 
 ## Known Members
 
@@ -21,6 +21,6 @@ One of the four major churches of [[Brittania]]. The Church of Love worships [[M
 
 - [[Mara]] — deity worshipped
 - [[Ludwig St. James]] — has some connection to the church *(nature unclear)*
-- [[The High Septon]] — placed a noble family in control of this church
+- [[Archibald Howell|The High Septon]] — placed a noble family in control of this church
 - [[House Justicar]] — the noble house placed in control of this church
 - [[Pantheon of Gods]] — Mara is a member

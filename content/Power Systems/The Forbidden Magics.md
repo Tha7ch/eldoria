@@ -27,8 +27,11 @@ There are 12 forbidden magics total.
 - The forbidden magics were cursed upon humanity by the twelve demon generals ages ago
 - Strictly forbidden across most of the world
 
-**Magic (X's forbidden magic):**
-- Where typical magic users bend and weave the arcane, [[X]] twists and forces it to bend to his will — a violent, dominating relationship with magic itself rather than a cooperative one
+**Magic:**
+- Two living wielders represent opposite approaches. [[X]] (Demon General) twists and forces magic to bend to his will — a violent, dominating relationship with magic itself. [[Karsus Morningstar]] (mortal) weaves magic intuitively and gently — where most mages forcibly put magic together through their body, Karsus does it cooperatively. They are mortal enemies.
+
+**Inherent magic awakening:**
+- Wizards and sorcerers both have inherent magic types that typically awaken around age 10, often manifesting as a cantrip-level version of the magic type. After awakening, any mage with Detect Magic can identify a person's inherent type. Most people have one inherent magic. Having two is extraordinarily rare — only [[Cyris Voss]] (time + water) and [[Lanius]] (storm + sky) are known to have two. A dual-inherent wielder cannot become a **dual caster mage** until they master both. Lanius is the first dual caster mage in 3,000 years.
 
 ## Known Users
 
@@ -36,6 +39,8 @@ There are 12 forbidden magics total.
 - [[Cyris Voss]] — Time magic *(chronomancy; not a Demon General)*
 - [[X]] — Magic
 - [[Damian Grimm]] — Blood magic *(in his blood, not a Demon General)*
+- [[Karsus Morningstar]] — Magic *(public knowledge; not a Demon General; weaves magic intuitively vs [[X]]'s violent forcing)*
+- [[Merlin Morningstar]] — Time magic *(very secret; known only to [[Cyris Voss]] and [[Karsus Morningstar]])*
 - [[Veritas Aletheia]] — Judgement magic *(not confirmed as a Demon General)*
 - Blood General — *(name unknown)*
 - Gravity General — *(name unknown)*
@@ -47,7 +52,7 @@ There are 12 forbidden magics total.
 ## Known Forbidden Magics
 
 **Confirmed:**
-1. Time — [[Kronos]]; also wielded by [[Cyris Voss]]
+1. Time — [[Kronos]]; also wielded by [[Cyris Voss]] and [[Merlin Morningstar]] (both secret)
 2. Blood — *(Demon General unknown; also in [[Damian Grimm]]'s blood)*
 3. Gravity — *(Demon General unknown)*
 4. Hellfire — *(Demon General unknown)*
@@ -55,7 +60,7 @@ There are 12 forbidden magics total.
 6. Acceleration — *(Demon General unknown)*
 7. Rhythm — *(Demon General unknown)*
 8. Judgement — [[Veritas Aletheia]]; manifests as a scale; Demon General unknown
-9. Magic — [[X]]
+9. Magic — [[X]]; also wielded by [[Karsus Morningstar]] (public knowledge)
 
 **Unconfirmed / speculative:**
 - Soul

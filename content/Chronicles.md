@@ -19,6 +19,7 @@ title: "The Chronicles"
 <div class="ornate-head">⸻ Side Stories ⸻</div>
 
 <div class="tale-shelf">
+<a class="tale-card has-thumb" href="story/side-stories/tirian---the-awakening"><img src="thumbs/tirian-the-awakening.webp" alt="" loading="lazy"><span class="tale-title">Tirian — The Awakening</span><span class="tale-author">by Trace</span></a>
 <a class="tale-card has-thumb" href="story/side-stories/tirian---first-light"><img src="thumbs/tirian-first-light.webp" alt="" loading="lazy"><span class="tale-title">Tirian — First Light</span><span class="tale-author">by Trace</span></a>
 <a class="tale-card has-thumb" href="story/side-stories/callum---sword-of-roland"><img src="thumbs/callum-sword-of-roland.webp" alt="" loading="lazy"><span class="tale-title">Callum — Sword of Roland</span><span class="tale-author">by Bonner</span></a>
 <a class="tale-card has-thumb" href="story/side-stories/kaisel---the-crooked-boar"><img src="thumbs/kaisel-the-crooked-boar.webp" alt="" loading="lazy"><span class="tale-title">Kaisel — The Crooked Boar</span><span class="tale-author">by Tre</span></a>

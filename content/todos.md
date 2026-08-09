@@ -7,7 +7,7 @@ title: "todos"
 > Maintained by Claude Code. Updated every session.
 > Format: `- [ ]` open / `- [x]` done / `- [!]` flagged (needs decision or attention)
 
-Last updated: 2026-07-28
+Last updated: 2026-08-09
 
 ---
 
@@ -26,7 +26,7 @@ Last updated: 2026-07-28
 ## Stubs to fill
 
 - [x] **[[Lucas Lyons]]** — page filled (Session 9); appearance, personality, relationships, story all populated. 2026-07-28
-- [ ] **[[Raevyn Whitlocke]]** — Founder of the Kingsguard. Page exists but completely empty. Any known lore about the Kingsguard's founding could seed this.
+- [x] **[[Raevyn Whitlocke]]** — Stub filled: Yoriichi-inspired, "The Redeemer," Kingsguard founder in 150CC, descendant [[Raven Whitlock]] page created. 2026-08-05
 - [ ] **Events timeline** — Sparse. Add pages for: The Great Decimation, The Doomed Timeline, and the Assassination of the Royal Family as proper Event pages (not just stubs). (user request 2026-06-12)
 
 ---
@@ -35,8 +35,9 @@ Last updated: 2026-07-28
 
 *Priority items — user flagged these as most important.*
 
-### Tirian (9 planned, 3 done — see [[Tirian - Story Roadmap]])
+### Tirian (10 planned, 4 done — see [[Tirian - Story Roadmap]])
 
+- [x] **Story 0 — The Awakening** → [[Tirian - The Awakening]] (age 8) — Tirian's shadow magic awakens for the first time; nightmare, waking horror, the dawn. Finalized. 2026-08-09
 - [x] **Story 1 — Young Tirian & Finn** → [[Tirian - First Light]] — finalized. 2026-07-17
 - [ ] **Story 2 — Tirian, Lumiere & Gideon** (age 14–16) — the trio friendship; Finn ~10–12 and sparring age
 - [ ] **Story 3 — Strixhaven Year 1** (age 18) — Silverquill, social/political skill-building, early Noctis seeds
@@ -60,8 +61,7 @@ Last updated: 2026-07-28
 
 *Mysteries in [[Mysteries - Campaign 1]] that need player or DM input to resolve (not just world mysteries that will unfold in play).*
 
-- [!] **[[Questions for the DM]]** — awaiting DM responses on: current in-world year; permission for Story Queue pitches (Cyris & Karsus, Tirian & Karsus); Strixhaven professors/Cyris's mentor; additional Strixhaven students; geopolitics and racial tensions between countries; who the 6th King's Crown member is; who Manuel replaced on the council; identity of Hero With No Name and Lone Wanderer
-- [ ] **Who is the older Morningstar?** — Campaign 2 PC not yet established. Fill once Campaign 2 begins.
+- [!] **[[Questions for the DM]]** — awaiting DM responses on: current in-world year; permission for Story Queue pitches (Cyris & Karsus, Tirian & Karsus); chronomancy professor name; additional Strixhaven students; geopolitics and racial tensions between countries; who the 6th King's Crown member is; who Manuel replaced on the council; identity of Hero With No Name and Lone Wanderer; who is #4 magical genius; confirm Lanius's inherent magics (Storm + Sky)
 - [ ] **What is the "Mark of [redacted]" on Solstice?** — Shown in her reference art. Whose sigil is it?
 
 ---

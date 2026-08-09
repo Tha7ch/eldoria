@@ -27,7 +27,7 @@ title: "Lucerin Atreides"
 ![[Lucerin Atreides (4x5 Portrait).webp|350]] ![[Lucerin.webp|350]] ![[Lucerin (Timeskip).webp|350]]
 ![[Lucerin tiny king on throne.webp|350]]
 ![[Lucerin (Playing Chess).webp|350]] ![[Lucerin (Playing Chess With Tirian).webp|350]]
-![[Lucerin Atreides.webp|350]] ![[Lucerin 2.webp|350]]
+![[Lucerin 2.webp|350]]
 
 ## Overview
 

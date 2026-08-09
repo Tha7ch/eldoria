@@ -31,6 +31,7 @@ title: "Characters by Age"
 | 24  | [[Eleanor Irvenest]]     | Kaisel's adopted sister; 4 years older than Kaisel; one of his strongest supporters                                                             |
 | 23  | [[Damian Grimm]]         | Blade of the King; a few weeks older than [[Gideon Atreides]]                                                                                   |
 | 23  | [[Gideon Atreides]] †    | Tirian's close friend, Second Prince of Brittania; died in the Assassination of the Royal Family[[Damian Grimm]] is a few weeks older than him. |
+| 24  | [[Vernan Hawkes]]        | Campaign 2 PC, Liberation Front operative                                                                                                        |
 | 23  | [[Tirian Dawnmere]]      | Campaign 2 PC                                                                                                                                   |
 | 23  | [[Lumiere Ameris]]       | House Ameris commander; heir to Brittanian throne                                                                                               |
 | 22  | [[Lucius Raymor]]        | Kingsguard, Chosen of Aria                                                                                                                      |

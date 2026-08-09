@@ -40,3 +40,10 @@ Unknown. In the doomed future they were part of the end of the world.
 
 - [[Luciferus]] — their commander
 - [[Michael the Evangelist]] — had similar demonic energy to [[X]] *(unconfirmed — what is the connection?)*
+
+## Mortal Counterparts
+
+The forbidden magics create parallels across races — mortal wielders mirrored against their Demon General counterparts. These are mortal enemies:
+
+- [[Kronos]] (Time) ↔ [[Cyris Voss]] / [[Merlin Morningstar]]
+- [[X]] (Magic) ↔ [[Karsus Morningstar]]

@@ -50,7 +50,7 @@ Aella rolls her eyes and sighs.
 
 **Grand Arbiter**: What is your main magic, son?"
 
-**Cyris**: "There are a few, but I guess fire?"
+**Cyris**: "There are a few, but I guess water?"
 
 **Grand Arbiter** *(squinting)*: "Checks out."
 

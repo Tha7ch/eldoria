@@ -7,7 +7,7 @@ campaign:
   - "1"
   - "2"
 race: "unknown"
-age: "unknown"
+age: "28"
 height: "unknown"
 affiliation:
   - "[[The People's Liberation Front of Brittania]]"
@@ -19,13 +19,13 @@ title: "Lanius"
 <aside class="infobox">
 <img src="../portraits/lanius.webp" alt="Lanius">
 <div class="infobox-name">Lanius</div>
-<table><tr><th>Aliases</th><td>Lanius Howell, Lanius Stormbringer</td></tr><tr><th>Affiliation</th><td><a href="../organizations/the-people's-liberation-front-of-brittania">The People's Liberation Front of Brittania</a><br><a href="../characters/gods/veyrana">Veyrana</a></td></tr><tr><th>Campaign</th><td>1, 2</td></tr></table>
+<table><tr><th>Aliases</th><td>Lanius Howell, Lanius Stormbringer</td></tr><tr><th>Age</th><td>28</td></tr><tr><th>Affiliation</th><td><a href="../organizations/the-people's-liberation-front-of-brittania">The People's Liberation Front of Brittania</a><br><a href="../characters/gods/veyrana">Veyrana</a></td></tr><tr><th>Campaign</th><td>1, 2</td></tr></table>
 </aside>
 
 
 ## Overview
 
-Lanius is the chosen of [[Veyrana]] (Goddess of Storms) and [[Indra]] (God of the Sky). He wields storm magic and wind magic, fighting like a brawler who uses wind to enhance his punches. He operates mostly outside the institutional [[Church of the Storm]], with no formal connection to it. He is associated with [[The People's Liberation Front of Brittania]], and his location is known only through them. [[Jeane Howelle]] pointed Aella toward him, though she noted she couldn't officially do so. [[Kylo Wisemoon]] does not like him.
+Lanius is the chosen of [[Veyrana]] (Goddess of Storms) and [[Indra]] (God of the Sky). He has two inherent magics — **Storm** and **Sky** — making him one of only two known people with dual inherent types (the other being [[Cyris Voss]]). He is the **first dual caster mage in over 3,000 years**, having mastered both. He fights like a brawler who uses wind to enhance his punches. More a force of nature than a magical genius — he does not have a domain, and doesn't need one. He operates mostly outside the institutional [[Church of the Storm]], with no formal connection to it. He is associated with [[The People's Liberation Front of Brittania]], and his location is known only through them. [[Jeane Howelle]] pointed Aella toward him, though she noted she couldn't officially do so. [[Kylo Wisemoon]] does not like him.
 
 ![[Lanius (4x5 Portrait).webp|350]] ![[Lanius IMG_20260601_140038_587.webp|350]]
 
@@ -45,7 +45,7 @@ Lanius is the chosen of [[Veyrana]] (Goddess of Storms) and [[Indra]] (God of th
 
 ## Personality
 
-*(unknown — described as brawler-type)*
+Brawler-type. Despite founding a revolutionary movement, Lanius does not want to kill all the nobles. He lived on both sides of the divide and knows the system is the enemy, not every individual who benefits from it. His ideology is one of systemic change, not extermination. This puts him at odds with [[Roland Royce]], whose approach is far more brutal and who would burn the whole structure down if he could.
 
 ## History
 
@@ -59,7 +59,7 @@ After his adoption, he was raised among nobility. When he returned to Lowtown as
 
 Around the time he was founding the Liberation Front, [[Veyrana]] gave him the name **Stormbringer**.
 
-Lanius is the **first person in over 3,000 years to reach the level of a First Generation Mage** — meaning he is a dual caster with exceptional mana levels and spell strength far beyond modern standards — the ancient mages who were the first humans to ever unlock and utilize arcane power. To reach this state is to tap into the same raw magical potential those original mages wielded at the dawn of human magic.
+Lanius is the **first person in over 3,000 years to reach the level of a First Generation Mage** — meaning he is a dual caster with exceptional mana levels and spell strength far beyond modern standards — the ancient mages who were the first humans to ever unlock and utilize arcane power. To reach this state is to tap into the same raw magical potential those original mages wielded at the dawn of human magic. In a fight, Lanius alongside [[Roland Royce]] could take on the former top 10 strongest — and Lanius alone is SO much stronger than the old top 10 that it would be like fighting #2 and #4 simultaneously.
 
 ## Relationships
 

@@ -19,7 +19,7 @@ title: "Alira Lyuval"
 
 
 ![[Alira Lyuval.webp|350]] ![[Alira (Neutral).webp|350]] ![[Alira Lyuval (4x5 Portrait).webp|350]]
-![[Alira ChatGPT Image Feb 23, 2026, 06_20_12 PM.webp|350]] ![[Alira Chibi.webp|250]] ![[Alira stabby.webp|350]]
+![[Alira Chibi.webp|250]] ![[Alira stabby.webp|350]]
 
 ## Overview
 

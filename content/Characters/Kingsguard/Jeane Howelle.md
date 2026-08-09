@@ -45,7 +45,7 @@ Jeane Howelle is the Queen's Guard in [[The Kingsguard]] — the first female me
 
 ## Personality
 
-Calm and confident. Doesn't waste words. Kicked Solstice's cell door down without drama. "Only the ones who deserve it."
+Calm and confident. Doesn't waste words. Kicked Solstice's cell door down without drama. "Only the ones who deserve it." Respects anyone who proves their worth, but her default assumption is that commoners are weaker and less worthy — a deeply ingrained noble bias. She will not respect someone until they demonstrate strength. For example, she did not respect [[Kaisel Irvenest]] until he became a Chosen and completed several difficult missions — then she began to begrudgingly acknowledge his strength. This attitude extends to how she treats the party. She is particularly intimidated by her grandfather [[Archibald Howell|the High Septon]].
 
 ## History
 
@@ -59,7 +59,7 @@ Made her mark at the Bicentennial Winter Solstice Knight's Tournament. Impaled T
 - [[The Kingsguard]] — serves as Queen's Guard
 - [[Lanius]] — grew up together; he was a ward of [[House Howelle]] and they were close. Engaged to him as of the gala the night of [[The Dawnmere Slaughter]]. She despises the [[The People's Liberation Front of Brittania]] and everything it stands for — but her love for Lanius himself has never wavered. She pointed [[Aella Galefri]] toward the PLFB to find him, which she couldn't officially do.
 - [[Damian Grimm]] — despises him
-- [[The High Septon]] — her grandmother [[Olenna Howelle]]'s husband, but not her blood relative — Olenna had Jeane's mother with a different man before marrying him. Jeane hates him.
+- [[Archibald Howell|The High Septon]] — her grandmother [[Olenna Howelle]]'s husband, but not her blood relative — Olenna had Jeane's mother with a different man before marrying him. Jeane hates him.
 
 ## Story
 

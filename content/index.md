@@ -27,15 +27,16 @@ title: "The Eldoria Expanse"
 <a class="party-card" href="player-characters/garrick"><img src="portraits/garrick.webp" alt="Garrick" loading="lazy"><span>Garrick</span></a>
 <a class="party-card" href="player-characters/kaisel-irvenest"><img src="portraits/kaisel-irvenest.webp" alt="Kaisel Irvenest" loading="lazy"><span>Kaisel</span></a>
 <a class="party-card" href="player-characters/tirian-dawnmere"><img src="portraits/tirian-dawnmere.webp" alt="Tirian Dawnmere" loading="lazy"><span>Tirian</span></a>
+<a class="party-card" href="player-characters/vernan-hawkes"><img src="portraits/placeholder.svg" alt="Vernan Hawkes" loading="lazy"><span>Vernan</span></a>
 </div>
 
 <div class="ornate-head">⸻ Latest Chronicles ⸻</div>
 
 <div class="chron-list">
 <a class="chron-row" href="story/sessions/campaign-1/campaign-1---session-09-(07-27)"><span class="chron-tag">Campaign 1</span><span class="chron-title">Campaign 1 - Session 09 (07-27)</span></a>
+<a class="chron-row" href="story/side-stories/tirian---the-awakening"><span class="chron-tag">Side Story</span><span class="chron-title">Tirian - The Awakening</span></a>
 <a class="chron-row" href="story/side-stories/tirian---first-light"><span class="chron-tag">Side Story</span><span class="chron-title">Tirian - First Light</span></a>
 <a class="chron-row" href="story/side-stories/callum---sword-of-roland"><span class="chron-tag">Side Story</span><span class="chron-title">Callum - Sword of Roland</span></a>
-<a class="chron-row" href="story/side-stories/kaisel---the-crooked-boar"><span class="chron-tag">Side Story</span><span class="chron-title">Kaisel - The Crooked Boar</span></a>
 </div>
 
 <div class="flourish">⸙ ❦ ⸙</div>

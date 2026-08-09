@@ -39,7 +39,7 @@ Leo Atreides was the King of [[Brittania]] and father of [[Lucerin Atreides]]. H
 - [[Violet Atreides]] — Second Princess
 - [[Elio Atreides]] — Fourth Prince
 - [[Iris Atreides]] — Third Princess; youngest
-- [[Damian Grimm]] — illegitimate son; entrusted to [[Manuel]] to raise within the castle
+- [[Damian Grimm]] — illegitimate son; Leo stole Damian from his mother and entrusted him to [[Manuel]]. Asked [[Archibald Howell|the High Septon]] to keep Damian's mother away to hide the affair — a "don't ask, don't tell" arrangement. The High Septon had her killed
 - [[Manuel]] — close personal bond; Manuel was approximately 10 years older but the two were genuinely close; Leo trusted Manuel enough to entrust Damian's care to him
 - [[House Atreides]] — his dynasty
 

@@ -27,6 +27,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <a class="char-card" href="player-characters/garrick"><img src="portraits/garrick.webp" alt="Garrick" loading="lazy"><div class="char-card-text"><div class="char-card-name">Garrick</div><div class="char-card-role">Played by Gio</div></div></a>
 <a class="char-card" href="player-characters/kaisel-irvenest"><img src="portraits/kaisel-irvenest.webp" alt="Kaisel Irvenest" loading="lazy"><div class="char-card-text"><div class="char-card-name">Kaisel Irvenest</div><div class="char-card-role">Played by Tre</div></div></a>
 <a class="char-card" href="player-characters/tirian-dawnmere"><img src="portraits/tirian-dawnmere.webp" alt="Tirian Dawnmere" loading="lazy"><div class="char-card-text"><div class="char-card-name">Tirian Dawnmere</div><div class="char-card-role">Played by Trace</div></div></a>
+<a class="char-card" href="player-characters/vernan-hawkes"><img src="portraits/placeholder.svg" alt="Vernan Hawkes" loading="lazy"><div class="char-card-text"><div class="char-card-name">Vernan Hawkes</div><div class="char-card-role">Played by Viz</div></div></a>
 </div>
 
 ## The Crown
@@ -40,6 +41,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <a class="char-card" href="characters/kingsguard/kylo-wisemoon"><img src="portraits/placeholder.svg" alt="Kylo Wisemoon" loading="lazy"><div class="char-card-text"><div class="char-card-name">Kylo Wisemoon</div><div class="char-card-role">Royal Protector of the Royal Family</div></div></a>
 <a class="char-card" href="characters/kingsguard/jeane-howelle"><img src="portraits/jeane-howelle.webp" alt="Jeane Howelle" loading="lazy"><div class="char-card-text"><div class="char-card-name">Jeane Howelle</div><div class="char-card-role">Queen's Guard</div></div></a>
 <a class="char-card" href="characters/kingsguard/lucius-raymor"><img src="portraits/lucius-raymor.webp" alt="Lucius Raymor" loading="lazy"><div class="char-card-text"><div class="char-card-name">Lucius Raymor</div><div class="char-card-role">Chosen of Aria</div></div></a>
+<a class="char-card" href="characters/kingsguard/raevyn-whitlocke"><img src="portraits/placeholder.svg" alt="Raevyn Whitlocke" loading="lazy"><div class="char-card-text"><div class="char-card-name">Raevyn Whitlocke</div></div></a>
 </div>
 
 <div class="faction-banner"><a href="organizations/king's-crown">King's Crown</a></div>
@@ -49,6 +51,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <a class="char-card" href="characters/veritas-aletheia"><img src="portraits/veritas-aletheia.webp" alt="Veritas Aletheia" loading="lazy"><div class="char-card-text"><div class="char-card-name">Veritas Aletheia</div><div class="char-card-role">The Grand Arbiter</div></div></a>
 <a class="char-card" href="characters/oldric-ameris"><img src="portraits/oldric-ameris.webp" alt="Oldric Ameris" loading="lazy"><div class="char-card-text"><div class="char-card-name">Oldric Ameris</div><div class="char-card-role">The Warmaster</div></div></a>
 <a class="char-card" href="characters/elric-fletcher"><img src="portraits/elric-fletcher.webp" alt="Elric Fletcher" loading="lazy"><div class="char-card-text"><div class="char-card-name">Elric Fletcher</div><div class="char-card-role">The Archmaester</div></div></a>
+<a class="char-card" href="characters/kingsguard/manuel"><img src="portraits/manuel.webp" alt="Manuel" loading="lazy"><div class="char-card-text"><div class="char-card-name">Manuel</div><div class="char-card-role">The Lord Protector</div></div></a>
 <a class="char-card" href="characters/lucerin-atreides"><img src="portraits/lucerin-atreides.webp" alt="Lucerin Atreides" loading="lazy"><div class="char-card-text"><div class="char-card-name">Lucerin Atreides</div></div></a>
 </div>
 
@@ -181,6 +184,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 
 <div class="char-grid">
 <a class="char-card" href="characters/kingsguard/raevyn-whitlocke"><img src="portraits/placeholder.svg" alt="Raevyn Whitlocke" loading="lazy"><div class="char-card-text"><div class="char-card-name">Raevyn Whitlocke</div><div class="char-card-role">the original founder of the Kingsguard</div></div></a>
+<a class="char-card" href="characters/raven-whitlock"><img src="portraits/placeholder.svg" alt="Raven Whitlock" loading="lazy"><div class="char-card-text"><div class="char-card-name">Raven Whitlock</div></div></a>
 </div>
 
 ## Churches
@@ -222,6 +226,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <div class="char-grid">
 <a class="char-card" href="characters/lanius"><img src="portraits/lanius.webp" alt="Lanius" loading="lazy"><div class="char-card-text"><div class="char-card-name">Lanius</div><div class="char-card-role">head of the organization</div></div></a>
 <a class="char-card" href="characters/roland-royce"><img src="portraits/roland-royce.webp" alt="Roland Royce" loading="lazy"><div class="char-card-text"><div class="char-card-name">Roland Royce</div><div class="char-card-role">acting chief</div></div></a>
+<a class="char-card" href="player-characters/vernan-hawkes"><img src="portraits/placeholder.svg" alt="Vernan Hawkes" loading="lazy"><div class="char-card-text"><div class="char-card-name">Vernan Hawkes</div><div class="char-card-role">field operative and intelligence runner</div></div></a>
 <a class="char-card" href="player-characters/callum"><img src="portraits/callum.webp" alt="Callum" loading="lazy"><div class="char-card-text"><div class="char-card-name">Callum</div><div class="char-card-role">collaborator</div></div></a>
 </div>
 
