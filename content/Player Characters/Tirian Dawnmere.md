@@ -101,6 +101,10 @@ The assassins responsible are dead. The people who **ordered** the murders are n
 - Preserve House Dawnmere's legacy
 - Live up to his family's ideals
 
+**Political:**
+- Take the throne as a temporary king. Tirian does not believe [[Lucerin Atreides]] should be ruling at his age — he loves Lucerin and does not want him burdened with kingship as a child. Lucerin is too young and not yet capable of the role. Tirian would rule as regent-king until Lucerin turns 18, then return the crown to him. He also believes [[Lumiere Ameris]] should have taken the throne originally instead of Lucerin — Lumiere is more qualified.
+- Tirian is content being a temporary king. He does not want permanent power. He wants respect more than glory — the kind of legacy where people say: *"He did what he needed to in the time. He kept us from worse options."*
+
 **Private (as Noctis):**
 - Discover who ordered the massacre of House Dawnmere
 - Destroy them

@@ -12,31 +12,32 @@ title: "Vernan Hawkes"
 ---
 
 <aside class="infobox">
-<img src="../portraits/placeholder.svg" alt="Vernan Hawkes">
+<img src="../portraits/vernan-hawkes.webp" alt="Vernan Hawkes">
 <div class="infobox-name">Vernan Hawkes</div>
 <table><tr><th>Race</th><td>half-elf</td></tr><tr><th>Age</th><td>24</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../organizations/the-people's-liberation-front-of-brittania">The People's Liberation Front of Brittania</a></td></tr><tr><th>Player</th><td>Viz</td></tr><tr><th>Campaign</th><td>2</td></tr></table>
 </aside>
 
 
+![[Vernan Hawkes (4x5 Portrait).webp|350]] ![[Vernan Hawkes (Strixhaven Library).webp|350]]
 ## Overview
 
 A half-elf operative and field agent for [[The People's Liberation Front of Brittania]]. Vernan grew up watching ordinary people go without while the crown and noble houses sat on every resource needed to fix it. Six years of trying the direct way — sharing what little he had, speaking up where he could — moved nothing. At 20, the Front offered what asking never did: a way to make the crown pay attention. Four years of training and fieldwork later, he's a self-made infiltrator and self-taught mage who believes most things worth having have to be taken.
 
 ## Appearance
 
-**Skin:** Warm golden bronze. At a glance he looks young and unremarkable, but four years of fieldwork have started taking their toll — his hands are calloused and worn in ways his face hasn't caught up to yet.
+**Skin:** Warm olive-bronze, sun-darkened from years of outdoor fieldwork.
 
-**Hair:** Near-black, mid-length, swept back off his forehead. An old habit from when he wore it longer as a kid. He learned the hard way that hair in your eyes is no good on a mission — now he keeps just enough length for it to move when he does, but it never falls into his eyes.
+**Hair:** Black, short-to-mid length, tousled and slightly messy — swept loosely off the forehead with pieces falling where they want.
 
-**Eyes:** Dark brown.
+**Eyes:** Green-hazel, sharp and alert.
 
-**Face:** Mostly unweathered, but not untouched. Four years of fieldwork have left faint lines starting at the corner of each eye, and his skin is a shade more sun-worn than his age alone would explain.
+**Face:** Strong jaw, defined cheekbones, a face that reads older than 24. Handsome in a rough, lived-in way rather than a polished one.
 
 **Ears:** Subtly pointed — easy to miss at a glance.
 
-**Build:** Lean and quick. Built for moving fast and getting out clean, not for standing and trading blows.
+**Build:** Lean and athletic. Broad shoulders for his frame but built for moving fast and getting out clean, not for standing and trading blows.
 
-**Clothing:** Whatever the job calls for. Plain traveler's clothes most days and when off duty. Something more elegant or worn-down depending on which door he needs to walk through.
+**Clothing:** Layered and practical — a loose olive-grey shirt open at the collar under a dark leather vest with crossed chest straps and buckles, leather belt, leather bracers at the wrists. Everything worn-in and functional, nothing decorative. Whatever the job calls for when on assignment.
 
 ## Personality
 

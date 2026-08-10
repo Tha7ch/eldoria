@@ -24,7 +24,7 @@ title: "Manuel"
 </aside>
 
 
-![[Manuel (4x5 Portrait).webp|350]] ![[Manuel training young Damien.webp|350]]
+![[Manuel (4x5 Portrait).webp|350]] ![[Manuel (Kingsguard Uniform).webp|350]] ![[Manuel training young Damien.webp|350]]
 
 ![[Manuel.webp|400]]
 ![[Manuel holding Elio and Iris.webp|350]]

@@ -26,7 +26,7 @@ title: "Damian Grimm"
 </aside>
 
 
-![[Damian Grimm (4x5 Portrait).webp|350]] ![[Damian.webp|350]] ![[Manuel training young Damien.webp|350]] ![[Damian and Kieran getting freaky.webp|350]]
+![[Damian Grimm (4x5 Portrait).webp|350]] ![[Damian Grimm (Kingsguard Uniform).webp|350]] ![[Damian.webp|350]] ![[Manuel training young Damien.webp|350]] ![[Damian and Kieran getting freaky.webp|350]]
 ![[Damian Grimm and Roland Royce (Standoff in the Rain - Wide).webp|350]] ![[Damian Grimm and Roland Royce (Standoff in the Rain - Close Up).webp|350]]
 ![[Damian Grimm (Blood Magic - Eyes Ablaze).webp|350]] ![[Damian Grimm and Merlin Morningstar (Magic Clash - Close Up).webp|350]] ![[Damian Grimm and Merlin Morningstar (Magic Clash - Wide).webp|350]]
 

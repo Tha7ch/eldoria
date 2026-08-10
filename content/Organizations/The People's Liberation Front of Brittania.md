@@ -34,7 +34,13 @@ End the classism of [[Brittania]]. Dismantle the systems that let the powerful e
 ## Known Members
 
 - [[Lanius]] — chosen of Veyrana, brawler fighter
+- [[Roland Royce]] — acting chief; runs the organization day-to-day
 - [[Vernan Hawkes]] — field operative and intelligence runner; joined at age 20, trained by the Front
+- [[Samson Lionheart]] — *(role unknown)*
+- [[Typhus Usuar]] — *(role unknown)*
+- [[Rozetta]] — *(role unknown)*
+- [[Yoichi Venne]] — *(role unknown)*
+- [[Firaas Longleaf]] — *(role unknown)*
 
 ## Associates
 

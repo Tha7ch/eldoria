@@ -27,7 +27,7 @@ title: "Lucius Raymor"
 </aside>
 
 
-![[Lucius Raymor (4x5 Portrait).webp|350]] ![[Lucius.webp|350]]
+![[Lucius Raymor (4x5 Portrait).webp|350]] ![[Lucius Raymor (Kingsguard Uniform).webp|350]] ![[Lucius.webp|350]]
 
 ## Overview
 

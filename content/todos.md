@@ -52,8 +52,11 @@ Last updated: 2026-08-09
 
 ### Cyris
 
-- [ ] **Cyris & Karsus** — mini session with Migs
-- [ ] **Tirian & Karsus** — mini session with Migs
+- [ ] **Young Cyris story**
+- [ ] **Teen Cyris in Brittania pre-Strixhaven**
+- [ ] **Cyris and Merlin meeting for the first time, their magics sort of recognizing each other and going haywire in class**
+- [ ] **Cyris, Karsus, and Merlin**
+- [ ] **Cyris inventing a time magic spell, Merlin being envious and seeing him as a rival**
 
 ---
 
@@ -61,7 +64,7 @@ Last updated: 2026-08-09
 
 *Mysteries in [[Mysteries - Campaign 1]] that need player or DM input to resolve (not just world mysteries that will unfold in play).*
 
-- [!] **[[Questions for the DM]]** — awaiting DM responses on: current in-world year; permission for Story Queue pitches (Cyris & Karsus, Tirian & Karsus); chronomancy professor name; additional Strixhaven students; geopolitics and racial tensions between countries; who the 6th King's Crown member is; who Manuel replaced on the council; identity of Hero With No Name and Lone Wanderer; who is #4 magical genius; confirm Lanius's inherent magics (Storm + Sky)
+- [!] **[[Questions for the DM]]** — awaiting DM responses on: current in-world year; chronomancy professor name; additional Strixhaven students; geopolitics and racial tensions between countries; who the 6th King's Crown member is; who Manuel replaced on the council; identity of Hero With No Name and Lone Wanderer; who is #4 magical genius
 - [ ] **What is the "Mark of [redacted]" on Solstice?** — Shown in her reference art. Whose sigil is it?
 
 ---

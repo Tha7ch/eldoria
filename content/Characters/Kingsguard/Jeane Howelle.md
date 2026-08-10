@@ -26,7 +26,7 @@ title: "Jeane Howelle"
 </aside>
 
 
-![[Jeane Howelle (4x5 Portrait).webp|350]] ![[Jean.webp|350]] ![[Aella Spar Against Jean.webp|350]]
+![[Jeane Howelle (4x5 Portrait).webp|350]] ![[Jeane Howelle (Kingsguard Uniform).webp|350]] ![[Jean.webp|350]] ![[Aella Spar Against Jean.webp|350]]
 
 ## Overview
 

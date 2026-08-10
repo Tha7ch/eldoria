@@ -18,11 +18,13 @@ title: "Raevyn Whitlocke"
 ---
 
 <aside class="infobox">
-<img src="../../portraits/placeholder.svg" alt="Raevyn Whitlocke">
+<img src="../../portraits/raevyn-whitlocke.webp" alt="Raevyn Whitlocke">
 <div class="infobox-name">Raevyn Whitlocke</div>
 <table><tr><th>Aliases</th><td>Raevyn, Raevyn the Redeemer, The Redeemer</td></tr><tr><th>Status</th><td>deceased</td></tr><tr><th>Affiliation</th><td><a href="../../organizations/the-kingsguard">The Kingsguard</a><br><a href="../../organizations/noble-houses/house-whitlocke">House Whitlocke</a></td></tr><tr><th>Campaign</th><td>1, 2</td></tr></table>
 </aside>
 
+
+![[Raevyn Whitlocke (4x5 Portrait).webp|350]] ![[Raevyn Whitlocke (Reference).webp|350]]
 
 ## Overview
 
@@ -30,8 +32,12 @@ Raevyn the Redeemer was a legendary knight from ancient Brittanian history. In 1
 
 ## Appearance
 
-- White hair
-- Handsome
+- White hair, medium-to-long, loose and flowing
+- Pale, almost ethereal skin — looks otherworldly, as though light clings to him
+- White and gold ornate plate armor with flowing filigree and vine-like gold engravings across the chest, shoulders, gauntlets, and greaves
+- White cape draped behind him
+- Wields **Heaven's Hope** — an elegant golden-hilted greatsword
+- Overall impression: holy, radiant, something more than human; the kind of figure who becomes a legend not because people exaggerate but because they can't describe what they actually saw
 
 *(Character design inspired by Yoriichi Tsugikuni from Kimetsu no Yaiba — the same quiet, overwhelming strength and beauty.)*
 

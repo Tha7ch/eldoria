@@ -8,7 +8,9 @@ title: "Magical Geniuses Ranking"
 
 ## Overview
 
-A ranking of the greatest magical minds currently alive. This is not a raw power ranking — it measures magical genius specifically. [[Lanius]], for example, is arguably the most powerful living combatant but is described as "more a force of nature than a magical genius" and does not appear on this list.
+A ranking of the greatest magical minds currently alive. This is not a raw power ranking — it measures magical genius specifically, in terms of magical power and mastery of magics. [[Lanius]], for example, is arguably the most powerful living combatant but is described as "more a force of nature than a magical genius" and does not appear on this list.
+
+Note: [[Cyris Voss]] is not on this list because his genius is a different kind — ingenuity rather than raw magical power or mastery. Where [[Merlin Morningstar]] is a genius in terms of sheer magical ability and mastering magics, Cyris is a genius in terms of creative problem-solving and inventive application.
 
 ## The Ranking
 
