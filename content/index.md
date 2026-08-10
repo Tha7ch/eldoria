@@ -34,6 +34,7 @@ title: "The Eldoria Expanse"
 
 <div class="chron-list">
 <a class="chron-row" href="story/sessions/campaign-1/campaign-1---session-09-(07-27)"><span class="chron-tag">Campaign 1</span><span class="chron-title">Campaign 1 - Session 09 (07-27)</span></a>
+<a class="chron-row" href="story/sessions/campaign-2/campaign-2---session-01-(08-09)"><span class="chron-tag">Campaign 2</span><span class="chron-title">Campaign 2 - Session 01 (08-09)</span></a>
 <a class="chron-row" href="story/side-stories/tirian---the-awakening"><span class="chron-tag">Side Story</span><span class="chron-title">Tirian - The Awakening</span></a>
 <a class="chron-row" href="story/side-stories/tirian---first-light"><span class="chron-tag">Side Story</span><span class="chron-title">Tirian - First Light</span></a>
 <a class="chron-row" href="story/side-stories/callum---sword-of-roland"><span class="chron-tag">Side Story</span><span class="chron-title">Callum - Sword of Roland</span></a>

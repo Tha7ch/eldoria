@@ -74,6 +74,7 @@ Was present, alongside [[Tirian Dawnmere]], [[Lumiere Ameris]], [[Ludwig St. Jam
 - [[Iris Atreides]] — adored him; the twins were especially attached to Damian; deceased
 - [[Archibald Howell|The High Septon]] — had Damian's mother killed on Leo's request to "keep her away"; went far beyond what Leo likely intended
 - [[Myrcella Atreides]] — the Queen; the worst source of cruelty during his upbringing; deliberately placed him in the Kingsguard to keep him close but never belonging
+- [[Samson Bloodmane]] — fought him at some point; Samson refers to him as "the blood boy from the Kingsguard" and considers him a worthy opponent
 - [[Kieran Arden]] — romantic relationship begun in Session 5; noticed his face marking in Session 2; a mutual recognition from first meeting
 - [[Manuel]] — effectively raised by Manuel as a child; Manuel is the closest thing he has to a father figure
 - [[Lumiere Ameris]] — cousins; one of the very few people who treated Damian as a human being during his harsh upbringing; their bond is close, almost brotherly

@@ -59,6 +59,8 @@ Through his spies and talks with [[Leo Atreides|the King]], the High Septon disc
 
 **Session 9:** Chaired the King's Crown meeting with the party. Showed performative warmth while simultaneously being condescending and needling. Dismissed Kylo with "you may not" mid-sentence. Pushed through Aeron Velmont's assignment over Cyris's objection, citing the king's busy schedule. Provoked the Warmaster by bringing up his son being offered the throne.
 
+**Session 1 (Campaign 2):** Summoned [[Tirian Dawnmere]] to [[King's Crown]]. Tried to persuade him to use his commoner connections and [[House Dawnmere]] wealth to locate [[The People's Liberation Front of Brittania]], claiming [[Roland Royce]] killed Tirian's family. Tirian refused. The Grand Arbiter backed Tirian. Oldric Ameris called him out: "No, you just want that thorn out of your side." The Septon responded with a fake, condescending smile. [[Lucius Raymor]] later revealed the Septon is trying to gain control of all four churches, leveraging public opinion against his parents, [[House Raymor]] — placing them in an unwanted position. Manuel and Oldric's presence keeps him from making an overt move.
+
 ## Relationships
 
 - [[King's Crown]] — member; one of the six council members
@@ -68,3 +70,4 @@ Through his spies and talks with [[Leo Atreides|the King]], the High Septon disc
 - [[Damian Grimm]] — discovered the identity of Damian's mother through spies and the King; had her killed when the King asked him to "keep her away"
 - [[Leo Atreides]] — the King asked the High Septon to keep Damian's mother away; the High Septon took it further than Leo likely intended
 - [[Lucerin Atreides]] — part of the faction attempting to control or undermine the young king
+- [[Pollux and Castor]] — his primary guards, "the sun and moon knight"

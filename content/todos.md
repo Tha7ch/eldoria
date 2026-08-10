@@ -7,13 +7,13 @@ title: "todos"
 > Maintained by Claude Code. Updated every session.
 > Format: `- [ ]` open / `- [x]` done / `- [!]` flagged (needs decision or attention)
 
-Last updated: 2026-08-09
+Last updated: 2026-08-10
 
 ---
 
 ## Pending ingests
 
-*None currently. Session 09 fully ingested.*
+*None currently. Campaign 2 Session 01 fully ingested.*
 
 ---
 
@@ -73,4 +73,4 @@ Last updated: 2026-08-09
 
 - [ ] **2 DM-provided images** — `IMG_20260617_143511_613.jpg` and `IMG_20260617_235607_683.jpg` in Eldoria Images. DM sent them but identity unknown. Ask DM who they are.
 - [ ] **[[Tirian - Character Playlist]]** — Orphaned page (no incoming/outgoing links). Intentional personal reference — leave as-is unless user wants it linked somewhere.
-- [x] **LINT** — Full LINT run completed 2026-07-28 (ingest count 6). Next LINT due after Session 12 (count 9). 2026-07-28
+- [x] **LINT** — Full LINT run completed 2026-07-28 (ingest count 6). Next LINT due at count 9. 2026-07-28

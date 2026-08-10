@@ -51,7 +51,7 @@ Aevos is an Aasimar Sorcerer played by Jeff in Campaign 2. He is one of the [[Ch
 
 ## Personality
 
-Charismatic and suave — confident, but not in a loud way. As a Chosen of [[Aria]], his presence is naturally commanding, and he's fully aware of the effect he has on a room; that awareness feeds directly into his personality. He acts before others finish debating, and doesn't apologize for it. But he is also eloquent, educated, and completely put together when he speaks. The confidence is not bluster; it's the settled certainty of someone raised to believe in his own greatness who has since had every reason to keep believing it. He openly acknowledges his gifts and sees them as tools given to him for a purpose. He does not perform humility.
+Speaks with a snobby, refined British accent. Charismatic and suave — confident, but not in a loud way. As a Chosen of [[Aria]], his presence is naturally commanding, and he's fully aware of the effect he has on a room; that awareness feeds directly into his personality. He acts before others finish debating, and doesn't apologize for it. But he is also eloquent, educated, and completely put together when he speaks. The confidence is not bluster; it's the settled certainty of someone raised to believe in his own greatness who has since had every reason to keep believing it. He openly acknowledges his gifts and sees them as tools given to him for a purpose. He does not perform humility.
 
 He has a good eye for a person's true nature — a read on character that helps him decide who will benefit from his light, and who will be smited by it.
 
@@ -79,6 +79,10 @@ Was present, alongside [[Tirian Dawnmere]], [[Lumiere Ameris]], [[Ludwig St. Jam
 - [[Lucius Raymor]] — also of House Raymor; likely relatives *(relationship unconfirmed)*
 - [[Seyrell]] — his mother
 - [[Tirian Dawnmere]] — friends
+- [[Kaisel Irvenest]] — fellow Chosen; constant banter and teasing; fist-bumped Kaisel after he threw a glass at Lucas
+- [[Lucas Lyons]] — fellow Chosen; finds him egotistical but entertaining
+- [[Lumiere Ameris]] — fellow Chosen; Lumiere shut him down when he questioned a 10-year-old king's fitness to rule
+- [[Ludwig St. James]] — fellow Chosen; comfortable dynamic at the round table
 
 **Unknown to Aevos:** His mother [[Seyrell]] also had a child with [[Torr Galefri]] — [[Aella Galefri]], making Aella his half-sister. They have never met.
 
@@ -88,7 +92,7 @@ Sworn to uphold the [[Church of Light]]'s teachings and ideals through benevolen
 
 ## Story
 
-*(Campaign 2 has not yet begun.)*
+**Session 1:** Attended a round-table meeting of the [[Chosen]] called by [[Lumiere Ameris]], alongside [[Kaisel Irvenest]], [[Lucius Raymor]], [[Ludwig St. James]], and [[Lucas Lyons]]. Questioned whether having a 10-year-old king was wise — Lumiere shut him down. Teased Kaisel repeatedly about [[Aella Galefri]] ("your little girlfriend"). Fist-bumped Kaisel after he threw a glass at Lucas. Said Jean can't stand anyone. Offered to "blow up a few church duties" to hang out with Kaisel, but declined a bar outing — "it's NOON, Kaisel."
 
 ## Build
 

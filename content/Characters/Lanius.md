@@ -69,4 +69,6 @@ Lanius is the **first person in over 3,000 years to reach the level of a First G
 - [[The People's Liberation Front of Brittania]] — head of the organization
 - [[Jeane Howelle]] — grew up together; he was a ward of [[House Howelle]] and they were close. She hates the [[The People's Liberation Front of Brittania]] but her love for him personally has never wavered — she still pointed [[Aella Galefri]] his way, even though she couldn't do so officially.
 - [[Kylo Wisemoon]] — dislikes him *(reason unknown)*
+- [[Vernan Hawkes]] — Front operative; trained and given field assignments by the organization Lanius leads
+- [[Samson Bloodmane]] — recruited personally by Lanius for his strength
 - [[Tirian Dawnmere]] — met briefly at his and Jeane's engagement gala, the night [[House Dawnmere]] was massacred. A short conversation about House Dawnmere's commoner relief efforts left an impression on him — see [[Tirian - One Night]]

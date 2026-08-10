@@ -25,7 +25,7 @@ title: "Raven Whitlock"
 
 ## Overview
 
-Raven Whitlock is the current and "final" heir to [[House Whitlocke]], the modern-day descendant of [[Raevyn Whitlocke]], the legendary founder of [[The Kingsguard]].
+Raven Whitlock is the current and "final" heir to [[House Whitlocke]], the modern-day descendant of [[Raevyn Whitlocke]], the legendary founder of The Kingsguard.
 
 ## Appearance
 
@@ -38,5 +38,5 @@ Raven Whitlock is the current and "final" heir to [[House Whitlocke]], the moder
 
 ## Relationships
 
-- [[Raevyn Whitlocke]] — her ancestor; founder of [[The Kingsguard]]
+- [[Raevyn Whitlocke]] — her ancestor; founder of The Kingsguard
 - [[House Whitlocke]] — her house

@@ -59,9 +59,12 @@ Made her mark at the Bicentennial Winter Solstice Knight's Tournament. Impaled T
 - [[The Kingsguard]] — serves as Queen's Guard
 - [[Lanius]] — grew up together; he was a ward of [[House Howelle]] and they were close. Engaged to him as of the gala the night of [[The Dawnmere Slaughter]]. She despises the [[The People's Liberation Front of Brittania]] and everything it stands for — but her love for Lanius himself has never wavered. She pointed [[Aella Galefri]] toward the PLFB to find him, which she couldn't officially do.
 - [[Damian Grimm]] — despises him
+- [[Lucas Lyons]] — can't stand him, "especially after Lanius leaving" (per [[Ludwig St. James|Ludwig]])
 - [[Archibald Howell|The High Septon]] — her grandmother [[Olenna Howelle]]'s husband, but not her blood relative — Olenna had Jeane's mother with a different man before marrying him. Jeane hates him.
 
 ## Story
+
+**Session 1 (Campaign 2):** Present at the [[King's Crown]] meeting when the [[Archibald Howell|High Septon]] pressured [[Tirian Dawnmere]] to hunt the Liberation Front. Was meek throughout the Septon's speech — visibly clenching her fist but saying nothing. There is clearly some unspoken history between her and the Septon. Tirian nodded to her on his way out.
 
 **Session 9:** Escorted the party to the King's Crown chamber alongside Lucius and Kylo. Looked almost like a kid in front of the council — Solstice noticed she appeared meek. Received a small hug from Manuel after the council members left. Went completely still when Manuel recounted the details of the Dawnmere Slaughter in the crypts.
 

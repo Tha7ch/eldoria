@@ -58,11 +58,16 @@ Idealistic at the core, pragmatic in practice. Vernan genuinely believes everyon
 ## Relationships
 
 - [[The People's Liberation Front of Brittania]] — member and field operative; joined at 20, trained by them
+- [[Lanius]] — head of the Front; not present at the C2S1 briefing but referenced as normally giving assignments
 - [[Karsus Morningstar]] — likely turned a blind eye to Vernan sneaking into [[Strixhaven]]'s libraries to self-teach magic; Karsus believes everyone deserves the right to learn
+- [[Roland Royce]] — acting chief of the Front; briefed him on the gala mission
+- [[Samson Bloodmane]] — leonin barbarian ally, met at the briefing
+- [[Callum]] — Front-adjacent operative Vernan is assigned to shadow at the gala; Callum doesn't know he's being watched
+- [[Pollux and Castor]] — the High Septon's guards; to be avoided during the mission
 
 ## Story
 
-*(Campaign 2 — not yet begun.)*
+**Session 1:** Met [[Roland Royce]] and [[Samson Bloodmane]] at a bar. Briefed on a mission: infiltrate the upcoming king's gala using a ring of illusion to pose as a minor noble. Shadow a Front-adjacent operative named [[Callum]], who will enter with [[House Morningstar]]/[[Karsus Morningstar|Karsus]]. Get close to the [[Archibald Howell|High Septon]] while avoiding his guards, [[Pollux and Castor]]. Gather intel on the Septon's dealings and noble family plans. All Front sources went dark after the parade attack. Vernan pushed back 20–30 gold from his payment to send to his family.
 
 ## Build
 

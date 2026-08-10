@@ -92,6 +92,11 @@ The assassins responsible are dead. The people who **ordered** the murders are n
 - [[Aevos]] — friends
 - [[Amelia Irvenest]] — had a 2–3 week fling approximately two years ago (Tirian 21, Amelia 25); he ended it when he saw she was pursuing him for political gain and saw how she treated [[Kaisel Irvenest]] and commoners; told her: *"You inherited your mother's beauty, but clearly not her heart."*
 - [[Karsus Morningstar]] — Headmaster of [[Strixhaven]]; tried everything he could to convince Tirian not to drop out after the Dawnmere Slaughter
+- [[Archibald Howell|The High Septon]] — tried to manipulate Tirian into hunting the Liberation Front; Tirian refused
+- [[Manuel]] — walked Tirian out of the King's Crown meeting before the yelling started; warm mutual respect
+- [[Oldric Ameris]] — backed Tirian against the Septon at King's Crown; called out the Septon's real motives
+- [[Jeane Howelle]] — visibly uncomfortable during the Septon's pressure on Tirian; there is clearly unspoken history between them
+- [[Damian Grimm]] — noticed him injured and in a sling at the King's Crown meeting
 
 ## Goals
 
@@ -113,7 +118,7 @@ The assassins responsible are dead. The people who **ordered** the murders are n
 
 ## Story
 
-*(Campaign 2 has not yet begun.)*
+**Session 1:** Summoned to [[King's Crown]] on "personal matters." The [[Archibald Howell|High Septon]] claimed [[The People's Liberation Front of Brittania]] — specifically [[Roland Royce]] — killed Tirian's family, and pressed him to use his commoner connections and [[House Dawnmere]] wealth to help locate the Front ahead of the upcoming gala. Tirian refused: *"My priority is my family and their reputation, this would betray the common people. This is your job, not mine."* The Grand Arbiter backed him. Oldric Ameris told the Septon: *"No, you just want that thorn out of your side."* [[Manuel]] walked Tirian out before the yelling started. In the hallway, [[Lucius Raymor]] revealed the High Septon is trying to seize control of all four churches, leveraging public opinion against [[House Raymor]]. Lucius also mentioned [[Lumiere Ameris]] is returning soon, and that the goddess [[Aria]] told him and [[Aevos]] to protect the king and [[Orelia Greenleaf]].
 
 **Backstory — the night of [[The Dawnmere Slaughter]]:** Attended a [[House Howelle]] gala celebrating [[Jeane Howelle]] and [[Lanius]]'s engagement, alongside [[Lumiere Ameris]], [[Ludwig St. James]], [[Damian Grimm]], and [[Aevos]]. Spoke briefly with Lanius about House Dawnmere's commoner relief efforts — a conversation Lanius would later carry with him. Received word of the slaughter at the gala and rode home to find his family dead. See [[Tirian - One Night]].
 

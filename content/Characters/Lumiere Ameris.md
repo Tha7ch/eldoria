@@ -68,3 +68,11 @@ Was present, alongside [[Tirian Dawnmere]], [[Ludwig St. James]], [[Damian Grimm
 - [[Lucerin Atreides]] — cousin; King of Brittania
 - [[Leo Atreides]] — uncle *(deceased)*
 - [[Damian Grimm]] — cousins; one of the few people who treated Damian as a human being rather than a bastard; their bond is close, almost brotherly
+- [[Lucas Lyons]] — traveled together; the two witnessed demonic artifacts and possessions
+- [[Lucius Raymor]] — fellow Chosen; both attend the round-table meetings
+- [[Kaisel Irvenest]] — fellow Chosen; Lumiere finds his energy endearing ("never change, Kaisel" energy)
+- [[Aevos]] — fellow Chosen; shut him down when he questioned Lucerin's fitness to rule
+
+## Story
+
+**Session 1 (Campaign 2):** Called a round-table meeting of the [[Chosen]] — [[Ludwig St. James]], [[Aevos]], [[Kaisel Irvenest]], [[Lucius Raymor]], and [[Lucas Lyons]]. His goddess [[Luna]] warned him of danger. He and Lucas saw demonic things while traveling together — possessions, and artifacts carrying demonic power dating to roughly 3,000 years ago, the era of the all-out war between the celestial realm, the abyss, and the mortal realm. Shut down Aevos when he questioned whether a 10-year-old king was wise: *"That is our king, mind your mouth when you speak of him."* Left to visit [[Tirian Dawnmere]], [[Lucerin Atreides]], and the [[Archibald Howell|High Septon]].

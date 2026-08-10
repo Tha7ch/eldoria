@@ -62,6 +62,8 @@ Following the [[Assassination of the Royal Family]], which killed his brother Le
 
 ## Story
 
+**Session 1 (Campaign 2):** Present at the [[King's Crown]] meeting when the [[Archibald Howell|High Septon]] pressured [[Tirian Dawnmere]] to hunt the Liberation Front. Backed Tirian and called out the Septon: *"No, you just want that thorn out of your side."*
+
 **Session 9:** Present at the King's Crown meeting with the party. 40 years old. Looked at the High Septon with open disdain during the meeting. Defended the party when the High Septon tried to lecture them ("Do not be so quick to speak about my family"). Was provoked by the High Septon's remark about his son being offered the throne — told him "not another word." Afterward, cleared the air with the party: he gave up his claim to the throne when he married into House Ameris. His son ([[Lumiere Ameris]]) was later offered the throne after the assassination, but declined as soon as Lucerin was found alive — he wouldn't take the throne while an Atreides still lived. Declared House Ameris in the party's service and left.
 
 He shared that in his youth, he was carefree and adventurous — Manuel notes his younger self wouldn't recognize him now. He once ventured into [[Elsweyr]] in later years and reached the [[Cervan Kingdom]], deeper than Manuel and Leo went.

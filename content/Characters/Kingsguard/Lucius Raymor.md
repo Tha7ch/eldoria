@@ -36,12 +36,12 @@ Lucius Raymor is the Chosen of [[Aria]], Goddess of Light. At 22, he is a member
 ## Appearance
 
 - 6'2, 22 years old
-- Short messy platinum-blonde hair
+- Long flowing golden-blonde hair, past the shoulders, slightly wavy and wild
 - Fair/pale skin
 - Sharp, intense features — serious default expression, the kind that rarely relaxes
-- Dark black ornate armor with gold detailing and red accents
-- White cape flowing from one shoulder
-- Gold lion pauldron on the right shoulder — the lion a symbol of House Raymor and his divine mandate
+- Silver/white ornate full plate armor with elaborate gold cross-chain detailing and crimson red accents running down the center
+- White cape flowing from the shoulders
+- Holy knight / crusader aesthetic — crosses and chain-link gold filigree across the chest plate
 - Carries an ornate sword with a detailed cross-guard hilt
 - Radiates disciplined authority — entirely unlike Kaisel's open warmth despite the similar knightly aesthetic
 
@@ -60,11 +60,13 @@ Son of [[Silas Raymor]] (Duke of House Raymor, formerly known as Silas the Stron
 - [[House Raymor]] — his father's house; known for celestial and light magic
 - [[House Aberra]] — his mother's house
 - [[The Kingsguard]] — serves as a member
-- [[Orelia Greenleaf]] — romantic interest; Elven princess from House Greenleaf
+- [[Orelia Greenleaf]] — girlfriend; Elven princess from House Greenleaf; visits her at [[Strixhaven]] on "official business" when not needed elsewhere
 - [[Tirian Dawnmere]] — friend; overlapped for one year at [[Strixhaven]] and share a connection through the [[Church of Light]]; one year apart in age, they grew up moving in much the same noble circles
 - [[Strixhaven]] — student
 
 ## Story
+
+**Session 1 (Campaign 2):** Walked [[Tirian Dawnmere]] out after the [[King's Crown]] meeting. Revealed the [[Archibald Howell|High Septon]] is trying to gain control of all four churches, leveraging public opinion against his parents, [[House Raymor]]. Manuel and Oldric keep the Septon from making a move. The goddess [[Aria]] told him and [[Aevos]] to protect the king and [[Orelia Greenleaf]]. Visits Orelia at [[Strixhaven]] on "official business" when he isn't needed. At a round-table meeting of the [[Chosen]], mentioned [[Aella Galefri]]'s return and the Campaign 1 party who protected the king to the other Chosen. Credits Tirian for his "teachings on women."
 
 **Session 9:** Escorted the party to the King's Crown chamber alongside Jean and Kylo. Was visibly sweating during the meeting — Cyris noticed. Grimaced when Manuel relayed the details of the Dawnmere Slaughter in the crypts. Afterward dismissed back to the king.
 

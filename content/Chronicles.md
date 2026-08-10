@@ -16,6 +16,12 @@ title: "The Chronicles"
 <a class="shelf-card" href="story/sessions/campaign-1/campaign-1---session-01-(doomed-future-prologue)"><span class="shelf-num">Session 1</span><span class="shelf-note">doomed future prologue</span><span class="shelf-line">This session takes place in The Doomed Timeline — a destroyed future approximately 20 years ahead of the…</span></a>
 </div>
 
+<div class="ornate-head">⸻ Campaign 2 — Session Chronicles ⸻</div>
+
+<div class="shelf">
+<a class="shelf-card" href="story/sessions/campaign-2/campaign-2---session-01-(08-09)"><span class="shelf-num">Session 1</span><span class="shelf-note">08-09</span><span class="shelf-line">Gio not in attendance, so no Garrick.</span></a>
+</div>
+
 <div class="ornate-head">⸻ Side Stories ⸻</div>
 
 <div class="tale-shelf">

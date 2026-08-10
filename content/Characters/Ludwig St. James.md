@@ -64,8 +64,13 @@ Was present, alongside [[Tirian Dawnmere]], [[Lumiere Ameris]], [[Damian Grimm]]
 - [[Corvin Ashe]] — recruited him into [[House St. James]]'s service after recognizing his talent; later recommended him to Tirian as an advisor for [[House Dawnmere]]
 - [[Damian Grimm]] — a little jealous of him and somewhat wary; noted in Session 5 that Damian glancing at Kieran was "the first time he'd ever looked at anyone like that"
 - [[House St. James]] — his noble house
+- [[Lucius Raymor]] — fellow Chosen; teased him about Orelia; grew up hearing "why can't you be more like Lucius"
+- [[Kaisel Irvenest]] — fellow Chosen; affectionately told him "never change, Kaisel"
+- [[Lucas Lyons]] — fellow Chosen; said Lucas deserved the glass from Kaisel
 
 ## Story
+
+**Session 1 (Campaign 2):** Attended a round-table meeting of the [[Chosen]] called by [[Lumiere Ameris]], alongside [[Aevos]], [[Kaisel Irvenest]], [[Lucius Raymor]], and [[Lucas Lyons]]. Said Lucas deserved the glass Kaisel threw at him. Commented on Lucius's relationship with [[Orelia Greenleaf]]. Mentioned [[Lanius]] leaving in relation to Jean. Needed to deal with [[Honest Hearts]] business after the meeting. Told Kaisel: "Never change, Kaisel."
 
 **Session 8:** Was terrified and out of his element when [[Hannibal]] and the Warden appeared — reached for his sword with a trembling hand and prayed to Mara. [[Solstice Shuriv]] grabbed his arm and told him to relax. Later sat with [[Lucius Raymor]] and [[Aella Galefri]] in the courtyard. His sword literally fell to the ground when Aella told them Kieran is dead; he fell out of his chair. Joked about Lucius's Elvish princess to deflect the mood; got called "nun-fucker" by Aella. Mentioned that [[Lumiere Ameris]], "the older Morningstar" *(likely [[Karsus Morningstar]])*, and "the Lionheart" (blonde, very confident — "Lion Boy") are all coming back. Put his faith in Lucerin as the one who can save the country. Briefly tried to get Aella to say why she came back to Brittania — she deflected. Ran back to invite Solstice for drinks before leaving to meet the High Septon with the other Chosens.
 

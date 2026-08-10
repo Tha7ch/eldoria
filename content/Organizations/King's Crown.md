@@ -16,7 +16,7 @@ King's Crown is the ruling council of [[Brittania]], identified by a six-pronged
 - [[Archibald Howell]] — The High Septon; pope-like religious authority; monetized the four major churches and placed noble families in control of them
 - [[Veritas Aletheia]] — The Grand Arbiter; wields a manifesting scale
 - [[Oldric Ameris]] — The Warmaster; High General of the Brittanian Army
-- [[Elric Fletcher]] — The Archmaester; the warmest of the council members
+- [[Elric Fletcher]] — The Archmaester; master of healing arts; the warmest of the council members
 - [[Manuel]] — The Lord Protector; recently inducted in place of someone unknown
 - *Unknown* — the sixth member, currently away
 

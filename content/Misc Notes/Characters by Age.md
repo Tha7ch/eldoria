@@ -40,6 +40,7 @@ title: "Characters by Age"
 | 22  | [[Whiro Galefri]]        | Aella's stepbrother                                                                                                                             |
 | 21  | [[Aella Galefri]]        | Campaign 1 PC                                                                                                                                   |
 | 21  | [[Ludwig St. James]]     | Heir to House St. James, Chosen of Mara                                                                                                         |
+| 20  | [[Lucas Lyons]]          | "The Lionheart," Chosen of Helios, one of the ten strongest                                                                                     |
 | 20  | [[Kaisel Irvenest]]      | Campaign 2 PC                                                                                                                                   |
 | 20  | [[Callum]]               | Campaign 2 PC                                                                                                                                   |
 | 19  | [[Cyris Voss]]           | Campaign 1 PC                                                                                                                                   |

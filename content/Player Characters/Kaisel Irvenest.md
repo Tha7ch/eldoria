@@ -92,6 +92,10 @@ He carries only two possessions from his birth family: a longsword of unknown ma
 - [[Whiro Galefri]] — was an asshole to Kaisel when Kaisel was 7 (Whiro 9); by the time Kaisel was 11 and Whiro 13 they became genuine friends — close for about nine years
 - [[Veyr]] — information broker operating out of [[The Old Bathhouse]] in [[Black Lantern Row]]; only person to seriously investigate Aella's disappearance before Kaisel; pointed him toward House Galefri as the likely origin of the conspiracy; he found her sister [[Mira]] and brought back her journal
 - [[Kane Orso]] — trafficker Kaisel confronted at [[The Crooked Boar]] while searching for leads on Aella; gave up Veyr's name; left alive
+- [[Lucas Lyons]] — tension; Lucas asked about his sister [[Elizabeth Irvenest]], and Kaisel threw a glass at his head for it
+- [[Aevos]] — fellow Chosen; constant banter and teasing; Aevos fist-bumped him after the glass-throw on Lucas
+- [[Lumiere Ameris]] — fellow Chosen; respects his authority; backed him when he told Aevos to listen
+- [[Ludwig St. James]] — fellow Chosen; Ludwig told him "never change, Kaisel"
 
 ## Inspirations
 
@@ -118,7 +122,7 @@ In exchange for the information, Veyr asked him to check on her sister [[Mira]],
 
 He returned to the Irvenest estate to find that [[House Dawnmere]] had been slaughtered three days earlier. [[Finn Dawnmere]] was dead. He found [[Tirian Dawnmere]] at the estate — present but broken, visibly destroyed. The two losses — Aella gone at 12, Finn dead at 17 — bracket his adolescence.
 
-*(Campaign 2 has not yet begun.)*
+**Session 1:** Attended a round-table meeting of the Chosen, called by [[Lumiere Ameris]], alongside [[Ludwig St. James]], [[Aevos]], and [[Lucius Raymor]]. [[Wylder]] told him to "be a bit careful." Was visibly shocked to learn [[Aella Galefri]] had returned to Brittania — Lucius offered to help him find her. Bantered with the group; threw a glass at [[Lucas Lyons]] when Lucas asked about his sister [[Elizabeth Irvenest]]. Aevos fist-bumped him for it.
 
 ## Build
 

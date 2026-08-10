@@ -67,6 +67,8 @@ The [[House Atreides]] line is descended from King [[Arthur Atreides]] of the An
 
 ## Story
 
+**Session 1 (Campaign 2, mentioned only):** [[Lucius Raymor]] told [[Tirian Dawnmere]] that Lucerin "does not have Leo's firm hand" over the [[Archibald Howell|High Septon]] — "he is but a child."
+
 **Session 9:** Seen briefly in the throne room. Greeted Kip warmly. Watched in confusion as Lucas Lyons knelt and offered him his sword — told Kip not to be mean about it. Told Manuel he hadn't seen Damian, but said he'd heard from the maids that Damian had been going to the crypts often.
 
 **Session 8:** Was in the path of [[Hannibal]] and the Warden. Pulled out of [[Solstice Shuriv]]'s bag by the collar when she grabbed him to keep him safe. When Hannibal noted Solstice's interest in him, Solstice deflected — said it was just a "globe, for my collection," about the bag. Carried to safety. Later received the group in the throne room alongside [[Kylo Wisemoon]]. [[Ludwig St. James]] expressed faith in his ability to save Brittania.

@@ -36,7 +36,7 @@ End the classism of [[Brittania]]. Dismantle the systems that let the powerful e
 - [[Lanius]] — chosen of Veyrana, brawler fighter
 - [[Roland Royce]] — acting chief; runs the organization day-to-day
 - [[Vernan Hawkes]] — field operative and intelligence runner; joined at age 20, trained by the Front
-- [[Samson Lionheart]] — *(role unknown)*
+- [[Samson Bloodmane]] — leonin barbarian, recruited by Lanius for his strength
 - [[Typhus Usuar]] — *(role unknown)*
 - [[Rozetta]] — *(role unknown)*
 - [[Yoichi Venne]] — *(role unknown)*
@@ -55,3 +55,7 @@ Founded approximately **4 years ago** by people patrolling the slums against mis
 
 - [[Brittania]] — in opposition to its ruling establishment
 - [[King's Crown]] — likely their primary target *(unconfirmed)*
+
+## Session Appearances
+
+- [[Campaign 2 - Session 01 (08-09)|Session 1 (C2)]] — [[Roland Royce]] briefed [[Vernan Hawkes]] and [[Callum]] separately at a bar on the upcoming gala infiltration. All Front sources went dark after the parade attack — "they're rooting us out." Roland and [[Lanius]] have a mysterious associate that only they have spoken to. [[Lanius]] is away "helping those he can." [[Samson Bloodmane]] started a fight after the meetings.

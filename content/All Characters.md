@@ -53,6 +53,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <a class="char-card" href="characters/elric-fletcher"><img src="portraits/elric-fletcher.webp" alt="Elric Fletcher" loading="lazy"><div class="char-card-text"><div class="char-card-name">Elric Fletcher</div><div class="char-card-role">The Archmaester</div></div></a>
 <a class="char-card" href="characters/kingsguard/manuel"><img src="portraits/manuel.webp" alt="Manuel" loading="lazy"><div class="char-card-text"><div class="char-card-name">Manuel</div><div class="char-card-role">The Lord Protector</div></div></a>
 <a class="char-card" href="characters/lucerin-atreides"><img src="portraits/lucerin-atreides.webp" alt="Lucerin Atreides" loading="lazy"><div class="char-card-text"><div class="char-card-name">Lucerin Atreides</div></div></a>
+<a class="char-card" href="characters/pollux-and-castor"><img src="portraits/placeholder.svg" alt="Pollux and Castor" loading="lazy"><div class="char-card-text"><div class="char-card-name">Pollux and Castor</div></div></a>
 </div>
 
 ## Noble Houses
@@ -227,6 +228,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <a class="char-card" href="characters/lanius"><img src="portraits/lanius.webp" alt="Lanius" loading="lazy"><div class="char-card-text"><div class="char-card-name">Lanius</div><div class="char-card-role">head of the organization</div></div></a>
 <a class="char-card" href="characters/roland-royce"><img src="portraits/roland-royce.webp" alt="Roland Royce" loading="lazy"><div class="char-card-text"><div class="char-card-name">Roland Royce</div><div class="char-card-role">acting chief</div></div></a>
 <a class="char-card" href="player-characters/vernan-hawkes"><img src="portraits/vernan-hawkes.webp" alt="Vernan Hawkes" loading="lazy"><div class="char-card-text"><div class="char-card-name">Vernan Hawkes</div><div class="char-card-role">field operative and intelligence runner</div></div></a>
+<a class="char-card" href="characters/samson-bloodmane"><img src="portraits/samson-bloodmane.webp" alt="Samson Bloodmane" loading="lazy"><div class="char-card-text"><div class="char-card-name">Samson Bloodmane</div><div class="char-card-role">leonin barbarian, recruited by Lanius for his strength</div></div></a>
 <a class="char-card" href="player-characters/callum"><img src="portraits/callum.webp" alt="Callum" loading="lazy"><div class="char-card-text"><div class="char-card-name">Callum</div><div class="char-card-role">collaborator</div></div></a>
 </div>
 

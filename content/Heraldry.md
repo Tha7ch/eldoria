@@ -39,6 +39,7 @@ title: "Heraldry & Orders"
 <a class="her-card" href="organizations/churches/church-of-the-sky"><span class="her-name">Church of the Sky</span><span class="her-line">One of the four major churches of Brittania.</span></a>
 <a class="her-card" href="organizations/churches/church-of-the-storm"><span class="her-name">Church of the Storm</span><span class="her-head">Torr Galefri</span><span class="her-line">One of the four major churches of Brittania.</span></a>
 <a class="her-card" href="organizations/pantheon-of-gods"><span class="her-name">Pantheon of Gods</span><span class="her-head">Aria</span><span class="her-line">The Pantheon of Gods is the collective body of thirteen deities worshipped across Eldoria.</span></a>
+<a class="her-card" href="organizations/the-chosen"><span class="her-name">The Chosen</span><span class="her-line">The Chosen are mortals selected by the gods of the Pantheon of Gods to serve as their earthly…</span></a>
 </div>
 
 <div class="ornate-head">⸻ Factions & Guilds ⸻</div>
