@@ -16,12 +16,6 @@ They overlook thousands of commoners. [[Lucerin Atreides]] is on a float, surrou
 
 Lucerin stands up and is about to speak.
 
-**Explosions.** An attack begins.
-
-Seros gets blown off the building. Aella uses her spear and casts Feather Fall on him — he doesn't take the full fall damage.
-
-**Seros**: "Thanks, Aella."
-
 Three grappling hooks latch onto the roof as assassins climb up.
 
 **Aella**: "You got my back, I got yours."

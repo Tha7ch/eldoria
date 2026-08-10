@@ -244,7 +244,7 @@ Roland mentions he and Lanius have an associate that will be sneaking into the g
 
 **Roland**: "You as well, Samson."
 
-**Roland**: "When we send our person in, we don't want to send him alone. You seem to be a natural at sneaking in. We want you to shadow him. If you can get close to the [[Archibald Howell|High Septon]], while avoiding his knights — [[Pollux and Castor]] — we would appreciate any information on his dealings or plans the noble families have."
+**Roland**: "When we send our person in, we don't want to send him alone. You seem to be a natural at sneaking in. We want you to shadow him. If you can get close to the [[Archibald Howell|High Septon]], while avoiding his knights — [[Pollux]] and [[Castor]] — we would appreciate any information on his dealings or plans the noble families have."
 
 **Roland**: "All of our sources went dark after the attack on the king."
 
@@ -348,7 +348,7 @@ At the same bar, [[Callum]] strolls over to the same table around a half hour la
 
 **Callum**: "If you want me to do another job, what's it about?"
 
-**Roland**: "We need eyes and ears on the Septon while you're there. [[Pollux and Castor]], his primary guards — the sun and moon knight — they'll be there watching and close to him, so it will be difficult."
+**Roland**: "We need eyes and ears on the Septon while you're there. [[Pollux]] and [[Castor]], his primary guards — the sun and moon knight — they'll be there watching and close to him, so it will be difficult."
 
 **Callum**: "I've been happy to kill who needs to die, steal whatever — this isn't exactly my wheelhouse."
 

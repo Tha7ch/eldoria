@@ -44,12 +44,12 @@ Loud, aggressive, and always looking for a fight. Draws attention to himself con
 
 ## History
 
-From a noble line of leonin in [[Elsweyr]]. His people are fairly nomadic, and he grew up in a pride where fighting was constant. Was sought out and recruited by [[Lanius]] specifically for his strength. Has fought [[Damian Grimm]] at some point and considers him a worthy opponent.
+From a noble line of leonin in [[Elsweyr]]. His people are fairly nomadic, and he grew up in a pride where fighting was constant. When [[Lanius]] came to recruit him, Samson laughed him off and dismissed the Liberation Front as a "silly little group." But Lanius's resolve was unmistakable, so Samson offered him a challenge: beat him in a fight, and he'd join. Lanius did not win — the fight ended in a stalemate. But the strength Lanius displayed was enough. Samson chose to join him regardless. Has also fought [[Damian Grimm]] at some point and considers him a worthy opponent.
 
 ## Relationships
 
 - [[The People's Liberation Front of Brittania]] — member
-- [[Lanius]] — recruited him for his strength; Samson respects him
+- [[Lanius]] — challenged Lanius to a fight when recruited; Lanius stalemated him, earning Samson's respect and loyalty
 - [[Roland Royce]] — works alongside him in the Front
 - [[Vernan Hawkes]] — fellow Front member; initially skeptical of Vernan's skill
 - [[Callum]] — Front-adjacent operative; Samson was antsy during Callum's briefing

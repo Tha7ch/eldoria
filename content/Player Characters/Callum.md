@@ -69,11 +69,11 @@ Members of the Front have taken to calling him "Sword of Roland" — a nickname 
 - [[Roland Royce]] — found him newly woken and memoryless in the crystal cave; recruited him into the fight against Brittania's corrupt systems, the choice that eventually tied him to the PLFB
 - [[The People's Liberation Front of Brittania]] — not a full member, but shares many of their goals and works with them on occasion
 - [[Karsus Morningstar]] — helping Callum get into the upcoming gala
-- [[Pollux and Castor]] — the High Septon's guards, flagged by Roland as a threat to avoid
+- [[Pollux]] and [[Castor]] — the High Septon's guards, flagged by Roland as a threat to avoid
 
 ## Story
 
-**Session 1:** Met [[Roland Royce]] and [[Samson Bloodmane]] at the same bar [[Vernan Hawkes]] had been at, roughly half an hour after Vernan left. Briefed to be eyes and ears on the [[Archibald Howell|High Septon]] at the upcoming gala. Learned an artifact will be present — he doesn't know what it looks like, but [[Karsus Morningstar|Karsus]] said he'd be able to feel it. Roland warned him about [[Pollux and Castor]], the Septon's guards. Cal doesn't know Vernan is shadowing him at the gala.
+**Session 1:** Met [[Roland Royce]] and [[Samson Bloodmane]] at the same bar [[Vernan Hawkes]] had been at, roughly half an hour after Vernan left. Briefed to be eyes and ears on the [[Archibald Howell|High Septon]] at the upcoming gala. Learned an artifact will be present — he doesn't know what it looks like, but [[Karsus Morningstar|Karsus]] said he'd be able to feel it. Roland warned him about [[Pollux]] and [[Castor]], the Septon's guards. Cal doesn't know Vernan is shadowing him at the gala.
 
 ## Build
 

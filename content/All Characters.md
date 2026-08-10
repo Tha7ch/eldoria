@@ -53,7 +53,6 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <a class="char-card" href="characters/elric-fletcher"><img src="portraits/elric-fletcher.webp" alt="Elric Fletcher" loading="lazy"><div class="char-card-text"><div class="char-card-name">Elric Fletcher</div><div class="char-card-role">The Archmaester</div></div></a>
 <a class="char-card" href="characters/kingsguard/manuel"><img src="portraits/manuel.webp" alt="Manuel" loading="lazy"><div class="char-card-text"><div class="char-card-name">Manuel</div><div class="char-card-role">The Lord Protector</div></div></a>
 <a class="char-card" href="characters/lucerin-atreides"><img src="portraits/lucerin-atreides.webp" alt="Lucerin Atreides" loading="lazy"><div class="char-card-text"><div class="char-card-name">Lucerin Atreides</div></div></a>
-<a class="char-card" href="characters/pollux-and-castor"><img src="portraits/placeholder.svg" alt="Pollux and Castor" loading="lazy"><div class="char-card-text"><div class="char-card-name">Pollux and Castor</div></div></a>
 </div>
 
 ## Noble Houses
@@ -282,6 +281,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 
 <div class="char-grid">
 <a class="char-card" href="characters/alira-lyuval"><img src="portraits/alira-lyuval.webp" alt="Alira Lyuval" loading="lazy"><div class="char-card-text"><div class="char-card-name">Alira Lyuval</div></div></a>
+<a class="char-card" href="characters/castor"><img src="portraits/placeholder.svg" alt="Castor" loading="lazy"><div class="char-card-text"><div class="char-card-name">Castor</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/dorn-ashkel"><img src="portraits/dorn-ashkel.webp" alt="Dorn Ashkel" loading="lazy"><div class="char-card-text"><div class="char-card-name">Dorn Ashkel</div></div></a>
 <a class="char-card" href="characters/hannibal"><img src="portraits/hannibal.webp" alt="Hannibal" loading="lazy"><div class="char-card-text"><div class="char-card-name">Hannibal</div></div></a>
 <a class="char-card" href="characters/hero-with-no-name"><img src="portraits/placeholder.svg" alt="Hero With No Name" loading="lazy"><div class="char-card-text"><div class="char-card-name">Hero With No Name</div></div></a>
@@ -292,6 +292,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <a class="char-card" href="characters/michael-the-evangelist"><img src="portraits/michael-the-evangelist.webp" alt="Michael the Evangelist" loading="lazy"><div class="char-card-text"><div class="char-card-name">Michael the Evangelist</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/mira"><img src="portraits/placeholder.svg" alt="Mira" loading="lazy"><div class="char-card-text"><div class="char-card-name">Mira</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/nixi"><img src="portraits/placeholder.svg" alt="Nixi" loading="lazy"><div class="char-card-text"><div class="char-card-name">Nixi</div></div></a>
+<a class="char-card" href="characters/pollux"><img src="portraits/placeholder.svg" alt="Pollux" loading="lazy"><div class="char-card-text"><div class="char-card-name">Pollux</div></div></a>
 <a class="char-card" href="characters/razaar-blackwing"><img src="portraits/placeholder.svg" alt="Razaar Blackwing" loading="lazy"><div class="char-card-text"><div class="char-card-name">Razaar Blackwing</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/roland-voss"><img src="portraits/roland-voss.webp" alt="Roland Voss" loading="lazy"><div class="char-card-text"><div class="char-card-name">Roland Voss</div></div></a>
 <a class="char-card" href="characters/saelen-brightfeather"><img src="portraits/placeholder.svg" alt="Saelen Brightfeather" loading="lazy"><div class="char-card-text"><div class="char-card-name">Saelen Brightfeather</div></div></a>

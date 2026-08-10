@@ -57,8 +57,8 @@ Brutal and uncompromising. Roland is willing to do whatever it takes to change B
 - [[Callum]] — found him newly woken and memoryless beside a shattered crystal in a cave; recruited him into the fight against Brittania's corrupt systems by describing the world's brokenness and offering him a place in "we" — the choice that eventually tied Cal to the PLFB *(see [[Callum - Out of the Crystal]])*. Later arranged a transactional job for Cal in [[Thaylen]] — assassinating [[Lord Hector Vance]] in exchange for a lead on one of the relics *(see [[Callum - Sword of Roland]])*
 - [[Archibald Howell|The High Septon]] — hates him
 - [[Samson Bloodmane]] — leonin barbarian recruited by Lanius for his strength; works alongside Roland
-- [[Pollux and Castor]] — the High Septon's guards, flagged as a threat to operatives infiltrating the gala
+- [[Pollux]] and [[Castor]] — the High Septon's guards, flagged as a threat to operatives infiltrating the gala
 
 ## Story
 
-**Session 1:** Briefed [[Vernan Hawkes]] and then [[Callum]] separately at a bar. Assigned Vernan to infiltrate the upcoming gala using a ring of illusion and to shadow Callum; gave him payment, of which Vernan pushed back 20–30 gold for his family. Warned both operatives about [[Pollux and Castor]]. Revealed all Front sources went dark after the parade attack. Mentioned a mysterious associate that only he and [[Lanius]] have spoken with. When [[Samson Bloodmane]] brought up his fight with [[Damian Grimm]], Roland scowled through his bandages — "don't remind me."
+**Session 1:** Briefed [[Vernan Hawkes]] and then [[Callum]] separately at a bar. Assigned Vernan to infiltrate the upcoming gala using a ring of illusion and to shadow Callum; gave him payment, of which Vernan pushed back 20–30 gold for his family. Warned both operatives about [[Pollux]] and [[Castor]]. Revealed all Front sources went dark after the parade attack. Mentioned a mysterious associate that only he and [[Lanius]] have spoken with. When [[Samson Bloodmane]] brought up his fight with [[Damian Grimm]], Roland scowled through his bandages — "don't remind me."

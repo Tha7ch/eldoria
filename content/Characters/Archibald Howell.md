@@ -70,4 +70,4 @@ Through his spies and talks with [[Leo Atreides|the King]], the High Septon disc
 - [[Damian Grimm]] — discovered the identity of Damian's mother through spies and the King; had her killed when the King asked him to "keep her away"
 - [[Leo Atreides]] — the King asked the High Septon to keep Damian's mother away; the High Septon took it further than Leo likely intended
 - [[Lucerin Atreides]] — part of the faction attempting to control or undermine the young king
-- [[Pollux and Castor]] — his primary guards, "the sun and moon knight"
+- [[Pollux]] and [[Castor]] — his primary guards, "the sun and moon knight"

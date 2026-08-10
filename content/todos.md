@@ -15,6 +15,10 @@ Last updated: 2026-08-10
 
 *None currently. Campaign 2 Session 01 fully ingested.*
 
+## Known gaps
+
+- [x] **C2S1 raw notes lost** — original unedited session notes were overwritten during formatting without archiving first. CLAUDE.md updated with mandatory archive step (step 3 in INGEST) to prevent recurrence. 2026-08-10
+
 ---
 
 ## Contradictions to resolve
