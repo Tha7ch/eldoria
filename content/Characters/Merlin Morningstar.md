@@ -52,3 +52,7 @@ Most people treat Merlin with deference because of his family name — asskissin
 - [[The Forbidden Magics]] — wields Time magic (chronomancy), one of the forbidden magics; not a Demon General
 - [[Kronos]] — the Demon General of Time; Merlin's demonic counterpart in the mortal↔demon parallel
 - [[Strixhaven]] — student
+
+## Story
+
+**Session 10:** Present in [[Strixhaven]]'s forbidden library with [[Karsus Morningstar]] when [[Cyris Voss]] and [[Kylo Wisemoon]] arrived. Later attended the [[King's Crown]] gala briefing.

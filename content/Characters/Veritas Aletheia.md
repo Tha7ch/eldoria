@@ -49,4 +49,6 @@ Dismissive and condescending. Called Kip "goblin" without hesitation. Rolled his
 
 ## Story
 
+**Session 10:** Agreed with [[Tirian Dawnmere]] that hunting [[Lanius]] is unwise, saying the [[Archibald Howell|High Septon]] is "losing his touch." Also agreed with [[Cyris Voss]] that [[Oldric Ameris]]'s resignation from [[King's Crown]] would be unwise.
+
 **Session 9:** Present at the King's Crown meeting with the party. Identified Aella as "the Galefri girl." Called Kip "goblin" and was rebuffed by Aella. A scale manifested in front of him when he looked at the group — it didn't move in either direction. Noticed Solstice's grip on her bag and pressed her on its contents. After the meeting, adjourned it himself with a giggle and walked out — Solstice growled at him as he passed.

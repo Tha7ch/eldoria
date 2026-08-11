@@ -53,8 +53,11 @@ From [[Petalton]], a small village in [[Elsweyr]]. Got arrested for stealing.
 - [[Lucerin Atreides]] — Lucerin looked directly into Kip's soul, said "I see you, Kip" — implying something significant about Kip's potential or destiny
 - Nixi — his sister, three years younger; threatened by [[Hannibal]] by name during Session 7; Kip refused to go home because of this
 - [[Hannibal]] — Hannibal knows his sister's name and referenced alternate versions of Kip across timelines ("you're actually alive in this one")
+- **Pabu** — his best friend, a ferret
 
 ## Story
+
+**Session 10:** [[Ludwig St. James]] forgot his age ("I forgot he was 12") — corrected him: "I'm 14!" Has a best friend named Pabu, a ferret, who has been living in [[Honest Hearts|Ludwig's guild hall]]. Called Ludwig "Mudwig," which Ludwig took great offense to — Kip said he had a friend who went by the same name.
 
 **Session 9:** Called "goblin" by the Grand Arbiter in the King's Crown meeting — stared at the ceiling and ignored the men talking at him while Aella defended him. Said "No thanks, not anymore" when the Archmaester offered medical help. Greeted Lucerin casually in the throne room ("Hey, Lucerin"). Said Lucas "looks stupid" when he knelt with his sword — was told not to be mean by Lucerin; responded "just being honest." Noted the gala "doesn't seem like my kind of place." Was present in the crypts when Damian was found.
 

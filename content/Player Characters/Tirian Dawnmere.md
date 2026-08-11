@@ -4,6 +4,7 @@ aliases:
   - "Noctis"
 type: "player-character"
 campaign:
+  - "1"
   - "2"
 player: "Trace"
 race: "Human"
@@ -21,7 +22,7 @@ title: "Tirian Dawnmere"
 <aside class="infobox">
 <img src="../portraits/tirian-dawnmere.webp" alt="Tirian Dawnmere">
 <div class="infobox-name">Tirian Dawnmere</div>
-<table><tr><th>Aliases</th><td>Tirian, Noctis</td></tr><tr><th>Race</th><td>Human</td></tr><tr><th>Age</th><td>23</td></tr><tr><th>Height</th><td>6'1</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../organizations/noble-houses/house-dawnmere">House Dawnmere</a><br><a href="../locations/countries/brittania">Brittania</a><br><a href="../organizations/churches/church-of-light">Church of Light</a><br><a href="../locations/institutions/strixhaven">Strixhaven</a></td></tr><tr><th>Player</th><td>Trace</td></tr><tr><th>Campaign</th><td>2</td></tr></table>
+<table><tr><th>Aliases</th><td>Tirian, Noctis</td></tr><tr><th>Race</th><td>Human</td></tr><tr><th>Age</th><td>23</td></tr><tr><th>Height</th><td>6'1</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../organizations/noble-houses/house-dawnmere">House Dawnmere</a><br><a href="../locations/countries/brittania">Brittania</a><br><a href="../organizations/churches/church-of-light">Church of Light</a><br><a href="../locations/institutions/strixhaven">Strixhaven</a></td></tr><tr><th>Player</th><td>Trace</td></tr><tr><th>Campaign</th><td>1, 2</td></tr></table>
 </aside>
 
 
@@ -119,6 +120,8 @@ The assassins responsible are dead. The people who **ordered** the murders are n
 ## Story
 
 **Session 1:** Summoned to [[King's Crown]] on "personal matters." The [[Archibald Howell|High Septon]] claimed [[The People's Liberation Front of Brittania]] — specifically [[Roland Royce]] — killed Tirian's family, and pressed him to use his commoner connections and [[House Dawnmere]] wealth to help locate the Front ahead of the upcoming gala. Tirian refused: *"My priority is my family and their reputation, this would betray the common people. This is your job, not mine."* The Grand Arbiter backed him. Oldric Ameris told the Septon: *"No, you just want that thorn out of your side."* [[Manuel]] walked Tirian out before the yelling started. In the hallway, [[Lucius Raymor]] revealed the High Septon is trying to seize control of all four churches, leveraging public opinion against [[House Raymor]]. Lucius also mentioned [[Lumiere Ameris]] is returning soon, and that the goddess [[Aria]] told him and [[Aevos]] to protect the king and [[Orelia Greenleaf]].
+
+**Session 10 (Campaign 1):** Entered the [[King's Crown]] meeting mid-session. Challenged the [[Archibald Howell|High Septon]]'s plan to kill [[Lanius]] — asked why a Chosen of two gods isn't invited, called the Septon's plan an "improbability," and argued the gala's priority should be protecting the king. When the Septon tried to strike [[Jeane Howelle]] and [[Damian Grimm]] caught his fist, Tirian laughed and called the Septon a "dick bag." Told the room that he and [[Manuel]] are the only people who could threaten the Septon's position. Said he came to make sure the Septon couldn't do anything crazy, then left, trusting the rest to run the gala. [[Oldric Ameris|Oldric]], [[Ludwig St. James|Ludwig]], Damian, and Jeane knelt to the party — Tirian said it was unnecessary.
 
 **Backstory — the night of [[The Dawnmere Slaughter]]:** Attended a [[House Howelle]] gala celebrating [[Jeane Howelle]] and [[Lanius]]'s engagement, alongside [[Lumiere Ameris]], [[Ludwig St. James]], [[Damian Grimm]], and [[Aevos]]. Spoke briefly with Lanius about House Dawnmere's commoner relief efforts — a conversation Lanius would later carry with him. Received word of the slaughter at the gala and rode home to find his family dead. See [[Tirian - One Night]].
 

@@ -66,6 +66,8 @@ Made her mark at the Bicentennial Winter Solstice Knight's Tournament. Impaled T
 
 **Session 1 (Campaign 2):** Present at the [[King's Crown]] meeting when the [[Archibald Howell|High Septon]] pressured [[Tirian Dawnmere]] to hunt the Liberation Front. Was meek throughout the Septon's speech — visibly clenching her fist but saying nothing. There is clearly some unspoken history between her and the Septon. Tirian nodded to her on his way out.
 
+**Session 10:** Went dress shopping with [[Aella Galefri]] and [[Solstice Shuriv]]. Was embarrassed to be caught shopping. Mentioned the last time she went dress shopping was for a wedding dress. Spoke warmly of [[Lanius]]: "He was the best man to ever step into [[House Howelle]]. He was caring, endearing, terribly considerate." Said she thinks he realized noble houses were not sustainable. At the [[King's Crown]] meeting, cried out "Grandfather, no" when the [[Archibald Howell|High Septon]] ordered [[Lanius]] killed. The Septon attempted to strike her as he left — [[Damian Grimm]] caught his fist.
+
 **Session 9:** Escorted the party to the King's Crown chamber alongside Lucius and Kylo. Looked almost like a kid in front of the council — Solstice noticed she appeared meek. Received a small hug from Manuel after the council members left. Went completely still when Manuel recounted the details of the Dawnmere Slaughter in the crypts.
 
 **Session 8:** Accompanied [[Manuel]] and [[Lucius Raymor]] as part of the group escorting the king during the parade attack. Reassured the group that Damian and Kylo could handle anything. After Lucerin was secured, shot Manuel a look and offered to go check on the others — specifically calling Damian "your darling son." Went to check on Damian in the infirmary.

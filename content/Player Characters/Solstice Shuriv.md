@@ -37,7 +37,6 @@ Solstice Shuriv is a human draconic sorcerer. Cold, sharp-tongued, and highly ca
 - Pale fair skin
 - Teal/cyan eyes, heavy-lidded with dark markings permanently settled beneath them
 - Dark markings/lines running across her face and down her neck — like dark veins or arcane scarring
-- Septum ring
 - Long pointed ears
 - Slender and small, deceptively so
 - Wears a form-fitting dark bodysuit covered in intricate geometric vine-like patterning across the entire surface; a long dark flowing cloak/cape layers over it
@@ -60,6 +59,8 @@ The tribe began to collapse after **Ezil's great migration**: the dragon moved d
 - [[Lucerin Atreides]] — reluctant but warming; Lucerin says she is one of the people he trusts
 
 ## Story
+
+**Session 10:** In the palace garden, bluntly asked why [[Damian Grimm]] would care about [[Kieran Arden|Kieran]]'s death. Called the [[Archibald Howell|High Septon]] a "bitch" under her breath when he ordered [[Lanius]] killed. Challenged his authority — "the king's not exactly in charge" and "what makes you more qualified?" Went dress shopping with [[Aella Galefri]] and [[Jeane Howelle]].
 
 **Session 9:** At the King's Crown meeting, instinctively hissed when the council entered. Clicked her teeth and death-glared the Warmaster when he asked who she was — he backed off immediately. Refused to identify herself or answer the Grand Arbiter's questions about her bag. Growled at the Grand Arbiter on his way out — he simply looked down at her. Was observed by Jean and noted to have a grip on her bag. Told Kip the council were "more pretentious people" when the gala guest list was revealed. Ruffled Lucerin's head alongside Aella in the throne room. Called out Lucas for not bowing when he dismissed the party, then acknowledged him when he corrected himself.
 

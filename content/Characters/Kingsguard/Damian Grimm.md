@@ -83,6 +83,8 @@ Was present, alongside [[Tirian Dawnmere]], [[Lumiere Ameris]], [[Ludwig St. Jam
 
 ## Story
 
+**Session 10:** Learned that [[Kieran Arden|Kieran]] is dead. His face went cold. When [[Aella Galefri]] asked if he was okay, he responded with a flat "I'm fine" and walked away. [[Manuel]] later told the group "he doesn't take loss very well." At the [[King's Crown]] meeting, caught [[Archibald Howell|the High Septon]]'s fist when the Septon tried to strike [[Jeane Howelle]] — told him he "should have better manners."
+
 **Session 9:** Found by the party asleep on the floor of the castle crypts, between the graves of [[Elio Atreides]] and [[Iris Atreides]] — two of the royal children, both age 4. He had left the infirmary against medical orders and had been refusing to return for approximately two weeks. Manuel picked him up as one would a sleeping child and said "Come on, son. It's time to go."
 
 **Session 8:** Found mangled in a bloody crater — sent through several buildings by the backlash from his own spells. Barely breathing. [[Kylo Wisemoon]] said he has to pull through on his own; Healing Word from [[Aella Galefri]] did the opposite — his skin burned (confirmed blood magic incompatibility with healing spells). Carried by [[Seros Ashwalker]] back to the castle infirmary. [[Kylo Wisemoon]] is actively keeping the extent of his injuries from [[Manuel]] — "He'll lose his mind." Kylo told Cyris "he should be alright" in the throne room to keep up the cover. [[Jeane Howelle]] went to check on him.

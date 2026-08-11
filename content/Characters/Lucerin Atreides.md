@@ -69,6 +69,8 @@ The [[House Atreides]] line is descended from King [[Arthur Atreides]] of the An
 
 **Session 1 (Campaign 2, mentioned only):** [[Lucius Raymor]] told [[Tirian Dawnmere]] that Lucerin "does not have Leo's firm hand" over the [[Archibald Howell|High Septon]] — "he is but a child."
 
+**Session 10:** Was on [[Oldric Ameris|Oldric]]'s shoulders in the palace garden, chatting happily with the party. At the [[King's Crown]] meeting, when [[Cyris Voss]] asked if he agreed with the order to kill [[Lanius]]: "I don't really know, but they say he is a bad guy." Later told Cyris directly: "The bad guys. Though I don't know that Lanius is one of them. I don't agree with everything he says, but Lanius has some points."
+
 **Session 9:** Seen briefly in the throne room. Greeted Kip warmly. Watched in confusion as Lucas Lyons knelt and offered him his sword — told Kip not to be mean about it. Told Manuel he hadn't seen Damian, but said he'd heard from the maids that Damian had been going to the crypts often.
 
 **Session 8:** Was in the path of [[Hannibal]] and the Warden. Pulled out of [[Solstice Shuriv]]'s bag by the collar when she grabbed him to keep him safe. When Hannibal noted Solstice's interest in him, Solstice deflected — said it was just a "globe, for my collection," about the bag. Carried to safety. Later received the group in the throne room alongside [[Kylo Wisemoon]]. [[Ludwig St. James]] expressed faith in his ability to save Brittania.

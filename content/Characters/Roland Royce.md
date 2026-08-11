@@ -32,7 +32,7 @@ Roland Royce is a gunslinger with a cowboy aesthetic and the acting chief of [[T
 - Long dark blue-grey hair, loose and flowing, falls past the shoulders
 - Glowing green eyes — vivid, unsettling, and clearly not natural
 - Lower face entirely wrapped in white bandages from the nose down — only the eyes visible; bandaging also wraps his right leg
-- Dark, ashen skin on his exposed hands — carries an undead or cursed quality
+- Dark, ashen skin on his exposed hands
 - Wide-brimmed dark cowboy hat
 - Cream/white loose long-sleeved shirt underneath a dark charcoal vest; a cross or fleur-de-lis medallion pinned to the chest
 - Brown leather crossed bandoliers with bullet loops across the chest
@@ -40,7 +40,7 @@ Roland Royce is a gunslinger with a cowboy aesthetic and the acting chief of [[T
 - Blue-grey worn trousers
 - Brown leather boots with silver spurs
 - Carries an ornate engraved revolver — dark metal with silver detailing
-- Overall: gothic undead gunslinger — part outlaw, part something that should probably be dead
+- Overall: gothic gunslinger aesthetic — bandaged, weathered, dangerous
 
 ## Personality
 

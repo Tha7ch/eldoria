@@ -442,7 +442,7 @@ They ask Kaisel about his encounter with a demon.
 
 Kaisel is visibly shocked.
 
-**Aevos** *(whispering to Kaisel)*: "Who's this fella? Are you blushing?"
+**Aevos** *(whispering to Kaisel)*: "Who's this, Aella? Are you blushing?"
 
 **Kaisel**: "Leave me alone."
 
