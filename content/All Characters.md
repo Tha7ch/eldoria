@@ -17,7 +17,6 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <a class="char-card" href="player-characters/kip"><img src="portraits/kip.webp" alt="Kip" loading="lazy"><div class="char-card-text"><div class="char-card-name">Kip</div><div class="char-card-role">Played by Matthew</div></div></a>
 <a class="char-card" href="player-characters/seros-ashwalker"><img src="portraits/seros-ashwalker.webp" alt="Seros Ashwalker" loading="lazy"><div class="char-card-text"><div class="char-card-name">Seros Ashwalker</div></div></a>
 <a class="char-card" href="player-characters/solstice-shuriv"><img src="portraits/solstice-shuriv.webp" alt="Solstice Shuriv" loading="lazy"><div class="char-card-text"><div class="char-card-name">Solstice Shuriv</div><div class="char-card-role">Played by Sunn</div></div></a>
-<a class="char-card" href="player-characters/tirian-dawnmere"><img src="portraits/tirian-dawnmere.webp" alt="Tirian Dawnmere" loading="lazy"><div class="char-card-text"><div class="char-card-name">Tirian Dawnmere</div><div class="char-card-role">Played by Trace</div></div></a>
 </div>
 
 <div class="faction-banner">Campaign 2</div>
@@ -27,6 +26,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <a class="char-card" href="player-characters/callum"><img src="portraits/callum.webp" alt="Callum" loading="lazy"><div class="char-card-text"><div class="char-card-name">Callum</div><div class="char-card-role">Played by Bonner</div></div></a>
 <a class="char-card" href="player-characters/garrick"><img src="portraits/garrick.webp" alt="Garrick" loading="lazy"><div class="char-card-text"><div class="char-card-name">Garrick</div><div class="char-card-role">Played by Gio</div></div></a>
 <a class="char-card" href="player-characters/kaisel-irvenest"><img src="portraits/kaisel-irvenest.webp" alt="Kaisel Irvenest" loading="lazy"><div class="char-card-text"><div class="char-card-name">Kaisel Irvenest</div><div class="char-card-role">Played by Tre</div></div></a>
+<a class="char-card" href="player-characters/tirian-dawnmere"><img src="portraits/tirian-dawnmere.webp" alt="Tirian Dawnmere" loading="lazy"><div class="char-card-text"><div class="char-card-name">Tirian Dawnmere</div><div class="char-card-role">Played by Trace</div></div></a>
 <a class="char-card" href="player-characters/vernan-hawkes"><img src="portraits/vernan-hawkes.webp" alt="Vernan Hawkes" loading="lazy"><div class="char-card-text"><div class="char-card-name">Vernan Hawkes</div><div class="char-card-role">Played by Viz</div></div></a>
 </div>
 

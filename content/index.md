@@ -26,6 +26,7 @@ title: "The Eldoria Expanse"
 <a class="party-card" href="player-characters/callum"><img src="portraits/callum.webp" alt="Callum" loading="lazy"><span>Callum</span></a>
 <a class="party-card" href="player-characters/garrick"><img src="portraits/garrick.webp" alt="Garrick" loading="lazy"><span>Garrick</span></a>
 <a class="party-card" href="player-characters/kaisel-irvenest"><img src="portraits/kaisel-irvenest.webp" alt="Kaisel Irvenest" loading="lazy"><span>Kaisel</span></a>
+<a class="party-card" href="player-characters/tirian-dawnmere"><img src="portraits/tirian-dawnmere.webp" alt="Tirian Dawnmere" loading="lazy"><span>Tirian</span></a>
 <a class="party-card" href="player-characters/vernan-hawkes"><img src="portraits/vernan-hawkes.webp" alt="Vernan Hawkes" loading="lazy"><span>Vernan</span></a>
 </div>
 
