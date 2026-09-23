@@ -59,4 +59,6 @@ He is smart, highly charismatic, and exceptionally wise — the kind of person w
 
 ## Story
 
+**Session 11:** Attended the King's Crown Gala with his family; [[Cyris Voss]] sat with them at dinner. Danced with Amara Velmont.
+
 **Session 10:** Met [[Cyris Voss]] and [[Kylo Wisemoon]] in [[Strixhaven]]'s forbidden library. Analyzed the forbidden magic that silenced Kylo's Wish spell — identified it as a user capable of nullifying spells while leaving the caster with the aftershock. When told the name "Hannibal," his expression stayed blank: "Not who I was thinking of." Muttered "it couldn't be, could it..." Revealed he personally keeps written records of forbidden magic users — "someone needs to keep track, it falls to me." Gave Cyris a gala invitation and offered to introduce him to Strixhaven's donors.

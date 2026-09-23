@@ -40,3 +40,4 @@ Raven Whitlock is the current and "final" heir to [[House Whitlocke]], the moder
 
 - [[Raevyn Whitlocke]] — her ancestor; founder of The Kingsguard
 - [[House Whitlocke]] — her house
+- Samara — her mother

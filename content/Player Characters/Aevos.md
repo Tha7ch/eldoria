@@ -92,7 +92,7 @@ Sworn to uphold the [[Church of Light]]'s teachings and ideals through benevolen
 
 ## Story
 
-**Session 1:** Attended a round-table meeting of the [[Chosen]] called by [[Lumiere Ameris]], alongside [[Kaisel Irvenest]], [[Lucius Raymor]], [[Ludwig St. James]], and [[Lucas Lyons]]. Questioned whether having a 10-year-old king was wise — Lumiere shut him down. Teased Kaisel repeatedly about [[Aella Galefri]] ("your little girlfriend"). Fist-bumped Kaisel after he threw a glass at Lucas. Said Jean can't stand anyone. Offered to "blow up a few church duties" to hang out with Kaisel, but declined a bar outing — "it's NOON, Kaisel."
+**Session 1:** Attended a round-table meeting of the [[The Chosen|Chosen]] called by [[Lumiere Ameris]], alongside [[Kaisel Irvenest]], [[Lucius Raymor]], [[Ludwig St. James]], and [[Lucas Lyons]]. Questioned whether having a 10-year-old king was wise — Lumiere shut him down. Teased Kaisel repeatedly about [[Aella Galefri]] ("your little girlfriend"). Fist-bumped Kaisel after he threw a glass at Lucas. Said Jean can't stand anyone. Offered to "blow up a few church duties" to hang out with Kaisel, but declined a bar outing — "it's NOON, Kaisel."
 
 ## Build
 

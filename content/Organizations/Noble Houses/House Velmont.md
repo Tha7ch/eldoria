@@ -14,3 +14,5 @@ House Velmont is a Brittanian noble house. [[Aeron Velmont]] is a member and rep
 ## Known Members
 
 - [[Aeron Velmont]] — assigned to the party (Session 9)
+- [[Amara Velmont]] — family member; attended the King's Crown Gala
+- [[Rhys Velmont]] — reassigned back to the house; known to [[Lumiere Ameris]]

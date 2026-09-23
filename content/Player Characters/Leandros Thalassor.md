@@ -50,7 +50,13 @@ Heroic sea-brat with a soft-hearted menace streak. **Cocky, flirty, and ambitiou
 
 He acts like he only wants freedom, adventure, glory, and money — but when people are in danger, he does the right thing. He hates being controlled by captains, kings, tyrants, slavers, corrupt nobles, or even gods.
 
-## History — The Pact
+## History
+
+Leo grew up in a tiny fishing village — a nowhere place he hated from the moment he was old enough to see how small it was. No glory, no adventure, no future worth staying for. He snuck out one night, stowed away on a visiting ship, and never went back. He became a pirate in pursuit of glory, carving his own path through less than noble methods.
+
+People often assume Leandros is a runaway noble or something along those lines — his charm, his bearing, and the way he carries himself all suggest someone born into privilege. He isn't. He's a poor kid who left home and built everything he has from nothing.
+
+### The Pact
 
 Leo was aboard a ship caught in a storm that should not have existed — black clouds, green lightning, waves like cathedral walls, and a voice singing beneath the thunder. The ship broke apart in the dark. He was dragged under, lungs burning, body crushed by cold, sinking into water so deep it felt like falling through the sky.
 

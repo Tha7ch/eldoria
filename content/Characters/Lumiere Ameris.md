@@ -65,6 +65,7 @@ Was present, alongside [[Tirian Dawnmere]], [[Ludwig St. James]], [[Damian Grimm
 - [[Tirian Dawnmere]] — friend; the two were part of the same circle alongside [[Gideon Atreides]]; gifted him the Lunar Rapier. Their friendship is genuine but carries a quiet awkwardness — both were closer to Gideon than they were to each other, and his absence left a void between them neither has quite filled
 - [[Gideon Atreides]] — closest friend of the trio; killed in the Assassination of the Royal Family. Gideon was the heart of the group — the one who held Lumiere and Tirian together as much as he held them individually. His loss changed the shape of everything
 - [[Oldric Ameris]] — father; also his superior as War Master of [[King's Crown]] and High General of the Brittanian Army
+- [[Rosalina Ameris]] — sister; a magical genius in her own right, though not as strong as Lumiere
 - [[Lucerin Atreides]] — cousin; King of Brittania
 - [[Leo Atreides]] — uncle *(deceased)*
 - [[Damian Grimm]] — cousins; one of the few people who treated Damian as a human being rather than a bastard; their bond is close, almost brotherly
@@ -72,7 +73,10 @@ Was present, alongside [[Tirian Dawnmere]], [[Ludwig St. James]], [[Damian Grimm
 - [[Lucius Raymor]] — fellow Chosen; both attend the round-table meetings
 - [[Kaisel Irvenest]] — fellow Chosen; Lumiere finds his energy endearing ("never change, Kaisel" energy)
 - [[Aevos]] — fellow Chosen; shut him down when he questioned Lucerin's fitness to rule
+- [[Raven Whitlock]] — danced together at the King's Crown Gala
 
 ## Story
 
-**Session 1 (Campaign 2):** Called a round-table meeting of the [[Chosen]] — [[Ludwig St. James]], [[Aevos]], [[Kaisel Irvenest]], [[Lucius Raymor]], and [[Lucas Lyons]]. His goddess [[Luna]] warned him of danger. He and Lucas saw demonic things while traveling together — possessions, and artifacts carrying demonic power dating to roughly 3,000 years ago, the era of the all-out war between the celestial realm, the abyss, and the mortal realm. Shut down Aevos when he questioned whether a 10-year-old king was wise: *"That is our king, mind your mouth when you speak of him."* Left to visit [[Tirian Dawnmere]], [[Lucerin Atreides]], and the [[Archibald Howell|High Septon]].
+**Session 11:** Introduced to the full party at the [[Honest Hearts]] guild hall. Greeted [[Aeron Velmont]], asking after [[Rhys Velmont|Rhys]] and his parents. Caught up with [[Aella Galefri]] about her time in [[Elsweyr]] and mentioned [[Kaisel Irvenest|Kaisel]] was excited she's back. Met [[Solstice Shuriv]] and [[Kip]] — impressed to learn Kip can turn into a young silver dragon. Met [[Seros Ashwalker]] and thanked him for protecting his cousin, [[Lucerin Atreides]]. Announced that he, [[Ludwig St. James|Ludwig]], and two others would be the only ones guarding Lucerin at the gala, and that [[Jeane Howelle|Jean]] would be in attendance via her fiancé's invitation. Danced with [[Raven Whitlock]] at the gala.
+
+**Session 1 (Campaign 2):** Called a round-table meeting of the [[The Chosen|Chosen]] — [[Ludwig St. James]], [[Aevos]], [[Kaisel Irvenest]], [[Lucius Raymor]], and [[Lucas Lyons]]. His goddess [[Luna]] warned him of danger. He and Lucas saw demonic things while traveling together — possessions, and artifacts carrying demonic power dating to roughly 3,000 years ago, the era of the all-out war between the celestial realm, the abyss, and the mortal realm. Shut down Aevos when he questioned whether a 10-year-old king was wise: *"That is our king, mind your mouth when you speak of him."* Left to visit [[Tirian Dawnmere]], [[Lucerin Atreides]], and the [[Archibald Howell|High Septon]].

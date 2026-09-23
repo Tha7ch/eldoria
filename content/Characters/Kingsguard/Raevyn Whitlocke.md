@@ -25,6 +25,7 @@ title: "Raevyn Whitlocke"
 
 
 ![[Raevyn Whitlocke (4x5 Portrait).webp|350]] ![[Raevyn Whitlocke (Reference).webp|350]]
+![[Raevyn Whitlocke (Close-Up Eye Shot).webp|350]] ![[Raevyn Whitlocke (Close-Up Eye Shot Downward Look).webp|350]]
 
 ## Overview
 

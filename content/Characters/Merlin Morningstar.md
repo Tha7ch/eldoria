@@ -55,4 +55,6 @@ Most people treat Merlin with deference because of his family name — asskissin
 
 ## Story
 
+**Session 11:** Attended the King's Crown Gala with the Morningstar family. Giggled with [[Cyris Voss]] about [[Seros Ashwalker|Seros]] asking [[Jeane Howelle|Lady Jean]] to dance.
+
 **Session 10:** Present in [[Strixhaven]]'s forbidden library with [[Karsus Morningstar]] when [[Cyris Voss]] and [[Kylo Wisemoon]] arrived. Later attended the [[King's Crown]] gala briefing.

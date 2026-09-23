@@ -62,6 +62,8 @@ Following the [[Assassination of the Royal Family]], which killed his brother Le
 
 ## Story
 
+**Session 11:** Seated at the King's Crown Gala with [[Lumiere Ameris]], [[Raven Whitlock]], and Samara.
+
 **Session 1 (Campaign 2):** Present at the [[King's Crown]] meeting when the [[Archibald Howell|High Septon]] pressured [[Tirian Dawnmere]] to hunt the Liberation Front. Backed Tirian and called out the Septon: *"No, you just want that thorn out of your side."*
 
 **Session 10:** At the [[King's Crown]] meeting, proposed making the party **knights of the realm** — recognized protectors of the king and the innocent. Took off his King's Crown pin and threw it on the table, announcing his resignation. [[Cyris Voss]] and [[Veritas Aletheia]] called it unwise. [[Tirian Dawnmere]] warned that whoever speaks the most would fill the vacancy — the Septon. Oldric reversed his decision: "Then I will stay" — for [[Lucerin Atreides|Lucerin]]. Mentioned [[Lumiere Ameris]] returning and that Lumiere initially had a claim to the throne. Had Lucerin on his shoulders in the garden earlier.

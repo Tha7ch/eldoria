@@ -4,7 +4,7 @@ aliases:
 type: "player-character"
 campaign:
   - "1"
-player: "unknown"
+player: "Khris"
 race: "unknown"
 age: "unknown"
 height: "6'1"
@@ -17,7 +17,7 @@ title: "Seros Ashwalker"
 <aside class="infobox">
 <img src="../portraits/seros-ashwalker.webp" alt="Seros Ashwalker">
 <div class="infobox-name">Seros Ashwalker</div>
-<table><tr><th>Aliases</th><td>Seros</td></tr><tr><th>Height</th><td>6'1</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../organizations/honest-hearts">Honest Hearts</a></td></tr><tr><th>Campaign</th><td>1</td></tr></table>
+<table><tr><th>Aliases</th><td>Seros</td></tr><tr><th>Height</th><td>6'1</td></tr><tr><th>Status</th><td>alive</td></tr><tr><th>Affiliation</th><td><a href="../organizations/honest-hearts">Honest Hearts</a></td></tr><tr><th>Player</th><td>Khris</td></tr><tr><th>Campaign</th><td>1</td></tr></table>
 </aside>
 
 
@@ -54,6 +54,8 @@ From [[The Badlands]]. Has a criminal past he doesn't advertise. Joined [[Honest
 - [[Honest Hearts]] — member; the reason he's in Brittania
 
 ## Story
+
+**Session 11:** Met [[Lumiere Ameris]] at the guild hall, shaking his hand firmly and introducing himself simply as "Just Seros." At the gala, pounded his drink and walked up to ask [[Jeane Howelle|Lady Jean]] to dance — she accepted. Gave the party a big thumbs up before stepping onto the dance floor. Stepped on her feet a little, but it wasn't a complete disaster.
 
 **Session 8:** Carried [[Kieran Arden]]'s body until [[Cyris Voss]] summoned an unseen servant to take it. Later scooped up [[Damian Grimm]] from the bloody crater and carried him back to the castle. Escorted Damian and Kieran to the infirmary with [[Kylo Wisemoon]].
 

@@ -57,6 +57,8 @@ From [[Petalton]], a small village in [[Elsweyr]]. Got arrested for stealing.
 
 ## Story
 
+**Session 11:** Met [[Lumiere Ameris]], mistakenly calling him "Looney" before landing on "Lumi." Lumiere was impressed to hear he can turn into a dragon. Gulped when [[Solstice Shuriv]] reacted to the reveal with a cold glare.
+
 **Session 10:** [[Ludwig St. James]] forgot his age ("I forgot he was 12") — corrected him: "I'm 14!" Has a best friend named Pabu, a ferret, who has been living in [[Honest Hearts|Ludwig's guild hall]]. Called Ludwig "Mudwig," which Ludwig took great offense to — Kip said he had a friend who went by the same name.
 
 **Session 9:** Called "goblin" by the Grand Arbiter in the King's Crown meeting — stared at the ceiling and ignored the men talking at him while Aella defended him. Said "No thanks, not anymore" when the Archmaester offered medical help. Greeted Lucerin casually in the throne room ("Hey, Lucerin"). Said Lucas "looks stupid" when he knelt with his sword — was told not to be mean by Lucerin; responded "just being honest." Noted the gala "doesn't seem like my kind of place." Was present in the crypts when Damian was found.

@@ -57,6 +57,8 @@ Through his spies and talks with [[Leo Atreides|the King]], the High Septon disc
 
 ## Story
 
+**Session 11:** Seated at the King's Crown Gala with [[Elizabeth Howelle]] and [[Jeane Howelle|Jean]].
+
 **Session 9:** Chaired the King's Crown meeting with the party. Showed performative warmth while simultaneously being condescending and needling. Dismissed Kylo with "you may not" mid-sentence. Pushed through Aeron Velmont's assignment over Cyris's objection, citing the king's busy schedule. Provoked the Warmaster by bringing up his son being offered the throne.
 
 **Session 10:** At the [[King's Crown]] meeting, revealed that a tavern meeting of [[The People's Liberation Front of Brittania|the Liberation Front]] with [[Roland Royce]] and [[Samson Bloodmane]] had been identified. Ordered the party to intercept and kill [[Lanius]] at the gala. [[Jeane Howelle]] cried out against it. [[Solstice Shuriv]] called him a "bitch." [[Cyris Voss]] challenged his authority. [[Tirian Dawnmere]] mocked his influence. As he left, attempted to strike Jeane across the face — [[Damian Grimm]] caught his fist and told him to have better manners. Tirian called him a "dick bag."
@@ -66,8 +68,8 @@ Through his spies and talks with [[Leo Atreides|the King]], the High Septon disc
 ## Relationships
 
 - [[King's Crown]] — member; one of the six council members
-- [[Olenna Howelle]] — his wife; connects [[House Howelle]] to King's Crown through marriage. *(Olenna had Jeane Howelle's mother with a different man before marrying the High Septon — he is not Jeane's blood grandfather.)*
-- [[Jeane Howelle]] — Olenna's step-granddaughter; Jeane hates him
+- [[Elizabeth Howelle]] — his wife; connects [[House Howelle]] to King's Crown through marriage. *(Elizabeth had Jeane Howelle's mother with a different man before marrying the High Septon — he is not Jeane's blood grandfather.)*
+- [[Jeane Howelle]] — Elizabeth's step-granddaughter; Jeane hates him
 - [[Roland Royce]] — hates him
 - [[Damian Grimm]] — discovered the identity of Damian's mother through spies and the King; had her killed when the King asked him to "keep her away"
 - [[Leo Atreides]] — the King asked the High Septon to keep Damian's mother away; the High Septon took it further than Leo likely intended

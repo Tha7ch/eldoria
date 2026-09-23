@@ -30,7 +30,8 @@ Orelia Greenleaf is a Princess of [[Valenwyth]], the elven country. She is one o
 
 ## Relationships
 
-- [[Lucius Raymor]] — romantic interest; when not needed for Kingsguard duty, Lucius visits her at Strixhaven on "official business"
+- [[Lucius Raymor]] — romantic interest; introduced to him by [[Tirian Dawnmere]] during Tirian's second year at Strixhaven. When not needed for Kingsguard duty, Lucius visits her at Strixhaven on "official business"
+- [[Tirian Dawnmere]] — introduced her to Lucius and set them up as a couple
 - [[Aria]] — instructed her Chosen ([[Lucius Raymor]] and [[Aevos]]) to protect Orelia alongside the king
 - [[House Greenleaf]] — her house; the Valenwyth emissary family in Brittania
 - [[Valenwyth]] — her home country; she is one of its princesses

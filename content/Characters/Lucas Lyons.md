@@ -58,7 +58,9 @@ Overbearing, brash, and loud — but genuinely warm beneath it. Calls Manuel "ol
 
 ## Story
 
-**Session 1 (Campaign 2):** Attended a round-table meeting of the [[Chosen]]. Reported seeing demonic possessions and artifacts carrying demonic power from roughly 3,000 years ago while traveling with [[Lumiere Ameris]]. Asked [[Kaisel Irvenest]] about his sister [[Elizabeth Irvenest]] — got a glass thrown at his head for it. [[Ludwig St. James]] said he deserved it; Lucas apologized. Has an unnamed sister, age 19. Left alongside Lumiere after the meeting.
+**Session 11:** Walked into the guild hall alongside [[Ludwig St. James]] and [[Lumiere Ameris]]. Sat at a table with Ludwig at the King's Crown Gala.
+
+**Session 1 (Campaign 2):** Attended a round-table meeting of the [[The Chosen|Chosen]]. Reported seeing demonic possessions and artifacts carrying demonic power from roughly 3,000 years ago while traveling with [[Lumiere Ameris]]. Asked [[Kaisel Irvenest]] about his sister [[Elizabeth Irvenest]] — got a glass thrown at his head for it. [[Ludwig St. James]] said he deserved it; Lucas apologized. Has an unnamed sister, age 19. Left alongside Lumiere after the meeting.
 
 **Session 9:** Appeared in the rose garden, walking up between Jean and Lucius. Called the party "nobodies" before being corrected, then knelt and pledged House Lyons to their service. Asked about Lumiere's arrival. Set out toward the crypts but did not follow the group inside.
 

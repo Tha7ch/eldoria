@@ -61,6 +61,8 @@ Manuel knows Aeron and his family, though they hadn't talked much before. [[Ludw
 
 ## Story
 
+**Session 11:** Greeted [[Lumiere Ameris]] at the guild hall. Told him [[Rhys Velmont|Rhys]] was reassigned back to the house, and that his parents are still doing well.
+
 **Session 10:** Had the jitters before being summoned to the [[King's Crown]] — constantly shifting around. Present at the garden gathering and the gala briefing.
 
 **Session 9:** Introduced by the High Septon to the party as Kieran's replacement. Assigned by King's Crown over the party's objection that the king should decide. Attended the King's Crown meeting and then immediately joined the group. Revealed the fresh scar on his face from a creature attack three days prior.

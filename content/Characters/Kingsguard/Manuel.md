@@ -59,6 +59,7 @@ When Leo fathered [[Damian Grimm]] as an illegitimate son, he entrusted the boy 
 - [[Kylo Wisemoon]] — defeated him in combat; took him as his only squire; raised him as part of his "old geezer" teaching
 - [[Lumiere Ameris]] — trained her; called her "a prodigy in anything"
 - [[The Kingsguard]] — leads the five protectors
+- [[Elizabeth Howelle]] — past lover; they parted on respectful terms. She asked him to nudge Jean toward leaving the Kingsguard
 
 ## Story
 

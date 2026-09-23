@@ -15,7 +15,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <a class="char-card" href="player-characters/cyris-voss"><img src="portraits/cyris-voss.webp" alt="Cyris Voss" loading="lazy"><div class="char-card-text"><div class="char-card-name">Cyris Voss</div><div class="char-card-role">Played by Trace</div></div></a>
 <a class="char-card" href="player-characters/kieran-arden"><img src="portraits/kieran-arden.webp" alt="Kieran Arden" loading="lazy"><div class="char-card-text"><div class="char-card-name">Kieran Arden</div><div class="char-card-role">Played by Marco</div></div></a>
 <a class="char-card" href="player-characters/kip"><img src="portraits/kip.webp" alt="Kip" loading="lazy"><div class="char-card-text"><div class="char-card-name">Kip</div><div class="char-card-role">Played by Matthew</div></div></a>
-<a class="char-card" href="player-characters/seros-ashwalker"><img src="portraits/seros-ashwalker.webp" alt="Seros Ashwalker" loading="lazy"><div class="char-card-text"><div class="char-card-name">Seros Ashwalker</div></div></a>
+<a class="char-card" href="player-characters/seros-ashwalker"><img src="portraits/seros-ashwalker.webp" alt="Seros Ashwalker" loading="lazy"><div class="char-card-text"><div class="char-card-name">Seros Ashwalker</div><div class="char-card-role">Played by Khris</div></div></a>
 <a class="char-card" href="player-characters/solstice-shuriv"><img src="portraits/solstice-shuriv.webp" alt="Solstice Shuriv" loading="lazy"><div class="char-card-text"><div class="char-card-name">Solstice Shuriv</div><div class="char-card-role">Played by Sunn</div></div></a>
 </div>
 
@@ -69,6 +69,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <div class="char-grid">
 <a class="char-card" href="characters/oldric-ameris"><img src="portraits/oldric-ameris.webp" alt="Oldric Ameris" loading="lazy"><div class="char-card-text"><div class="char-card-name">Oldric Ameris</div><div class="char-card-role">War Master of King's Crown</div></div></a>
 <a class="char-card" href="characters/lumiere-ameris"><img src="portraits/lumiere-ameris.webp" alt="Lumiere Ameris" loading="lazy"><div class="char-card-text"><div class="char-card-name">Lumiere Ameris</div><div class="char-card-role">most notable current member among the younger generation</div></div></a>
+<a class="char-card" href="characters/rosalina-ameris"><img src="portraits/placeholder.svg" alt="Rosalina Ameris" loading="lazy"><div class="char-card-text"><div class="char-card-name">Rosalina Ameris</div><div class="char-card-role">Lumiere's sister</div></div></a>
 </div>
 
 <div class="faction-banner"><a href="organizations/noble-houses/house-atreides">House Atreides</a></div>
@@ -121,7 +122,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 <div class="faction-banner"><a href="organizations/noble-houses/house-howelle">House Howelle</a></div>
 
 <div class="char-grid">
-<a class="char-card" href="characters/olenna-howelle"><img src="portraits/placeholder.svg" alt="Olenna Howelle" loading="lazy"><div class="char-card-text"><div class="char-card-name">Olenna Howelle</div><div class="char-card-role">grandmother of Jeane</div></div></a>
+<a class="char-card" href="characters/elizabeth-howelle"><img src="portraits/placeholder.svg" alt="Elizabeth Howelle" loading="lazy"><div class="char-card-text"><div class="char-card-name">Elizabeth Howelle</div><div class="char-card-role">grandmother of Jeane</div></div></a>
 <a class="char-card" href="characters/kingsguard/jeane-howelle"><img src="portraits/jeane-howelle.webp" alt="Jeane Howelle" loading="lazy"><div class="char-card-text"><div class="char-card-name">Jeane Howelle</div><div class="char-card-role">Queen's Guard of The Kingsguard</div></div></a>
 <a class="char-card" href="characters/archibald-howell"><img src="portraits/archibald-howell.webp" alt="Archibald Howell" loading="lazy"><div class="char-card-text"><div class="char-card-name">Archibald Howell</div></div></a>
 </div>
@@ -178,13 +179,16 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 
 <div class="char-grid">
 <a class="char-card" href="player-characters/aeron-velmont"><img src="portraits/aeron-velmont.webp" alt="Aeron Velmont" loading="lazy"><div class="char-card-text"><div class="char-card-name">Aeron Velmont</div><div class="char-card-role">assigned to the party (Session 9)</div></div></a>
+<a class="char-card" href="characters/backstory-npcs/amara-velmont"><img src="portraits/placeholder.svg" alt="Amara Velmont" loading="lazy"><div class="char-card-text"><div class="char-card-name">Amara Velmont</div><div class="char-card-role">family member</div></div></a>
+<a class="char-card" href="characters/backstory-npcs/rhys-velmont"><img src="portraits/placeholder.svg" alt="Rhys Velmont" loading="lazy"><div class="char-card-text"><div class="char-card-name">Rhys Velmont</div><div class="char-card-role">reassigned back to the house</div></div></a>
 </div>
 
 <div class="faction-banner"><a href="organizations/noble-houses/house-whitlocke">House Whitlocke</a></div>
 
 <div class="char-grid">
 <a class="char-card" href="characters/kingsguard/raevyn-whitlocke"><img src="portraits/raevyn-whitlocke.webp" alt="Raevyn Whitlocke" loading="lazy"><div class="char-card-text"><div class="char-card-name">Raevyn Whitlocke</div><div class="char-card-role">the original founder of the Kingsguard</div></div></a>
-<a class="char-card" href="characters/raven-whitlock"><img src="portraits/raven-whitlock.webp" alt="Raven Whitlock" loading="lazy"><div class="char-card-text"><div class="char-card-name">Raven Whitlock</div></div></a>
+<a class="char-card" href="characters/raven-whitlock"><img src="portraits/raven-whitlock.webp" alt="Raven Whitlock" loading="lazy"><div class="char-card-text"><div class="char-card-name">Raven Whitlock</div><div class="char-card-role">the current and "final" heir</div></div></a>
+<a class="char-card" href="characters/backstory-npcs/samara"><img src="portraits/placeholder.svg" alt="Samara" loading="lazy"><div class="char-card-text"><div class="char-card-name">Samara</div><div class="char-card-role">Raven's mother</div></div></a>
 </div>
 
 ## Churches
@@ -281,6 +285,7 @@ All known figures of the Eldoria Expanse, grouped by faction. Characters may app
 
 <div class="char-grid">
 <a class="char-card" href="characters/alira-lyuval"><img src="portraits/alira-lyuval.webp" alt="Alira Lyuval" loading="lazy"><div class="char-card-text"><div class="char-card-name">Alira Lyuval</div></div></a>
+<a class="char-card" href="characters/backstory-npcs/alustriel"><img src="portraits/placeholder.svg" alt="Alustriel" loading="lazy"><div class="char-card-text"><div class="char-card-name">Alustriel</div></div></a>
 <a class="char-card" href="characters/castor"><img src="portraits/placeholder.svg" alt="Castor" loading="lazy"><div class="char-card-text"><div class="char-card-name">Castor</div></div></a>
 <a class="char-card" href="characters/backstory-npcs/dorn-ashkel"><img src="portraits/dorn-ashkel.webp" alt="Dorn Ashkel" loading="lazy"><div class="char-card-text"><div class="char-card-name">Dorn Ashkel</div></div></a>
 <a class="char-card" href="characters/hannibal"><img src="portraits/hannibal.webp" alt="Hannibal" loading="lazy"><div class="char-card-text"><div class="char-card-name">Hannibal</div></div></a>

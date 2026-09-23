@@ -24,7 +24,8 @@ Military excellence. Known for producing powerful commanders.
 ## Known Members
 
 - [[Lumiere Ameris]] — military commander, 13–0 in campaigns
-- [[Oldric Ameris]] — War Master of [[King's Crown]]; High General of the Brittanian Army; born Oldric Atreides, brother of the late [[Leo Atreides]], married into House Ameris and gave up the Atreides name; father of [[Lumiere Ameris]]
+- [[Oldric Ameris]] — War Master of [[King's Crown]]; High General of the Brittanian Army; born Oldric Atreides, brother of the late [[Leo Atreides]], married into House Ameris and gave up the Atreides name; father of Lumiere and Rosalina
+- [[Rosalina Ameris]] — Lumiere's sister; a magical genius, though not as strong as Lumiere
 
 ## History
 

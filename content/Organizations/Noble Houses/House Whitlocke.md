@@ -17,6 +17,8 @@ House Whitlocke are the direct descendants of [[Raevyn Whitlocke]] — the legen
 ## Known Members
 
 - [[Raevyn Whitlocke]] — the original founder of the Kingsguard; their legendary ancestor
+- [[Raven Whitlock]] — the current and "final" heir
+- [[Samara]] — Raven's mother
 
 ## Relationships
 

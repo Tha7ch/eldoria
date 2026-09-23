@@ -70,7 +70,9 @@ Was present, alongside [[Tirian Dawnmere]], [[Lumiere Ameris]], [[Damian Grimm]]
 
 ## Story
 
-**Session 1 (Campaign 2):** Attended a round-table meeting of the [[Chosen]] called by [[Lumiere Ameris]], alongside [[Aevos]], [[Kaisel Irvenest]], [[Lucius Raymor]], and [[Lucas Lyons]]. Said Lucas deserved the glass Kaisel threw at him. Commented on Lucius's relationship with [[Orelia Greenleaf]]. Mentioned [[Lanius]] leaving in relation to Jean. Needed to deal with [[Honest Hearts]] business after the meeting. Told Kaisel: "Never change, Kaisel."
+**Session 11:** Planned to use [[Aella Galefri]] as his "date" to the gala as a way to stir the pot. Introduced the party to [[Lumiere Ameris]] at the guild hall. Danced with Alustriel at the gala.
+
+**Session 1 (Campaign 2):** Attended a round-table meeting of the [[The Chosen|Chosen]] called by [[Lumiere Ameris]], alongside [[Aevos]], [[Kaisel Irvenest]], [[Lucius Raymor]], and [[Lucas Lyons]]. Said Lucas deserved the glass Kaisel threw at him. Commented on Lucius's relationship with [[Orelia Greenleaf]]. Mentioned [[Lanius]] leaving in relation to Jean. Needed to deal with [[Honest Hearts]] business after the meeting. Told Kaisel: "Never change, Kaisel."
 
 **Session 10:** Placed his hand on [[Aella Galefri]]'s shoulder in the garden — she smacked it away and glared at him; he threw his hands up. Told Aella that [[Kaisel Irvenest]] knows she's back. Tried to get [[Kip]] and [[Aeron Velmont]] into trouble chasing "maidens" — had to adjust when he remembered Kip's age. Kip called him "Mudwig," which he took great offense to. Present at the [[King's Crown]] meeting — at the end, whispered "let's get the fuck out of here." Attended the meeting alongside [[Merlin Morningstar]], [[Lucas Lyons]], and [[Karsus Morningstar]].
 

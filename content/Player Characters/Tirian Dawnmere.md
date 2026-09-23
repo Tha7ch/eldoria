@@ -8,6 +8,7 @@ campaign:
 player: "Trace"
 race: "Human"
 age: "23"
+birthday: "December 21 (Winter Solstice)"
 height: "6'1"
 affiliation:
   - "[[House Dawnmere]]"
@@ -38,6 +39,7 @@ title: "Tirian Dawnmere"
 ![[Tirian x Amelia (Dancing Gala).webp|350]] ![[Tirian x Amelia (Flirting Gala).webp|350]] ![[Tirian breaking up with Amelia.webp|350]]
 ![[Tirian (Close-Up Eye Shot).webp|350]] ![[Tirian (Tirian and Noctis Duality).webp|350]] ![[Tirian and Karsus (Confrontation at Strixhaven).webp|350]]
 ![[Tirian (Age 11).webp|350]] ![[Tirian (Young - Aurora Display).webp|350]]
+![[Tirian (Aurora Hill).webp|350]] ![[Tirian (Aurora Hill - Grief).webp|350]]
 
 ## Overview
 
@@ -91,6 +93,7 @@ The assassins responsible are dead. The people who **ordered** the murders are n
 - [[Ludwig St. James]] — friend; Tirian treats him a bit like a younger brother
 - [[Aevos]] — friends
 - [[Amelia Irvenest]] — had a 2–3 week fling approximately two years ago (Tirian 21, Amelia 25); he ended it when he saw she was pursuing him for political gain and saw how she treated [[Kaisel Irvenest]] and commoners; told her: *"You inherited your mother's beauty, but clearly not her heart."*
+- [[Vera Justicar]] — had a secret night together; both keep it strictly hidden because Vera would face serious consequences if it were discovered. Tirian sometimes teases [[Ludwig St. James]] about it
 - [[Karsus Morningstar]] — Headmaster of [[Strixhaven]]; tried everything he could to convince Tirian not to drop out after the Dawnmere Slaughter
 - [[Archibald Howell|The High Septon]] — tried to manipulate Tirian into hunting the Liberation Front; Tirian refused
 - [[Manuel]] — walked Tirian out of the King's Crown meeting before the yelling started; warm mutual respect
@@ -117,6 +120,8 @@ The assassins responsible are dead. The people who **ordered** the murders are n
 - Investigate the [[Assassination of the Royal Family]] — his close friend [[Gideon Atreides]] was among those killed; he suspects the two events may be connected
 
 ## Story
+
+**Session 11 (Campaign 1):** Seated at the King's Crown Gala with the [[Veritas Aletheia|Grand Arbiter]] and [[Karsus Morningstar|Archmaester]].
 
 **Session 1:** Summoned to [[King's Crown]] on "personal matters." The [[Archibald Howell|High Septon]] claimed [[The People's Liberation Front of Brittania]] — specifically [[Roland Royce]] — killed Tirian's family, and pressed him to use his commoner connections and [[House Dawnmere]] wealth to help locate the Front ahead of the upcoming gala. Tirian refused: *"My priority is my family and their reputation, this would betray the common people. This is your job, not mine."* The Grand Arbiter backed him. Oldric Ameris told the Septon: *"No, you just want that thorn out of your side."* [[Manuel]] walked Tirian out before the yelling started. In the hallway, [[Lucius Raymor]] revealed the High Septon is trying to seize control of all four churches, leveraging public opinion against [[House Raymor]]. Lucius also mentioned [[Lumiere Ameris]] is returning soon, and that the goddess [[Aria]] told him and [[Aevos]] to protect the king and [[Orelia Greenleaf]].
 

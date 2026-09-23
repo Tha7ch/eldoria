@@ -72,3 +72,7 @@ Lanius is the **first person in over 3,000 years to reach the level of a First G
 - [[Vernan Hawkes]] — Front operative; trained and given field assignments by the organization Lanius leads
 - [[Samson Bloodmane]] — recruited personally; Samson laughed him off and challenged him to a fight. Lanius stalemated him, and Samson joined out of respect for his strength
 - [[Tirian Dawnmere]] — met briefly at his and Jeane's engagement gala, the night [[House Dawnmere]] was massacred. A short conversation about House Dawnmere's commoner relief efforts left an impression on him — see [[Tirian - One Night]]
+
+## Story
+
+**Session 11:** Confirmed as [[Jeane Howelle|Jean]]'s fiancé — she attended the King's Crown Gala on his invitation. Arrived late to the gala and was ambushed by four assassins. Said "I have someone important at the gala I need to get to" before they rushed him. *(Session ends mid-ambush.)*

@@ -60,6 +60,8 @@ The tribe began to collapse after **Ezil's great migration**: the dragon moved d
 
 ## Story
 
+**Session 11:** Met [[Lumiere Ameris]] at the guild hall. Glared when she learned [[Kip]] can turn into a young silver dragon — a notably sharp reaction given her own draconic heritage. Danced with [[Lucius Raymor]] at the gala.
+
 **Session 10:** In the palace garden, bluntly asked why [[Damian Grimm]] would care about [[Kieran Arden|Kieran]]'s death. Called the [[Archibald Howell|High Septon]] a "bitch" under her breath when he ordered [[Lanius]] killed. Challenged his authority — "the king's not exactly in charge" and "what makes you more qualified?" Went dress shopping with [[Aella Galefri]] and [[Jeane Howelle]].
 
 **Session 9:** At the King's Crown meeting, instinctively hissed when the council entered. Clicked her teeth and death-glared the Warmaster when he asked who she was — he backed off immediately. Refused to identify herself or answer the Grand Arbiter's questions about her bag. Growled at the Grand Arbiter on his way out — he simply looked down at her. Was observed by Jean and noted to have a grip on her bag. Told Kip the council were "more pretentious people" when the gala guest list was revealed. Ruffled Lucerin's head alongside Aella in the throne room. Called out Lucas for not bowing when he dismissed the party, then acknowledged him when he corrected himself.

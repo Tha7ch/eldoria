@@ -66,7 +66,9 @@ Son of [[Silas Raymor]] (Duke of House Raymor, formerly known as Silas the Stron
 
 ## Story
 
-**Session 1 (Campaign 2):** Walked [[Tirian Dawnmere]] out after the [[King's Crown]] meeting. Revealed the [[Archibald Howell|High Septon]] is trying to gain control of all four churches, leveraging public opinion against his parents, [[House Raymor]]. Manuel and Oldric keep the Septon from making a move. The goddess [[Aria]] told him and [[Aevos]] to protect the king and [[Orelia Greenleaf]]. Visits Orelia at [[Strixhaven]] on "official business" when he isn't needed. At a round-table meeting of the [[Chosen]], mentioned [[Aella Galefri]]'s return and the Campaign 1 party who protected the king to the other Chosen. Credits Tirian for his "teachings on women."
+**Session 11:** Asked [[Cyris Voss]] if he'd be dancing at the gala. Asked [[Solstice Shuriv]] to a dance at the gala. Got teased by [[Aella Galefri]] about his "elf princess."
+
+**Session 1 (Campaign 2):** Walked [[Tirian Dawnmere]] out after the [[King's Crown]] meeting. Revealed the [[Archibald Howell|High Septon]] is trying to gain control of all four churches, leveraging public opinion against his parents, [[House Raymor]]. Manuel and Oldric keep the Septon from making a move. The goddess [[Aria]] told him and [[Aevos]] to protect the king and [[Orelia Greenleaf]]. Visits Orelia at [[Strixhaven]] on "official business" when he isn't needed. At a round-table meeting of the [[The Chosen|Chosen]], mentioned [[Aella Galefri]]'s return and the Campaign 1 party who protected the king to the other Chosen. Credits Tirian for his "teachings on women."
 
 **Session 10:** Present in the palace garden. Likes strawberry chocolate cake.
 

@@ -67,6 +67,8 @@ The [[House Atreides]] line is descended from King [[Arthur Atreides]] of the An
 
 ## Story
 
+**Session 11:** Walked into the King's Crown Gala with the Kingsguard and gave a rousing speech — crumpled his prepared remarks partway through to speak from the heart instead. Spoke of wanting to create a free and equal society, honoring his family, and carrying his late brother's will forward. Ended nervously with "let's go dance, I guess!" Received roaring applause.
+
 **Session 1 (Campaign 2, mentioned only):** [[Lucius Raymor]] told [[Tirian Dawnmere]] that Lucerin "does not have Leo's firm hand" over the [[Archibald Howell|High Septon]] — "he is but a child."
 
 **Session 10:** Was on [[Oldric Ameris|Oldric]]'s shoulders in the palace garden, chatting happily with the party. At the [[King's Crown]] meeting, when [[Cyris Voss]] asked if he agreed with the order to kill [[Lanius]]: "I don't really know, but they say he is a bad guy." Later told Cyris directly: "The bad guys. Though I don't know that Lanius is one of them. I don't agree with everything he says, but Lanius has some points."

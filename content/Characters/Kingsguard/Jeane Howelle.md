@@ -60,9 +60,12 @@ Made her mark at the Bicentennial Winter Solstice Knight's Tournament. Impaled T
 - [[Lanius]] — grew up together; he was a ward of [[House Howelle]] and they were close. Engaged to him as of the gala the night of [[The Dawnmere Slaughter]]. She despises the [[The People's Liberation Front of Brittania]] and everything it stands for — but her love for Lanius himself has never wavered. She pointed [[Aella Galefri]] toward the PLFB to find him, which she couldn't officially do.
 - [[Damian Grimm]] — despises him
 - [[Lucas Lyons]] — can't stand him, "especially after Lanius leaving" (per [[Ludwig St. James|Ludwig]])
-- [[Archibald Howell|The High Septon]] — her grandmother [[Olenna Howelle]]'s husband, but not her blood relative — Olenna had Jeane's mother with a different man before marrying him. Jeane hates him.
+- [[Archibald Howell|The High Septon]] — her grandmother [[Elizabeth Howelle]]'s husband, but not her blood relative — Elizabeth had Jeane's mother with a different man before marrying him. Jeane hates him.
+- [[Elizabeth Howelle]] — her grandmother; wants Jean to leave the Kingsguard
 
 ## Story
+
+**Session 11:** Attended the King's Crown Gala via [[Lanius]]'s invitation, confirming their engagement is still on. Seated with the [[Archibald Howell|High Septon]] and [[Elizabeth Howelle]]. No one asked her to dance until [[Seros Ashwalker|Seros]] walked up — she accepted and danced with him.
 
 **Session 1 (Campaign 2):** Present at the [[King's Crown]] meeting when the [[Archibald Howell|High Septon]] pressured [[Tirian Dawnmere]] to hunt the Liberation Front. Was meek throughout the Septon's speech — visibly clenching her fist but saying nothing. There is clearly some unspoken history between her and the Septon. Tirian nodded to her on his way out.
 
